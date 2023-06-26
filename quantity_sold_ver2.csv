@@ -1,0 +1,3419 @@
+customer_id,product_group,product_category,product_type,Total_quantity,Total_payment
+8600,Beverages,Coffee,"Barista Espresso",2063,4332.299999999999
+8600,Food,Bakery,Scone,3287,10682.75
+6000,Beverages,Coffee,"Barista Espresso",977,2051.7
+6000,Food,Bakery,Scone,978,2591.7
+8600,Food,Bakery,Scone,64,169.60000000000002
+5033,Food,Bakery,Scone,63,166.95
+5033,Beverages,Coffee,"Barista Espresso",63,132.3
+5917,Food,Bakery,Scone,24,63.6
+5119,Beverages,Coffee,"Barista Espresso",48,100.8
+5917,Beverages,Coffee,"Barista Espresso",24,50.4
+5744,Food,Bakery,Scone,21,55.65
+5354,Food,Bakery,Scone,21,55.65
+5744,Beverages,Coffee,"Barista Espresso",21,44.1
+5354,Beverages,Coffee,"Barista Espresso",21,44.1
+5799,Food,Bakery,Scone,20,53
+5799,Beverages,Coffee,"Barista Espresso",20,42
+6000,Food,Bakery,Pastry,2308,8655
+5106,Food,Bakery,Scone,18,47.7
+5512,Food,Bakery,Scone,39,103.35
+5109,Food,Bakery,Scone,18,47.7
+5662,Food,Bakery,Scone,18,47.7
+5106,Beverages,Coffee,"Barista Espresso",18,37.8
+5512,Beverages,Coffee,"Barista Espresso",39,81.9
+5109,Beverages,Coffee,"Barista Espresso",18,37.8
+5662,Beverages,Coffee,"Barista Espresso",18,37.8
+5355,Food,Bakery,Scone,16,42.4
+8230,Food,Bakery,Scone,43,139.75
+5885,Food,Bakery,Scone,16,42.4
+5670,Food,Bakery,Scone,16,42.4
+5197,Food,Bakery,Scone,16,42.4
+5527,Food,Bakery,Scone,16,42.4
+8460,Food,Bakery,Scone,42,136.5
+5144,Food,Bakery,Scone,16,42.4
+5273,Food,Bakery,Scone,16,42.4
+8342,Food,Bakery,Scone,16,52
+5355,Beverages,Coffee,"Barista Espresso",16,33.6
+8230,Beverages,Coffee,"Barista Espresso",16,33.6
+5885,Beverages,Coffee,"Barista Espresso",16,33.6
+5670,Beverages,Coffee,"Barista Espresso",16,33.6
+5197,Beverages,Coffee,"Barista Espresso",16,33.6
+5527,Beverages,Coffee,"Barista Espresso",16,33.6
+8460,Beverages,Coffee,"Barista Espresso",16,33.6
+5144,Beverages,Coffee,"Barista Espresso",16,33.6
+5273,Beverages,Coffee,"Barista Espresso",16,33.6
+8342,Beverages,Coffee,"Barista Espresso",16,33.6
+5077,Food,Bakery,Scone,15,39.75
+8493,Food,Bakery,Scone,15,48.75
+5180,Food,Bakery,Scone,39,103.35
+5086,Food,Bakery,Scone,36,95.4
+5077,Beverages,Coffee,"Barista Espresso",15,31.5
+8493,Beverages,Coffee,"Barista Espresso",15,31.5
+5180,Beverages,Coffee,"Barista Espresso",39,81.9
+5086,Beverages,Coffee,"Barista Espresso",36,75.6
+8059,Food,Bakery,Scone,59,191.75
+5687,Food,Bakery,Scone,14,37.1
+5169,Food,Bakery,Scone,14,37.1
+5070,Food,Bakery,Scone,14,37.1
+5035,Food,Bakery,Scone,14,37.1
+5094,Food,Bakery,Scone,14,37.1
+5240,Food,Bakery,Scone,14,37.1
+8059,Beverages,Coffee,"Barista Espresso",14,29.4
+5687,Beverages,Coffee,"Barista Espresso",14,29.4
+5169,Beverages,Coffee,"Barista Espresso",14,29.4
+5070,Beverages,Coffee,"Barista Espresso",14,29.4
+5035,Beverages,Coffee,"Barista Espresso",14,29.4
+5094,Beverages,Coffee,"Barista Espresso",14,29.4
+5240,Beverages,Coffee,"Barista Espresso",14,29.4
+5045,Food,Bakery,Scone,12,31.8
+5298,Food,Bakery,Scone,34,90.1
+8346,Food,Bakery,Scone,12,39
+5034,Food,Bakery,Scone,12,31.8
+5794,Food,Bakery,Scone,12,31.8
+5220,Food,Bakery,Scone,34,90.1
+5045,Beverages,Coffee,"Barista Espresso",12,25.2
+5298,Beverages,Coffee,"Barista Espresso",34,71.4
+8346,Beverages,Coffee,"Barista Espresso",12,25.2
+5034,Beverages,Coffee,"Barista Espresso",12,25.2
+5794,Beverages,Coffee,"Barista Espresso",12,25.2
+5220,Beverages,Coffee,"Barista Espresso",34,71.4
+8421,Beverages,Coffee,"Barista Espresso",12,25.2
+5467,Food,Bakery,Scone,11,29.15
+5461,Food,Bakery,Scone,11,29.15
+5467,Beverages,Coffee,"Barista Espresso",11,23.1
+5461,Beverages,Coffee,"Barista Espresso",11,23.1
+8373,Food,Bakery,Scone,10,32.5
+8330,Food,Bakery,Scone,10,32.5
+8227,Food,Bakery,Scone,32,104
+5900,Food,Bakery,Scone,10,26.5
+8373,Beverages,Coffee,"Barista Espresso",10,21
+8330,Beverages,Coffee,"Barista Espresso",10,21
+8107,Beverages,Coffee,"Barista Espresso",10,21
+8227,Beverages,Coffee,"Barista Espresso",10,21
+5900,Beverages,Coffee,"Barista Espresso",10,21
+8138,Beverages,Coffee,"Barista Espresso",10,21
+8392,Beverages,Coffee,"Barista Espresso",10,21
+5352,Food,Bakery,Scone,9,23.85
+8078,Food,Bakery,Scone,9,29.25
+8303,Food,Bakery,Scone,9,29.25
+5906,Food,Bakery,Scone,9,23.85
+8219,Food,Bakery,Scone,34,110.5
+8066,Food,Bakery,Scone,9,29.25
+5213,Food,Bakery,Scone,9,23.85
+5484,Food,Bakery,Scone,9,23.85
+5235,Food,Bakery,Scone,30,79.5
+5352,Beverages,Coffee,"Barista Espresso",9,18.9
+8078,Beverages,Coffee,"Barista Espresso",9,18.9
+8303,Beverages,Coffee,"Barista Espresso",9,18.9
+5906,Beverages,Coffee,"Barista Espresso",9,18.9
+8219,Beverages,Coffee,"Barista Espresso",9,18.9
+8066,Beverages,Coffee,"Barista Espresso",9,18.9
+5213,Beverages,Coffee,"Barista Espresso",9,18.9
+5484,Beverages,Coffee,"Barista Espresso",9,18.9
+5235,Beverages,Coffee,"Barista Espresso",30,63
+8341,Food,Bakery,Scone,8,26
+8349,Food,Bakery,Scone,33,107.25
+8377,Food,Bakery,Scone,8,26
+8374,Food,Bakery,Scone,8,26
+5119,Food,Bakery,Scone,8,21.2
+8167,Food,Bakery,Scone,29,94.25
+8455,Food,Bakery,Scone,8,26
+8341,Beverages,Coffee,"Barista Espresso",8,16.8
+8149,Beverages,Coffee,"Barista Espresso",8,16.8
+8349,Beverages,Coffee,"Barista Espresso",8,16.8
+8377,Beverages,Coffee,"Barista Espresso",8,16.8
+8113,Beverages,Coffee,"Barista Espresso",8,16.8
+8374,Beverages,Coffee,"Barista Espresso",8,16.8
+8167,Beverages,Coffee,"Barista Espresso",8,16.8
+8455,Beverages,Coffee,"Barista Espresso",8,16.8
+5440,Food,Bakery,Scone,7,18.55
+8212,Food,Bakery,Scone,7,22.75
+8123,Food,Bakery,Scone,7,22.75
+8429,Food,Bakery,Scone,7,22.75
+8187,Food,Bakery,Scone,7,22.75
+8091,Food,Bakery,Scone,7,22.75
+5483,Food,Bakery,Scone,7,18.55
+8242,Food,Bakery,Scone,7,22.75
+5440,Beverages,Coffee,"Barista Espresso",7,14.7
+8212,Beverages,Coffee,"Barista Espresso",7,14.7
+8082,Beverages,Coffee,"Barista Espresso",7,14.7
+8123,Beverages,Coffee,"Barista Espresso",7,14.7
+8429,Beverages,Coffee,"Barista Espresso",7,14.7
+8187,Beverages,Coffee,"Barista Espresso",7,14.7
+8091,Beverages,Coffee,"Barista Espresso",7,14.7
+5483,Beverages,Coffee,"Barista Espresso",7,14.7
+8242,Beverages,Coffee,"Barista Espresso",7,14.7
+8467,Food,Bakery,Scone,6,19.5
+8117,Food,Bakery,Scone,6,19.5
+5830,Food,Bakery,Scone,6,15.9
+8474,Food,Bakery,Scone,6,19.5
+8147,Food,Bakery,Scone,6,19.5
+5490,Food,Bakery,Scone,6,15.9
+8386,Food,Bakery,Scone,6,19.5
+8442,Food,Bakery,Scone,6,19.5
+5359,Food,Bakery,Scone,6,15.9
+8421,Food,Bakery,Scone,6,15.9
+8467,Beverages,Coffee,"Barista Espresso",6,12.6
+8117,Beverages,Coffee,"Barista Espresso",6,12.6
+5830,Beverages,Coffee,"Barista Espresso",6,12.6
+8474,Beverages,Coffee,"Barista Espresso",6,12.6
+8147,Beverages,Coffee,"Barista Espresso",6,12.6
+5490,Beverages,Coffee,"Barista Espresso",6,12.6
+8386,Beverages,Coffee,"Barista Espresso",6,12.6
+8442,Beverages,Coffee,"Barista Espresso",6,12.6
+5359,Beverages,Coffee,"Barista Espresso",6,12.6
+8401,Beverages,Coffee,"Barista Espresso",6,12.6
+8030,Food,Bakery,Scone,5,16.25
+8428,Food,Bakery,Scone,5,16.25
+8348,Food,Bakery,Scone,5,16.25
+8037,Food,Bakery,Scone,5,16.25
+8221,Food,Bakery,Scone,5,16.25
+8138,Food,Bakery,Scone,5,13.25
+5175,Food,Bakery,Scone,5,13.25
+8392,Food,Bakery,Scone,5,13.25
+8030,Beverages,Coffee,"Barista Espresso",5,10.5
+8428,Beverages,Coffee,"Barista Espresso",5,10.5
+8348,Beverages,Coffee,"Barista Espresso",5,10.5
+8037,Beverages,Coffee,"Barista Espresso",5,10.5
+8221,Beverages,Coffee,"Barista Espresso",5,10.5
+5175,Beverages,Coffee,"Barista Espresso",5,10.5
+8387,Beverages,Coffee,"Barista Espresso",5,10.5
+8311,Food,Bakery,Scone,4,13
+8113,Food,Bakery,Scone,4,10.6
+8311,Beverages,Coffee,"Barista Espresso",4,8.4
+6000,Add-ons,Flavours,"Regular syrup",5787,4629.6
+8600,Add-ons,Flavours,"Regular syrup",4964,3971.2
+1000,Beverages,Tea,"Brewed herbal tea",4278,10695
+8600,Beverages,Coffee,"Barista Espresso",4241,18024.25
+8600,Beverages,Tea,"Brewed Black tea",4201,12603
+1000,Beverages,Coffee,"Barista Espresso",4190,15712.5
+1000,Beverages,Tea,"Brewed Black tea",4144,10360
+1000,Beverages,Coffee,"Barista Espresso",4135,17573.75
+6000,Beverages,Coffee,"Barista Espresso",4117,17497.25
+8600,Beverages,Coffee,"Barista Espresso",4094,15352.5
+6000,Beverages,Coffee,"Gourmet brewed coffee",4092,12276
+8600,Beverages,Tea,"Brewed Chai tea",4054,10135
+8600,Beverages,Coffee,"Gourmet brewed coffee",4030,12090
+8600,Beverages,Tea,"Brewed herbal tea",3990,11970
+8600,Beverages,Tea,"Brewed herbal tea",3970,9925
+1000,Beverages,Coffee,"Gourmet brewed coffee",3948,11844
+1000,Beverages,Tea,"Brewed Chai tea",3835,9587.5
+1000,Beverages,Tea,"Brewed herbal tea",3822,11466
+8600,Beverages,Tea,"Brewed Black tea",3799,9497.5
+8600,Beverages,Coffee,"Barista Espresso",3765,11295
+6000,Beverages,Coffee,"Barista Espresso",3714,13927.5
+6000,Beverages,Tea,"Brewed Chai tea",3693,9232.5
+6000,Beverages,Tea,"Brewed herbal tea",3681,11043
+6000,Beverages,Tea,"Brewed Black tea",3644,9110
+6000,Beverages,Tea,"Brewed herbal tea",3627,9067.5
+1000,Beverages,Tea,"Brewed Black tea",3620,10860
+6000,Beverages,Tea,"Brewed Black tea",3538,10614
+6000,Beverages,Coffee,"Barista Espresso",2958,8874
+8600,Food,Bakery,Pastry,2781,10428.75
+1000,Add-ons,Flavours,"Regular syrup",2771,2216.8
+1000,Beverages,"Drinking Chocolate","Hot chocolate",2307,10381.5
+6000,Add-ons,Flavours,"Sugar free syrup",2295,1836
+6000,Beverages,Coffee,"Premium brewed coffee",2281,8553.75
+8600,Beverages,Coffee,"Gourmet brewed coffee",2268,7938
+1000,Beverages,"Drinking Chocolate","Hot chocolate",2251,10692.25
+8600,Beverages,Coffee,"Organic brewed coffee",2236,7826
+8600,Beverages,Coffee,"Drip coffee",2210,4420
+8600,Beverages,Tea,"Brewed Green tea",2204,5510
+8600,Beverages,Coffee,"Premium brewed coffee",2203,8261.25
+1000,Beverages,Coffee,"Gourmet brewed coffee",2201,4842.2
+8600,Beverages,Coffee,"Gourmet brewed coffee",2193,4386
+1000,Beverages,Tea,"Brewed Chai tea",2172,6733.2
+8600,Beverages,Coffee,"Organic brewed coffee",2170,4774
+8600,Beverages,"Drinking Chocolate","Hot chocolate",2156,8085
+1000,Food,Bakery,Pastry,2150,8062.5
+1000,Beverages,Coffee,"Gourmet brewed coffee",2143,5357.5
+1000,Beverages,Coffee,"Drip coffee",2130,6390
+8600,Beverages,Coffee,"Drip coffee",2126,5315
+1000,Beverages,Tea,"Brewed Chai tea",2118,8472
+8600,Beverages,Coffee,"Gourmet brewed coffee",2109,4639.8
+1000,Beverages,Coffee,"Drip coffee",2103,4206
+8600,Beverages,"Drinking Chocolate","Hot chocolate",2096,9432
+1000,Beverages,Tea,"Brewed Chai tea",2087,5321.85
+8600,Beverages,Coffee,"Organic brewed coffee",2072,6216
+8600,Beverages,Coffee,"Drip coffee",2055,6165
+8600,Beverages,Tea,"Brewed Chai tea",2046,6342.6
+8600,Beverages,Tea,"Brewed Chai tea",2035,8140
+8600,Beverages,Tea,"Brewed Chai tea",2034,6102
+8600,Beverages,"Drinking Chocolate","Hot chocolate",2030,7105
+1000,Beverages,Coffee,"Barista Espresso",2030,6090
+1000,Beverages,Coffee,"Premium brewed coffee",2022,6268.2
+1000,Beverages,Tea,"Brewed Chai tea",1994,5982
+1000,Beverages,Coffee,"Organic brewed coffee",1991,5973
+6000,Beverages,Coffee,"Gourmet brewed coffee",1968,4329.6
+1000,Beverages,Coffee,"Premium brewed coffee",1966,7372.5
+8600,Beverages,Coffee,"Gourmet brewed coffee",1943,4857.5
+6000,Beverages,"Drinking Chocolate","Hot chocolate",1943,8743.5
+1000,Beverages,Coffee,"Organic brewed coffee",1933,6765.5
+6000,Beverages,Tea,"Brewed Green tea",1932,4830
+8600,Beverages,"Drinking Chocolate","Hot chocolate",1924,9139
+8600,Beverages,Tea,"Brewed Chai tea",1913,4878.15
+1000,Beverages,Coffee,"Drip coffee",1882,4705
+1000,Beverages,"Drinking Chocolate","Hot chocolate",1878,7042.5
+1000,Beverages,"Drinking Chocolate","Hot chocolate",1858,6503
+6000,Beverages,Tea,"Brewed Chai tea",1842,7368
+1000,Beverages,Tea,"Brewed Green tea",1833,4582.5
+6000,Beverages,Coffee,"Organic brewed coffee",1822,5466
+1000,Beverages,Coffee,"Gourmet brewed coffee",1811,3622
+1000,Beverages,Tea,"Brewed Green tea",1804,5412
+1000,Beverages,Coffee,"Gourmet brewed coffee",1798,6293
+6000,Beverages,Coffee,"Gourmet brewed coffee",1796,4490
+8600,Food,Bakery,Biscotti,1785,6247.5
+6000,Beverages,Coffee,"Drip coffee",1785,4462.5
+6000,Beverages,Coffee,"Drip coffee",1775,5325
+6000,Beverages,"Drinking Chocolate","Hot chocolate",1771,8412.25
+1000,Food,Bakery,Scone,1768,5746
+8600,Beverages,Coffee,"Premium brewed coffee",1762,4316.9
+6000,Beverages,"Drinking Chocolate","Hot chocolate",1760,6600
+1000,Beverages,Coffee,"Organic brewed coffee",1755,3861
+6000,Beverages,Coffee,"Gourmet brewed coffee",1746,6111
+1000,Beverages,Coffee,"Premium brewed coffee",1743,4270.35
+8600,Beverages,Coffee,"Premium brewed coffee",1724,5344.4
+6000,Beverages,Coffee,"Organic brewed coffee",1699,3737.8
+8600,Beverages,Tea,"Brewed Green tea",1693,5079
+6000,Beverages,Coffee,"Premium brewed coffee",1683,4123.35
+6000,Beverages,Tea,"Brewed Green tea",1671,5013
+1000,Food,Bakery,Biscotti,1667,5834.5
+6000,Beverages,Coffee,"Premium brewed coffee",1651,5118.1
+6000,Beverages,Coffee,"Gourmet brewed coffee",1649,3298
+6000,Beverages,Coffee,"Organic brewed coffee",1640,5740
+6000,Beverages,Tea,"Brewed Chai tea",1630,5053
+6000,Beverages,"Drinking Chocolate","Hot chocolate",1627,5694.5
+6000,Food,Bakery,Biscotti,1615,5652.5
+6000,Beverages,Tea,"Brewed Chai tea",1515,4545
+8600,Add-ons,Flavours,"Sugar free syrup",1486,1188.8
+6000,Beverages,Coffee,"Drip coffee",1443,2886
+6000,Food,Bakery,Scone,1421,4618.25
+6000,Beverages,Tea,"Brewed Chai tea",1391,3547.05
+8600,Food,Bakery,Scone,1213,5458.5
+1000,Add-ons,Flavours,"Sugar free syrup",1129,903.2
+8600,Food,Bakery,Biscotti,1070,3477.5
+8600,Food,Bakery,Scone,1047,3926.25
+8600,Food,Bakery,Pastry,1030,3605
+8600,Food,Bakery,Scone,888,2664
+1000,Food,Bakery,Scone,870,3262.5
+6000,Food,Bakery,Scone,835,2505
+6000,Food,Bakery,Pastry,820,2870
+6000,Food,Bakery,Biscotti,815,2648.75
+1000,Food,Bakery,Scone,801,3604.5
+1000,Food,Bakery,Biscotti,799,2596.75
+6000,Food,Bakery,Scone,757,2838.75
+1000,Food,Bakery,Pastry,753,2635.5
+1000,Food,Bakery,Scone,742,2226
+6000,Food,Bakery,Scone,643,2893.5
+6000,Merchandise,Branded,Housewares,288,4032
+6000,Merchandise,Branded,Housewares,262,3144
+8600,"Whole Bean/Teas","Coffee beans","Premium Beans",253,11385
+1000,Merchandise,Branded,Clothing,214,5992
+1000,"Whole Bean/Teas","Loose Tea","Herbal tea",207,1852.65
+8600,"Whole Bean/Teas","Loose Tea","Herbal tea",200,1790
+8600,"Whole Bean/Teas","Loose Tea","Black tea",199,1781.05
+6000,Merchandise,Branded,Clothing,195,5460
+6000,"Whole Bean/Teas","Loose Tea","Black tea",190,1700.5
+1000,Merchandise,Branded,Housewares,175,2450
+8600,"Whole Bean/Teas","Coffee beans","Espresso Beans",171,2522.25
+8600,"Whole Bean/Teas","Coffee beans","House blend Beans",158,2844
+1000,"Whole Bean/Teas","Coffee beans","Gourmet Beans",156,3276
+8600,"Whole Bean/Teas","Packaged Chocolate","Organic Chocolate",148,1124.8
+6000,"Whole Bean/Teas","Coffee beans","Gourmet Beans",140,2940
+8600,"Whole Bean/Teas","Coffee beans","Organic Beans",135,3037.5
+8600,"Whole Bean/Teas","Loose Tea","Chai tea",133,1190.35
+6000,"Whole Bean/Teas","Coffee beans","Organic Beans",132,2376
+6000,"Whole Bean/Teas","Loose Tea","Chai tea",130,1235
+6000,"Whole Bean/Teas","Packaged Chocolate","Organic Chocolate",123,934.8
+8600,"Whole Bean/Teas","Coffee beans","Espresso Beans",122,2494.9
+1000,"Whole Bean/Teas","Coffee beans","Premium Beans",117,5265
+1000,Merchandise,Branded,Housewares,115,1380
+8600,"Whole Bean/Teas","Loose Tea","Chai tea",113,1073.5
+6000,"Whole Bean/Teas","Packaged Chocolate","Drinking Chocolate",112,1492.96
+8600,Merchandise,Branded,Housewares,110,1540
+1000,"Whole Bean/Teas","Coffee beans","Organic Beans",109,1962
+1000,"Whole Bean/Teas","Loose Tea","Black tea",109,975.55
+8600,"Whole Bean/Teas","Coffee beans","Organic Beans",108,1944
+6000,"Whole Bean/Teas","Coffee beans","Green beans",104,1040
+8600,"Whole Bean/Teas","Coffee beans","Gourmet Beans",100,1500
+6000,"Whole Bean/Teas","Loose Tea","Herbal tea",97,868.15
+1000,"Whole Bean/Teas","Coffee beans","House blend Beans",96,1728
+1000,"Whole Bean/Teas","Coffee beans","Organic Beans",96,2160
+6000,"Whole Bean/Teas","Loose Tea","Green tea",96,888
+6000,"Whole Bean/Teas","Loose Tea","Chai tea",90,985.5
+8600,"Whole Bean/Teas","Coffee beans","Gourmet Beans",89,1869
+502,Beverages,Coffee,"Barista Espresso",87,261
+8600,"Whole Bean/Teas","Packaged Chocolate","Drinking Chocolate",84,1119.72
+8600,"Whole Bean/Teas","Coffee beans","Green beans",83,830
+6000,"Whole Bean/Teas","Coffee beans","House blend Beans",82,1476
+1000,"Whole Bean/Teas","Coffee beans","Espresso Beans",81,1194.75
+6000,"Whole Bean/Teas","Coffee beans","Gourmet Beans",80,1200
+1000,"Whole Bean/Teas","Loose Tea","Chai tea",79,865.05
+8600,"Whole Bean/Teas","Loose Tea","Chai tea",78,854.1
+8600,"Whole Bean/Teas","Packaged Chocolate","Drinking Chocolate",78,499.2
+1000,"Whole Bean/Teas","Coffee beans","Espresso Beans",77,1574.65
+531,Beverages,Tea,"Brewed Black tea",76,190
+1000,"Whole Bean/Teas","Loose Tea","Green tea",73,675.25
+6000,"Whole Bean/Teas","Coffee beans","Premium Beans",72,3240
+1000,"Whole Bean/Teas","Loose Tea","Chai tea",72,684
+710,Beverages,Coffee,"Barista Espresso",72,306
+5399,Beverages,Coffee,"Gourmet brewed coffee",71,248.5
+1000,"Whole Bean/Teas","Coffee beans","Premium Beans",71,1402.25
+8600,"Whole Bean/Teas","Coffee beans","Premium Beans",71,1402.25
+1000,"Whole Bean/Teas","Coffee beans","Gourmet Beans",70,1050
+8384,Beverages,Tea,"Brewed Chai tea",70,175
+5789,Beverages,Coffee,"Gourmet brewed coffee",70,210
+8410,Beverages,Coffee,"Barista Espresso",68,255
+797,Beverages,Tea,"Brewed herbal tea",68,170
+5776,Beverages,Coffee,"Gourmet brewed coffee",66,198
+483,Add-ons,Flavours,"Regular syrup",66,52.8
+393,Beverages,Tea,"Brewed Chai tea",66,264
+5157,Beverages,Tea,"Brewed Chai tea",66,168.3
+5677,Beverages,Coffee,"Gourmet brewed coffee",65,195
+241,Beverages,Coffee,"Gourmet brewed coffee",65,195
+5847,Beverages,Coffee,"Drip coffee",65,130
+8296,Beverages,Tea,"Brewed Black tea",65,195
+6000,"Whole Bean/Teas","Coffee beans","Premium Beans",64,1264
+8600,"Whole Bean/Teas","Loose Tea","Green tea",64,592
+6000,Food,Bakery,Scone,64,259.84
+432,Beverages,Coffee,"Barista Espresso",63,267.75
+133,Beverages,Tea,"Brewed herbal tea",62,186
+6000,"Whole Bean/Teas","Coffee beans","Espresso Beans",62,914.5
+6000,"Whole Bean/Teas","Coffee beans","Organic Beans",62,1395
+581,Beverages,Coffee,"Gourmet brewed coffee",62,186
+8154,Beverages,Coffee,"Barista Espresso",61,183
+1000,"Whole Bean/Teas","Coffee beans","Green beans",61,610
+1000,"Whole Bean/Teas","Packaged Chocolate","Drinking Chocolate",61,813.13
+5747,Beverages,Tea,"Brewed herbal tea",61,183
+5465,Beverages,Coffee,"Barista Espresso",59,250.75
+8173,Beverages,Coffee,"Gourmet brewed coffee",58,174
+5084,Beverages,Tea,"Brewed Chai tea",58,232
+2,Beverages,Tea,"Brewed Black tea",58,174
+447,Beverages,Tea,"Brewed Chai tea",58,145
+5728,Beverages,Tea,"Brewed Chai tea",58,145
+420,Beverages,Tea,"Brewed Black tea",56,168
+709,Beverages,Coffee,"Gourmet brewed coffee",56,140
+728,Beverages,Coffee,"Gourmet brewed coffee",56,168
+5301,Add-ons,Flavours,"Regular syrup",56,44.8
+5228,Beverages,Tea,"Brewed herbal tea",56,140
+6000,"Whole Bean/Teas","Coffee beans","Espresso Beans",56,1145.2
+5203,Beverages,Coffee,"Premium brewed coffee",56,173.6
+8142,Beverages,Coffee,"Barista Espresso",56,238
+5083,Beverages,Tea,"Brewed Green tea",55,165
+756,Beverages,Tea,"Brewed Black tea",55,137.5
+8297,Beverages,Tea,"Brewed herbal tea",55,165
+280,Beverages,Tea,"Brewed herbal tea",54,135
+5906,Beverages,Coffee,"Barista Espresso",54,162
+5827,Beverages,Tea,"Brewed Black tea",54,135
+5033,Beverages,Tea,"Brewed Black tea",54,162
+8386,Beverages,Tea,"Brewed Chai tea",54,135
+767,Beverages,"Drinking Chocolate","Hot chocolate",54,243
+8114,Beverages,"Drinking Chocolate","Hot chocolate",53,251.75
+5596,Beverages,Tea,"Brewed Black tea",53,132.5
+22,Beverages,Tea,"Brewed Chai tea",53,132.5
+6000,"Whole Bean/Teas","Loose Tea","Chai tea",53,474.35
+15,Beverages,Coffee,"Organic brewed coffee",53,159
+563,Beverages,Coffee,"Barista Espresso",52,195
+8290,Beverages,Tea,"Brewed herbal tea",52,130
+46,Beverages,Tea,"Brewed herbal tea",52,130
+548,Beverages,Tea,"Brewed herbal tea",52,156
+5492,Beverages,Tea,"Brewed Black tea",52,130
+574,Beverages,Tea,"Brewed Chai tea",52,130
+8272,Beverages,Coffee,"Barista Espresso",52,195
+7,Beverages,Coffee,"Barista Espresso",52,195
+8322,Beverages,Coffee,"Barista Espresso",52,195
+381,Add-ons,Flavours,"Regular syrup",52,41.6
+473,Beverages,Coffee,"Organic brewed coffee",51,178.5
+8453,Beverages,Coffee,"Barista Espresso",51,191.25
+100,Beverages,Coffee,"Barista Espresso",51,216.75
+8364,Beverages,Tea,"Brewed herbal tea",50,125
+503,Beverages,Tea,"Brewed herbal tea",50,125
+8,Beverages,Tea,"Brewed herbal tea",50,125
+406,Beverages,Tea,"Brewed herbal tea",50,125
+8318,Add-ons,Flavours,"Regular syrup",50,40
+6000,Food,Bakery,Biscotti,50,219
+8146,Beverages,Coffee,"Barista Espresso",50,150
+503,Beverages,Coffee,"Barista Espresso",50,212.5
+5790,Beverages,Coffee,"Barista Espresso",50,212.5
+8050,Beverages,Coffee,"Gourmet brewed coffee",50,150
+664,Beverages,Coffee,"Gourmet brewed coffee",50,150
+8336,Beverages,Tea,"Brewed Black tea",50,125
+8413,Beverages,Tea,"Brewed Black tea",50,150
+8373,Beverages,Tea,"Brewed Chai tea",50,125
+338,Beverages,Tea,"Brewed Chai tea",50,125
+341,Beverages,Tea,"Brewed Chai tea",49,122.5
+5879,Beverages,Coffee,"Barista Espresso",49,208.25
+5400,Beverages,Tea,"Brewed Chai tea",49,147
+5754,Beverages,Tea,"Brewed Chai tea",49,151.9
+5433,Beverages,Coffee,"Gourmet brewed coffee",49,122.5
+8086,Beverages,Coffee,"Premium brewed coffee",49,151.9
+547,Beverages,Coffee,"Premium brewed coffee",49,183.75
+8289,Beverages,Coffee,"Gourmet brewed coffee",48,168
+5896,Beverages,Coffee,"Premium brewed coffee",48,117.6
+8375,Beverages,Coffee,"Barista Espresso",48,144
+42,Beverages,Coffee,"Barista Espresso",48,180
+8281,Beverages,Coffee,"Barista Espresso",48,180
+8050,Beverages,Coffee,"Barista Espresso",48,180
+8341,Beverages,Tea,"Brewed herbal tea",48,144
+267,Beverages,Tea,"Brewed Green tea",48,120
+8419,Beverages,Tea,"Brewed Black tea",48,120
+5265,Beverages,Tea,"Brewed Black tea",48,144
+8363,Beverages,Tea,"Brewed Black tea",48,120
+641,Beverages,Tea,"Brewed Black tea",48,144
+5437,Add-ons,Flavours,"Regular syrup",48,38.4
+5318,Beverages,Coffee,"Drip coffee",48,96
+634,Beverages,Coffee,"Drip coffee",48,144
+143,Beverages,Tea,"Brewed Chai tea",48,144
+8273,Beverages,Tea,"Brewed Chai tea",48,120
+5431,Beverages,Tea,"Brewed Chai tea",48,120
+796,Beverages,Tea,"Brewed Chai tea",48,192
+8301,Beverages,"Drinking Chocolate","Hot chocolate",48,168
+8311,Beverages,Tea,"Brewed Chai tea",47,188
+5267,Beverages,Tea,"Brewed Chai tea",47,119.85
+5046,Beverages,Tea,"Brewed Green tea",47,117.5
+5091,Beverages,Coffee,"Barista Espresso",47,176.25
+579,Beverages,Tea,"Brewed Green tea",47,117.5
+72,Beverages,Tea,"Brewed Black tea",47,117.5
+648,Beverages,Tea,"Brewed Chai tea",47,117.5
+5270,Beverages,Tea,"Brewed Chai tea",47,117.5
+5867,Beverages,Tea,"Brewed Chai tea",47,117.5
+8420,Beverages,Coffee,"Gourmet brewed coffee",47,141
+5005,Beverages,Coffee,"Organic brewed coffee",46,161
+420,Beverages,Coffee,"Gourmet brewed coffee",46,115
+493,Beverages,Coffee,"Gourmet brewed coffee",46,115
+8054,Beverages,Coffee,"Gourmet brewed coffee",46,138
+5883,Beverages,Coffee,"Gourmet brewed coffee",46,138
+773,Beverages,Coffee,"Gourmet brewed coffee",46,138
+631,Beverages,Coffee,"Gourmet brewed coffee",46,138
+377,Beverages,Coffee,"Gourmet brewed coffee",46,101.2
+8195,Beverages,Coffee,"Premium brewed coffee",46,112.7
+8438,Beverages,Coffee,"Premium brewed coffee",46,112.7
+5626,Beverages,Coffee,"Premium brewed coffee",46,172.5
+5804,Beverages,Coffee,"Barista Espresso",46,172.5
+8078,Beverages,Tea,"Brewed Chai tea",46,138
+8316,Beverages,Tea,"Brewed Chai tea",46,184
+119,Beverages,Tea,"Brewed Chai tea",46,142.6
+5810,Beverages,Tea,"Brewed Chai tea",46,142.6
+5425,Beverages,"Drinking Chocolate","Hot chocolate",46,161
+5818,Beverages,"Drinking Chocolate","Hot chocolate",46,172.5
+520,Beverages,"Drinking Chocolate","Hot chocolate",46,218.5
+610,Add-ons,Flavours,"Regular syrup",46,36.8
+58,Beverages,Coffee,"Barista Espresso",46,195.5
+5208,Beverages,Coffee,"Barista Espresso",46,195.5
+8278,Beverages,Tea,"Brewed herbal tea",46,115
+5826,Beverages,Tea,"Brewed herbal tea",46,115
+267,Beverages,Tea,"Brewed herbal tea",46,115
+110,Beverages,Tea,"Brewed Black tea",46,138
+8209,Beverages,Tea,"Brewed Black tea",46,138
+5667,Beverages,Tea,"Brewed Black tea",46,138
+8101,Beverages,Coffee,"Drip coffee",46,92
+263,Beverages,Coffee,"Drip coffee",46,92
+1000,"Whole Bean/Teas","Packaged Chocolate","Organic Chocolate",45,342
+5173,Beverages,Coffee,"Drip coffee",45,90
+437,Beverages,Coffee,"Drip coffee",45,112.5
+5062,Beverages,"Drinking Chocolate","Hot chocolate",45,168.75
+5092,Add-ons,Flavours,"Regular syrup",45,36
+54,Beverages,Coffee,"Premium brewed coffee",45,139.5
+8146,Beverages,Coffee,"Gourmet brewed coffee",45,112.5
+5220,Beverages,Coffee,"Gourmet brewed coffee",45,112.5
+410,Beverages,Coffee,"Gourmet brewed coffee",45,135
+8177,Beverages,Coffee,"Gourmet brewed coffee",45,135
+5568,Beverages,Tea,"Brewed Chai tea",45,139.5
+5732,Beverages,"Drinking Chocolate","Hot chocolate",45,202.5
+5144,Beverages,Tea,"Brewed Black tea",45,112.5
+661,Beverages,Tea,"Brewed Black tea",45,112.5
+8200,Beverages,Tea,"Brewed Chai tea",45,112.5
+8298,Beverages,Tea,"Brewed Chai tea",45,112.5
+5832,Beverages,Tea,"Brewed herbal tea",45,135
+8472,Beverages,Coffee,"Barista Espresso",44,187
+116,Beverages,Coffee,"Barista Espresso",44,187
+608,Beverages,Tea,"Brewed herbal tea",44,132
+8375,Beverages,Tea,"Brewed herbal tea",44,132
+8025,Beverages,Tea,"Brewed Green tea",44,110
+8475,Beverages,Coffee,"Gourmet brewed coffee",44,110
+8085,Beverages,Coffee,"Gourmet brewed coffee",44,132
+116,Beverages,Coffee,"Gourmet brewed coffee",44,132
+5464,Beverages,Coffee,"Gourmet brewed coffee",44,132
+448,Beverages,"Drinking Chocolate","Hot chocolate",44,165
+5083,Add-ons,Flavours,"Sugar free syrup",44,35.2
+8268,Beverages,Coffee,"Drip coffee",44,88
+8120,Beverages,Coffee,"Drip coffee",44,110
+5864,Beverages,Coffee,"Organic brewed coffee",44,96.8
+5625,Beverages,Coffee,"Barista Espresso",44,165
+8318,Beverages,Coffee,"Barista Espresso",44,165
+320,Beverages,Tea,"Brewed Black tea",44,132
+648,Beverages,Tea,"Brewed Black tea",44,132
+8220,Beverages,Tea,"Brewed Chai tea",44,110
+5099,Beverages,Tea,"Brewed Chai tea",44,110
+8467,Beverages,Tea,"Brewed Chai tea",44,136.4
+8060,Beverages,Tea,"Brewed Chai tea",44,136.4
+420,Beverages,"Drinking Chocolate","Hot chocolate",44,198
+81,Beverages,Tea,"Brewed Chai tea",43,107.5
+5721,Beverages,Coffee,"Drip coffee",43,107.5
+5192,Beverages,Tea,"Brewed herbal tea",43,107.5
+5619,Beverages,Tea,"Brewed herbal tea",43,129
+5563,Food,Bakery,Pastry,43,161.25
+5375,Beverages,Coffee,"Barista Espresso",43,129
+591,Beverages,Coffee,"Barista Espresso",43,161.25
+28,Beverages,Coffee,"Barista Espresso",43,182.75
+8247,Beverages,Coffee,"Gourmet brewed coffee",42,147
+8040,Beverages,Coffee,"Premium brewed coffee",42,130.2
+8022,Beverages,Coffee,"Premium brewed coffee",42,157.5
+534,Beverages,Coffee,"Premium brewed coffee",42,157.5
+5600,Beverages,Coffee,"Barista Espresso",42,126
+8350,Beverages,Coffee,"Barista Espresso",42,126
+5218,Beverages,Coffee,"Barista Espresso",42,178.5
+8260,Beverages,Coffee,"Barista Espresso",42,178.5
+5822,Beverages,Coffee,"Barista Espresso",42,157.5
+437,Beverages,Coffee,"Barista Espresso",42,157.5
+368,Beverages,Tea,"Brewed herbal tea",42,105
+565,Beverages,Tea,"Brewed herbal tea",42,105
+8361,Beverages,Tea,"Brewed herbal tea",42,126
+5347,Beverages,Tea,"Brewed herbal tea",42,126
+8394,Beverages,Tea,"Brewed Chai tea",42,126
+637,Beverages,Tea,"Brewed Chai tea",42,126
+8121,Beverages,Tea,"Brewed Chai tea",42,105
+258,Beverages,Tea,"Brewed Chai tea",42,105
+62,Beverages,Tea,"Brewed Chai tea",42,130.2
+8423,Beverages,"Drinking Chocolate","Hot chocolate",42,147
+5913,Beverages,Coffee,"Gourmet brewed coffee",42,84
+8147,Beverages,Coffee,"Gourmet brewed coffee",42,105
+5124,Beverages,Coffee,"Gourmet brewed coffee",42,105
+5798,Beverages,Coffee,"Gourmet brewed coffee",42,126
+73,Beverages,Coffee,"Gourmet brewed coffee",42,126
+5617,Beverages,Coffee,"Drip coffee",42,105
+281,Beverages,Coffee,"Drip coffee",42,126
+8071,Beverages,Coffee,"Organic brewed coffee",42,92.4
+319,Beverages,Coffee,"Organic brewed coffee",42,126
+8370,Beverages,"Drinking Chocolate","Hot chocolate",42,157.5
+8073,Beverages,"Drinking Chocolate","Hot chocolate",42,199.5
+5532,Add-ons,Flavours,"Sugar free syrup",42,33.6
+6000,Food,Bakery,Biscotti,42,170.52
+322,Add-ons,Flavours,"Regular syrup",42,33.6
+661,Add-ons,Flavours,"Regular syrup",42,33.6
+26,Beverages,Tea,"Brewed Black tea",42,105
+433,Beverages,Tea,"Brewed Black tea",42,126
+610,Beverages,Tea,"Brewed Black tea",42,126
+8037,Beverages,Tea,"Brewed Chai tea",42,105
+5081,Beverages,Tea,"Brewed Chai tea",42,105
+8142,Beverages,Tea,"Brewed Chai tea",42,105
+255,Beverages,Tea,"Brewed Chai tea",42,105
+5085,Beverages,Tea,"Brewed Chai tea",42,105
+8329,Beverages,Tea,"Brewed Black tea",41,123
+5806,Beverages,Tea,"Brewed Black tea",41,123
+8009,Beverages,Tea,"Brewed Black tea",41,102.5
+288,Beverages,Tea,"Brewed Chai tea",41,102.5
+5256,Beverages,Tea,"Brewed Chai tea",41,102.5
+5921,Beverages,Tea,"Brewed Chai tea",41,102.5
+5629,Beverages,Coffee,"Gourmet brewed coffee",41,102.5
+8440,Beverages,Coffee,"Gourmet brewed coffee",41,123
+5504,Beverages,Coffee,"Barista Espresso",41,174.25
+5656,Beverages,Coffee,"Barista Espresso",41,174.25
+5795,Beverages,Coffee,"Barista Espresso",41,153.75
+5908,Beverages,Coffee,"Premium brewed coffee",41,153.75
+8406,Beverages,Coffee,"Barista Espresso",41,174.25
+8396,Beverages,Coffee,"Barista Espresso",41,174.25
+5585,Beverages,Tea,"Brewed Chai tea",41,104.55
+115,Food,Bakery,Scone,41,184.5
+6000,"Whole Bean/Teas","Packaged Chocolate","Drinking Chocolate",41,262.4
+8083,Beverages,Coffee,"Organic brewed coffee",41,90.2
+5711,Beverages,Coffee,"Organic brewed coffee",41,90.2
+6000,Food,Bakery,Pastry,41,179.58
+6000,Food,Bakery,Pastry,41,192.29
+5925,Beverages,"Drinking Chocolate","Hot chocolate",40,180
+8231,Beverages,"Drinking Chocolate","Hot chocolate",40,190
+650,Add-ons,Flavours,"Regular syrup",40,32
+5683,Add-ons,Flavours,"Regular syrup",40,32
+8226,Beverages,Coffee,"Gourmet brewed coffee",40,140
+5328,Beverages,Coffee,"Premium brewed coffee",40,124
+16,Beverages,Coffee,"Premium brewed coffee",40,150
+704,Beverages,Coffee,"Premium brewed coffee",40,150
+5931,Beverages,Coffee,"Premium brewed coffee",40,150
+8264,Beverages,Coffee,"Barista Espresso",40,120
+5886,Beverages,Coffee,"Barista Espresso",40,120
+8310,Beverages,Coffee,"Barista Espresso",40,150
+5274,Beverages,Coffee,"Barista Espresso",40,150
+286,Beverages,Coffee,"Barista Espresso",40,150
+5548,Beverages,Coffee,"Organic brewed coffee",40,140
+553,Beverages,Coffee,"Organic brewed coffee",40,140
+44,Beverages,Coffee,"Gourmet brewed coffee",40,100
+282,Beverages,Coffee,"Gourmet brewed coffee",40,120
+707,Beverages,Coffee,"Gourmet brewed coffee",40,120
+5120,Beverages,Coffee,"Gourmet brewed coffee",40,120
+136,Beverages,Coffee,"Gourmet brewed coffee",40,88
+8100,Beverages,Tea,"Brewed Green tea",40,120
+8377,Beverages,Tea,"Brewed Green tea",40,120
+8443,Beverages,Tea,"Brewed Black tea",40,100
+602,Beverages,Tea,"Brewed Black tea",40,100
+94,Beverages,Tea,"Brewed Black tea",40,120
+8297,Beverages,Tea,"Brewed Black tea",40,120
+5100,Beverages,Tea,"Brewed Black tea",40,100
+411,Beverages,Tea,"Brewed Black tea",40,100
+401,Beverages,Tea,"Brewed Chai tea",40,100
+5576,Beverages,Tea,"Brewed Chai tea",40,100
+8011,Beverages,Coffee,"Barista Espresso",40,170
+69,Beverages,Coffee,"Barista Espresso",40,170
+395,Beverages,Tea,"Brewed herbal tea",40,100
+5585,Beverages,Tea,"Brewed herbal tea",40,100
+597,Beverages,Tea,"Brewed herbal tea",40,100
+8418,Beverages,Tea,"Brewed herbal tea",40,100
+5013,Beverages,Tea,"Brewed herbal tea",40,120
+5339,Beverages,Tea,"Brewed herbal tea",40,120
+795,Beverages,Tea,"Brewed herbal tea",40,120
+723,Beverages,Tea,"Brewed herbal tea",40,100
+8311,"Whole Bean/Teas","Coffee beans","Premium Beans",40,1800
+127,Beverages,Coffee,"Drip coffee",40,120
+8365,Beverages,Tea,"Brewed Chai tea",40,120
+5320,Beverages,Tea,"Brewed Chai tea",39,117
+5316,Beverages,Tea,"Brewed Chai tea",39,117
+762,Beverages,Tea,"Brewed Chai tea",39,156
+5804,Beverages,Tea,"Brewed Chai tea",39,156
+8299,Beverages,Tea,"Brewed Black tea",39,117
+8397,Beverages,Coffee,"Barista Espresso",39,165.75
+8205,Beverages,Coffee,"Gourmet brewed coffee",39,117
+8250,Beverages,Coffee,"Gourmet brewed coffee",39,117
+194,Beverages,Coffee,"Gourmet brewed coffee",39,117
+6000,"Whole Bean/Teas","Coffee beans","Organic Beans",39,1092
+5425,Beverages,Coffee,"Drip coffee",39,97.5
+5437,Beverages,Coffee,"Barista Espresso",39,165.75
+322,Beverages,Coffee,"Barista Espresso",39,165.75
+15,Beverages,Coffee,"Barista Espresso",39,165.75
+208,Beverages,Tea,"Brewed herbal tea",39,97.5
+5612,Beverages,Tea,"Brewed herbal tea",39,97.5
+8134,Beverages,Tea,"Brewed herbal tea",39,117
+5651,Beverages,Tea,"Brewed herbal tea",39,117
+5767,Beverages,Tea,"Brewed herbal tea",39,117
+5106,Beverages,Tea,"Brewed Green tea",39,97.5
+8600,Merchandise,Branded,Clothing,39,1092
+8382,Beverages,Coffee,"Barista Espresso",39,117
+710,Add-ons,Flavours,"Regular syrup",38,30.4
+8044,Beverages,Coffee,"Gourmet brewed coffee",38,133
+479,Beverages,Coffee,"Gourmet brewed coffee",38,133
+790,Beverages,Coffee,"Premium brewed coffee",38,117.8
+572,Beverages,Coffee,"Premium brewed coffee",38,142.5
+8176,Beverages,Coffee,"Premium brewed coffee",38,142.5
+5673,Beverages,Coffee,"Barista Espresso",38,114
+5370,Beverages,Coffee,"Barista Espresso",38,114
+8470,Beverages,Coffee,"Barista Espresso",38,114
+542,Beverages,Coffee,"Barista Espresso",38,142.5
+8157,Beverages,Coffee,"Barista Espresso",38,161.5
+5021,Beverages,Tea,"Brewed Chai tea",38,114
+799,Beverages,Tea,"Brewed Chai tea",38,114
+787,Beverages,Tea,"Brewed Chai tea",38,114
+8235,Beverages,Tea,"Brewed Chai tea",38,95
+5187,Beverages,Tea,"Brewed Chai tea",38,152
+8079,Beverages,Tea,"Brewed Chai tea",38,152
+5901,Beverages,Tea,"Brewed Chai tea",38,96.9
+8351,Beverages,Tea,"Brewed Chai tea",38,96.9
+625,Beverages,Tea,"Brewed Chai tea",38,96.9
+5615,Beverages,Tea,"Brewed Chai tea",38,96.9
+5001,Beverages,Tea,"Brewed Chai tea",38,117.8
+5257,Beverages,"Drinking Chocolate","Hot chocolate",38,142.5
+5570,Beverages,"Drinking Chocolate","Hot chocolate",38,142.5
+642,Beverages,"Drinking Chocolate","Hot chocolate",38,180.5
+5301,Beverages,"Drinking Chocolate","Hot chocolate",38,180.5
+8144,Beverages,"Drinking Chocolate","Hot chocolate",38,180.5
+8173,Beverages,"Drinking Chocolate","Hot chocolate",38,180.5
+14,Add-ons,Flavours,"Regular syrup",38,30.4
+5287,Add-ons,Flavours,"Regular syrup",38,30.4
+481,Beverages,Tea,"Brewed Black tea",38,95
+8024,Beverages,Tea,"Brewed Black tea",38,95
+8492,Beverages,Tea,"Brewed Black tea",38,95
+8323,Beverages,Tea,"Brewed Black tea",38,95
+136,Beverages,Tea,"Brewed Black tea",38,95
+116,Beverages,Tea,"Brewed Black tea",38,95
+8010,Beverages,Tea,"Brewed Black tea",38,95
+472,Beverages,Tea,"Brewed Black tea",38,114
+317,Beverages,Tea,"Brewed Black tea",38,114
+231,Beverages,Tea,"Brewed Black tea",38,95
+5847,Beverages,Tea,"Brewed Chai tea",38,95
+8494,Beverages,Tea,"Brewed Chai tea",38,95
+5769,Beverages,Tea,"Brewed Chai tea",38,95
+5040,Beverages,Tea,"Brewed Chai tea",38,95
+8450,Beverages,Coffee,"Barista Espresso",38,161.5
+481,Beverages,Coffee,"Barista Espresso",38,161.5
+117,Beverages,Coffee,"Barista Espresso",38,161.5
+5091,Beverages,Coffee,"Barista Espresso",38,161.5
+5408,Beverages,Coffee,"Barista Espresso",38,161.5
+649,Beverages,Tea,"Brewed herbal tea",38,95
+103,Beverages,Tea,"Brewed herbal tea",38,95
+8008,Beverages,Tea,"Brewed herbal tea",38,95
+5134,Beverages,Tea,"Brewed herbal tea",38,95
+69,Beverages,Tea,"Brewed herbal tea",38,95
+84,Beverages,Tea,"Brewed herbal tea",38,95
+329,Beverages,Tea,"Brewed herbal tea",38,95
+8045,Beverages,Coffee,"Organic brewed coffee",38,133
+325,Beverages,Coffee,"Organic brewed coffee",38,133
+340,Beverages,Coffee,"Organic brewed coffee",38,133
+61,Beverages,Coffee,"Gourmet brewed coffee",38,76
+5040,Beverages,Coffee,"Gourmet brewed coffee",38,95
+192,Beverages,Coffee,"Gourmet brewed coffee",38,95
+461,Beverages,Coffee,"Gourmet brewed coffee",38,95
+8027,Beverages,Coffee,"Gourmet brewed coffee",38,95
+5043,Beverages,Coffee,"Gourmet brewed coffee",38,83.6
+446,Beverages,Coffee,"Gourmet brewed coffee",38,114
+244,Beverages,Coffee,"Gourmet brewed coffee",38,114
+5497,Beverages,Coffee,"Gourmet brewed coffee",38,133
+8269,Beverages,Coffee,"Drip coffee",38,76
+8006,Beverages,Coffee,"Organic brewed coffee",38,83.6
+5866,Beverages,Coffee,"Organic brewed coffee",38,83.6
+470,Beverages,Coffee,"Organic brewed coffee",38,114
+651,Beverages,Coffee,"Drip coffee",37,111
+5833,Beverages,Coffee,"Drip coffee",37,111
+8068,Beverages,Coffee,"Organic brewed coffee",37,81.4
+8080,Beverages,Coffee,"Organic brewed coffee",37,111
+8306,Add-ons,Flavours,"Regular syrup",37,29.6
+8072,Beverages,Coffee,"Barista Espresso",37,111
+8285,Beverages,Coffee,"Barista Espresso",37,157.25
+601,Add-ons,Flavours,"Regular syrup",37,29.6
+5021,Beverages,Tea,"Brewed Chai tea",37,92.5
+5150,Beverages,Tea,"Brewed Chai tea",37,148
+548,Beverages,Coffee,"Gourmet brewed coffee",37,74
+5528,Beverages,Coffee,"Gourmet brewed coffee",37,111
+5020,Beverages,Tea,"Brewed Black tea",37,92.5
+625,Beverages,Tea,"Brewed Black tea",37,111
+5412,Beverages,Tea,"Brewed Black tea",37,111
+5696,Beverages,Tea,"Brewed Black tea",37,111
+550,Beverages,Tea,"Brewed Chai tea",37,92.5
+8098,Beverages,Tea,"Brewed Chai tea",37,92.5
+8096,Beverages,Tea,"Brewed Chai tea",37,92.5
+5652,Beverages,Tea,"Brewed Chai tea",37,92.5
+5778,Beverages,Tea,"Brewed herbal tea",37,92.5
+8147,Beverages,Tea,"Brewed herbal tea",37,92.5
+8501,Beverages,Tea,"Brewed herbal tea",37,111
+8359,Beverages,Tea,"Brewed herbal tea",37,92.5
+8378,Beverages,Coffee,"Barista Espresso",36,153
+24,Beverages,Coffee,"Barista Espresso",36,153
+8152,Beverages,Coffee,"Barista Espresso",36,153
+5817,Beverages,Coffee,"Barista Espresso",36,135
+98,Beverages,Coffee,"Barista Espresso",36,153
+8072,Beverages,Tea,"Brewed herbal tea",36,90
+677,Beverages,Tea,"Brewed herbal tea",36,90
+5389,Beverages,Tea,"Brewed herbal tea",36,90
+300,Beverages,Tea,"Brewed herbal tea",36,108
+5042,Beverages,Tea,"Brewed herbal tea",36,108
+5328,Beverages,Tea,"Brewed herbal tea",36,108
+438,Beverages,Tea,"Brewed herbal tea",36,108
+8487,Beverages,Tea,"Brewed herbal tea",36,108
+5719,Beverages,Tea,"Brewed herbal tea",36,108
+8331,Beverages,Tea,"Brewed herbal tea",36,108
+8500,Beverages,Tea,"Brewed herbal tea",36,90
+743,Add-ons,Flavours,"Regular syrup",36,28.8
+8328,Beverages,Coffee,"Barista Espresso",36,108
+703,Beverages,"Drinking Chocolate","Hot chocolate",36,162
+8341,Beverages,"Drinking Chocolate","Hot chocolate",36,135
+5702,Beverages,"Drinking Chocolate","Hot chocolate",36,135
+577,Beverages,"Drinking Chocolate","Hot chocolate",36,135
+408,Beverages,"Drinking Chocolate","Hot chocolate",36,171
+328,Add-ons,Flavours,"Regular syrup",36,28.8
+5237,Add-ons,Flavours,"Sugar free syrup",36,28.8
+5704,Food,Bakery,Pastry,36,135
+643,Beverages,Coffee,"Drip coffee",36,72
+5498,Beverages,Coffee,"Drip coffee",36,72
+5855,Beverages,Coffee,"Drip coffee",36,90
+5884,Beverages,Coffee,"Drip coffee",36,90
+8463,Beverages,Coffee,"Drip coffee",36,108
+8370,Beverages,Coffee,"Drip coffee",36,108
+8114,Beverages,Coffee,"Organic brewed coffee",36,108
+5084,Beverages,Coffee,"Organic brewed coffee",36,108
+5088,Beverages,Coffee,"Gourmet brewed coffee",36,126
+670,Beverages,Coffee,"Gourmet brewed coffee",36,126
+5440,Beverages,Coffee,"Gourmet brewed coffee",36,126
+8496,Beverages,Coffee,"Gourmet brewed coffee",36,126
+8486,Beverages,Coffee,"Premium brewed coffee",36,88.2
+5279,Beverages,Coffee,"Premium brewed coffee",36,88.2
+8202,Beverages,Coffee,"Premium brewed coffee",36,88.2
+125,Beverages,Coffee,"Premium brewed coffee",36,88.2
+8497,Beverages,Coffee,"Premium brewed coffee",36,88.2
+229,Beverages,Coffee,"Premium brewed coffee",36,88.2
+214,Beverages,Coffee,"Premium brewed coffee",36,111.6
+8237,Beverages,Coffee,"Premium brewed coffee",36,135
+8297,Beverages,Coffee,"Premium brewed coffee",36,135
+5842,Beverages,Coffee,"Premium brewed coffee",36,135
+8140,Beverages,Coffee,"Barista Espresso",36,108
+328,Beverages,Coffee,"Barista Espresso",36,108
+5391,Beverages,Coffee,"Barista Espresso",36,108
+5932,Beverages,Coffee,"Barista Espresso",36,135
+5799,Beverages,Coffee,"Barista Espresso",36,135
+5627,Beverages,Coffee,"Barista Espresso",36,135
+665,Beverages,Coffee,"Barista Espresso",36,135
+5860,Beverages,Coffee,"Barista Espresso",36,135
+5577,Beverages,Coffee,"Barista Espresso",36,135
+8285,Beverages,Coffee,"Barista Espresso",36,135
+204,Beverages,Coffee,"Barista Espresso",36,135
+8382,Beverages,Tea,"Brewed Green tea",36,90
+642,Beverages,Tea,"Brewed Green tea",36,90
+84,Beverages,Tea,"Brewed Green tea",36,108
+223,Beverages,Tea,"Brewed Green tea",36,108
+640,Beverages,Tea,"Brewed Black tea",36,90
+5405,Beverages,Tea,"Brewed Black tea",36,108
+8019,Beverages,Tea,"Brewed Black tea",36,108
+8408,Beverages,Tea,"Brewed Black tea",36,108
+8481,Beverages,Tea,"Brewed Black tea",36,108
+5831,Beverages,Tea,"Brewed Black tea",36,90
+226,Beverages,Tea,"Brewed Black tea",36,90
+5154,Beverages,Tea,"Brewed Black tea",36,108
+145,Beverages,Tea,"Brewed Black tea",36,108
+548,Beverages,Tea,"Brewed Black tea",36,108
+205,Beverages,Tea,"Brewed Black tea",36,108
+5876,Beverages,Tea,"Brewed Chai tea",36,90
+558,Beverages,Tea,"Brewed Chai tea",36,90
+319,Beverages,Tea,"Brewed Chai tea",36,90
+8154,Beverages,Tea,"Brewed Chai tea",36,90
+5455,Beverages,Tea,"Brewed Chai tea",36,90
+602,Beverages,Tea,"Brewed Chai tea",36,90
+476,Beverages,Tea,"Brewed Chai tea",36,108
+3,Beverages,Tea,"Brewed Chai tea",36,108
+8082,Beverages,Tea,"Brewed Chai tea",36,90
+5930,Beverages,Tea,"Brewed Chai tea",36,91.8
+8434,Beverages,Tea,"Brewed Chai tea",36,91.8
+643,Beverages,Tea,"Brewed Chai tea",36,111.6
+5707,Beverages,Tea,"Brewed Chai tea",36,111.6
+5632,Beverages,Tea,"Brewed Chai tea",36,111.6
+64,Beverages,Tea,"Brewed Chai tea",36,111.6
+5033,Beverages,Coffee,"Organic brewed coffee",36,126
+424,Beverages,Coffee,"Organic brewed coffee",36,126
+8230,Beverages,Coffee,"Organic brewed coffee",36,126
+8130,Beverages,Coffee,"Organic brewed coffee",36,126
+699,Beverages,Coffee,"Gourmet brewed coffee",36,72
+1,Beverages,Coffee,"Gourmet brewed coffee",36,72
+8494,Beverages,Coffee,"Gourmet brewed coffee",36,72
+466,Beverages,Coffee,"Gourmet brewed coffee",36,72
+88,Beverages,Coffee,"Gourmet brewed coffee",36,72
+8429,Beverages,Coffee,"Gourmet brewed coffee",36,90
+5432,Beverages,Coffee,"Gourmet brewed coffee",36,108
+8150,Beverages,Coffee,"Gourmet brewed coffee",36,108
+391,Beverages,Coffee,"Gourmet brewed coffee",36,108
+149,Beverages,Coffee,"Gourmet brewed coffee",36,108
+8495,Beverages,Coffee,"Gourmet brewed coffee",36,108
+8141,Beverages,Coffee,"Gourmet brewed coffee",36,108
+214,Beverages,Coffee,"Gourmet brewed coffee",36,79.2
+8286,Beverages,Coffee,"Gourmet brewed coffee",36,108
+53,Beverages,Coffee,"Gourmet brewed coffee",36,108
+8219,Beverages,Coffee,"Gourmet brewed coffee",35,105
+8066,Beverages,Coffee,"Gourmet brewed coffee",35,105
+652,Beverages,Coffee,"Drip coffee",35,70
+8101,Beverages,Coffee,"Drip coffee",35,105
+5944,Beverages,Coffee,"Organic brewed coffee",35,77
+5509,Beverages,Coffee,"Barista Espresso",35,148.75
+8319,Beverages,Coffee,"Barista Espresso",35,148.75
+769,Beverages,Tea,"Brewed herbal tea",35,87.5
+247,Beverages,Tea,"Brewed herbal tea",35,105
+5362,Add-ons,Flavours,"Regular syrup",35,28
+81,Add-ons,Flavours,"Regular syrup",35,28
+5880,Beverages,Coffee,"Premium brewed coffee",35,85.75
+8252,Beverages,Coffee,"Premium brewed coffee",35,108.5
+765,Beverages,Coffee,"Barista Espresso",35,148.75
+5815,Beverages,Tea,"Brewed Green tea",35,105
+5412,Beverages,Tea,"Brewed Green tea",35,105
+8022,Beverages,Tea,"Brewed Black tea",35,87.5
+209,Beverages,Tea,"Brewed Black tea",35,87.5
+437,Beverages,Tea,"Brewed Black tea",35,105
+716,Beverages,Tea,"Brewed Black tea",35,105
+8025,Beverages,Tea,"Brewed Black tea",35,105
+8349,Beverages,Tea,"Brewed Chai tea",35,87.5
+8378,Beverages,Tea,"Brewed Chai tea",35,87.5
+60,Beverages,Tea,"Brewed Green tea",34,85
+8209,Beverages,Tea,"Brewed Green tea",34,85
+351,Beverages,Tea,"Brewed Green tea",34,85
+8045,Beverages,Tea,"Brewed Green tea",34,102
+5126,Beverages,Tea,"Brewed Green tea",34,102
+222,Beverages,Tea,"Brewed Green tea",34,102
+8308,Beverages,Tea,"Brewed Black tea",34,85
+8454,Beverages,Tea,"Brewed Black tea",34,85
+224,Beverages,Tea,"Brewed Black tea",34,85
+8327,Beverages,Tea,"Brewed Black tea",34,85
+763,Beverages,Tea,"Brewed Black tea",34,85
+5601,Beverages,Tea,"Brewed Black tea",34,85
+791,Beverages,Tea,"Brewed Black tea",34,102
+5504,Beverages,Tea,"Brewed Black tea",34,102
+8458,Beverages,Tea,"Brewed Black tea",34,102
+315,Beverages,Tea,"Brewed Black tea",34,102
+5829,Beverages,Tea,"Brewed Black tea",34,102
+777,Beverages,Tea,"Brewed Chai tea",34,85
+5944,Beverages,Tea,"Brewed Chai tea",34,85
+310,Beverages,Tea,"Brewed Chai tea",34,85
+205,Beverages,Tea,"Brewed Chai tea",34,85
+5333,Beverages,Tea,"Brewed Chai tea",34,85
+8101,Beverages,Coffee,"Barista Espresso",34,144.5
+5294,Beverages,Coffee,"Barista Espresso",34,144.5
+5644,Beverages,Coffee,"Barista Espresso",34,127.5
+8167,Beverages,Coffee,"Barista Espresso",34,127.5
+746,Beverages,Coffee,"Barista Espresso",34,127.5
+99,Beverages,Tea,"Brewed herbal tea",34,85
+194,Beverages,Tea,"Brewed herbal tea",34,85
+8384,Beverages,Tea,"Brewed herbal tea",34,85
+8300,Beverages,Tea,"Brewed herbal tea",34,85
+8347,Beverages,Tea,"Brewed herbal tea",34,85
+8033,Beverages,Tea,"Brewed herbal tea",34,85
+5107,Beverages,Tea,"Brewed herbal tea",34,85
+320,Beverages,Tea,"Brewed herbal tea",34,102
+8370,Beverages,Tea,"Brewed herbal tea",34,102
+5711,Beverages,Tea,"Brewed herbal tea",34,102
+8024,Beverages,Tea,"Brewed herbal tea",34,102
+785,Beverages,Tea,"Brewed herbal tea",34,102
+491,Beverages,Tea,"Brewed herbal tea",34,102
+5792,Beverages,Tea,"Brewed herbal tea",34,85
+496,Beverages,Tea,"Brewed herbal tea",34,85
+156,Beverages,Tea,"Brewed herbal tea",34,85
+5225,Beverages,Tea,"Brewed Green tea",34,85
+8134,Beverages,Coffee,"Organic brewed coffee",34,119
+5171,Beverages,Coffee,"Gourmet brewed coffee",34,68
+162,Beverages,Coffee,"Gourmet brewed coffee",34,68
+8288,Beverages,Coffee,"Gourmet brewed coffee",34,85
+5812,Beverages,Coffee,"Gourmet brewed coffee",34,85
+478,Beverages,Coffee,"Gourmet brewed coffee",34,85
+5554,Beverages,Coffee,"Gourmet brewed coffee",34,85
+182,Beverages,Coffee,"Gourmet brewed coffee",34,102
+387,Beverages,Coffee,"Gourmet brewed coffee",34,102
+8118,Beverages,Coffee,"Gourmet brewed coffee",34,102
+5223,Beverages,Coffee,"Gourmet brewed coffee",34,102
+8383,Beverages,Coffee,"Gourmet brewed coffee",34,102
+628,Beverages,Coffee,"Gourmet brewed coffee",34,102
+5480,Beverages,Coffee,"Gourmet brewed coffee",34,74.8
+101,Beverages,Coffee,"Gourmet brewed coffee",34,74.8
+5586,Beverages,Coffee,"Gourmet brewed coffee",34,102
+8422,Beverages,Coffee,"Gourmet brewed coffee",34,102
+5347,Beverages,Coffee,"Barista Espresso",34,102
+8336,Beverages,Coffee,"Drip coffee",34,68
+8375,Beverages,Coffee,"Drip coffee",34,68
+95,Beverages,Coffee,"Drip coffee",34,68
+236,Beverages,Coffee,"Drip coffee",34,85
+8192,Beverages,Coffee,"Drip coffee",34,85
+161,Beverages,Coffee,"Drip coffee",34,85
+8380,Beverages,Coffee,"Drip coffee",34,85
+5284,Beverages,Coffee,"Drip coffee",34,85
+5844,Beverages,Coffee,"Drip coffee",34,102
+5006,Beverages,Coffee,"Drip coffee",34,102
+5909,Beverages,Coffee,"Drip coffee",34,102
+8039,Beverages,Coffee,"Organic brewed coffee",34,74.8
+8190,Beverages,Coffee,"Organic brewed coffee",34,74.8
+8176,Beverages,Coffee,"Organic brewed coffee",34,74.8
+8448,Beverages,Coffee,"Organic brewed coffee",34,102
+5852,Beverages,Coffee,"Organic brewed coffee",34,102
+8029,Beverages,Coffee,"Gourmet brewed coffee",34,119
+773,Beverages,Coffee,"Gourmet brewed coffee",34,119
+653,Beverages,Coffee,"Gourmet brewed coffee",34,119
+624,Beverages,Coffee,"Premium brewed coffee",34,83.3
+8256,Beverages,Coffee,"Premium brewed coffee",34,105.4
+356,Beverages,Coffee,"Premium brewed coffee",34,105.4
+237,Beverages,Coffee,"Premium brewed coffee",34,105.4
+5944,Beverages,Coffee,"Premium brewed coffee",34,105.4
+5934,Beverages,Coffee,"Premium brewed coffee",34,127.5
+8335,Beverages,Coffee,"Premium brewed coffee",34,127.5
+5136,Beverages,Coffee,"Barista Espresso",34,102
+8364,Beverages,Coffee,"Barista Espresso",34,102
+8091,Beverages,Coffee,"Barista Espresso",34,102
+8267,Beverages,Coffee,"Barista Espresso",34,102
+788,Beverages,Coffee,"Barista Espresso",34,127.5
+8001,Beverages,Coffee,"Barista Espresso",34,127.5
+8080,Beverages,Coffee,"Barista Espresso",34,127.5
+8268,Beverages,Coffee,"Barista Espresso",34,127.5
+438,Beverages,Coffee,"Barista Espresso",34,127.5
+610,Beverages,Coffee,"Barista Espresso",34,127.5
+8161,Beverages,Coffee,"Barista Espresso",34,127.5
+774,Beverages,Coffee,"Barista Espresso",34,127.5
+571,Beverages,Coffee,"Barista Espresso",34,127.5
+8096,Beverages,Coffee,"Barista Espresso",34,144.5
+174,Beverages,Tea,"Brewed Chai tea",34,102
+656,Beverages,Tea,"Brewed Chai tea",34,102
+200,Beverages,Tea,"Brewed Chai tea",34,85
+5667,Beverages,Tea,"Brewed Chai tea",34,85
+8480,Beverages,Tea,"Brewed Chai tea",34,136
+8282,Beverages,Tea,"Brewed Chai tea",34,136
+597,Beverages,Tea,"Brewed Chai tea",34,86.7
+8167,Beverages,Tea,"Brewed Chai tea",34,105.4
+5424,Beverages,Tea,"Brewed Chai tea",34,105.4
+5367,Beverages,"Drinking Chocolate","Hot chocolate",34,153
+597,Beverages,"Drinking Chocolate","Hot chocolate",34,153
+8410,Beverages,"Drinking Chocolate","Hot chocolate",34,153
+8266,Beverages,"Drinking Chocolate","Hot chocolate",34,127.5
+130,Beverages,"Drinking Chocolate","Hot chocolate",34,127.5
+8384,Beverages,"Drinking Chocolate","Hot chocolate",34,161.5
+674,Beverages,"Drinking Chocolate","Hot chocolate",34,161.5
+33,Beverages,"Drinking Chocolate","Hot chocolate",34,161.5
+746,Add-ons,Flavours,"Regular syrup",34,27.2
+438,Add-ons,Flavours,"Regular syrup",34,27.2
+765,Add-ons,Flavours,"Regular syrup",34,27.2
+5032,Add-ons,Flavours,"Sugar free syrup",34,27.2
+168,Add-ons,Flavours,"Sugar free syrup",34,27.2
+8291,Food,Bakery,Pastry,34,127.5
+8440,Food,Bakery,Pastry,34,127.5
+69,Food,Bakery,Pastry,34,127.5
+5929,Beverages,"Drinking Chocolate","Hot chocolate",33,148.5
+323,Beverages,"Drinking Chocolate","Hot chocolate",33,123.75
+5251,Beverages,"Drinking Chocolate","Hot chocolate",33,123.75
+493,Beverages,"Drinking Chocolate","Hot chocolate",33,156.75
+5874,Add-ons,Flavours,"Sugar free syrup",33,26.4
+5016,Add-ons,Flavours,"Sugar free syrup",33,26.4
+8041,Food,Bakery,Pastry,33,115.5
+322,Food,Bakery,Pastry,33,123.75
+5332,Food,Bakery,Pastry,33,123.75
+5414,Beverages,Coffee,"Barista Espresso",33,140.25
+5222,Beverages,Coffee,"Barista Espresso",33,140.25
+22,Beverages,Coffee,"Barista Espresso",33,140.25
+8190,Beverages,Tea,"Brewed herbal tea",33,82.5
+5010,Beverages,Tea,"Brewed herbal tea",33,82.5
+5277,Beverages,Tea,"Brewed herbal tea",33,99
+5779,Beverages,Tea,"Brewed Green tea",33,82.5
+5619,Beverages,Tea,"Brewed Green tea",33,82.5
+784,Beverages,Tea,"Brewed Green tea",33,99
+5456,Beverages,Tea,"Brewed Green tea",33,99
+8178,Beverages,Tea,"Brewed Black tea",33,82.5
+8395,Beverages,Tea,"Brewed Black tea",33,99
+37,Beverages,Tea,"Brewed Black tea",33,82.5
+41,Beverages,Tea,"Brewed Chai tea",33,82.5
+5344,Beverages,Tea,"Brewed Chai tea",33,82.5
+48,Beverages,Coffee,"Organic brewed coffee",33,115.5
+330,Beverages,Coffee,"Organic brewed coffee",33,115.5
+5193,Beverages,Coffee,"Gourmet brewed coffee",33,66
+335,Beverages,Coffee,"Gourmet brewed coffee",33,82.5
+8149,Beverages,Coffee,"Gourmet brewed coffee",33,82.5
+20,Beverages,Coffee,"Gourmet brewed coffee",33,82.5
+655,Beverages,Coffee,"Gourmet brewed coffee",33,99
+610,Beverages,Coffee,"Gourmet brewed coffee",33,99
+224,Beverages,Coffee,"Gourmet brewed coffee",33,99
+5494,Beverages,Tea,"Brewed Chai tea",33,99
+5539,Beverages,Tea,"Brewed Chai tea",33,82.5
+5479,Beverages,Tea,"Brewed Chai tea",33,82.5
+5198,Beverages,Tea,"Brewed Chai tea",33,102.3
+5917,Beverages,"Drinking Chocolate","Hot chocolate",33,115.5
+5716,Beverages,Coffee,"Drip coffee",33,82.5
+5259,Beverages,Coffee,"Organic brewed coffee",33,72.6
+5581,Beverages,Coffee,"Organic brewed coffee",33,72.6
+5386,Beverages,Coffee,"Organic brewed coffee",33,99
+8430,Beverages,Coffee,"Organic brewed coffee",33,99
+8456,Beverages,Coffee,"Organic brewed coffee",33,99
+5150,Beverages,Coffee,"Organic brewed coffee",33,99
+5750,Beverages,Coffee,"Gourmet brewed coffee",33,115.5
+5678,Beverages,Coffee,"Premium brewed coffee",33,80.85
+691,Beverages,Coffee,"Premium brewed coffee",33,80.85
+8412,Beverages,Coffee,"Premium brewed coffee",33,102.3
+5213,Beverages,Coffee,"Barista Espresso",33,99
+5417,Beverages,Coffee,"Barista Espresso",33,99
+440,Beverages,Coffee,"Barista Espresso",33,123.75
+5356,Beverages,Coffee,"Barista Espresso",33,123.75
+8249,Beverages,Coffee,"Barista Espresso",33,123.75
+5232,Beverages,Coffee,"Barista Espresso",33,123.75
+5482,Beverages,Coffee,"Gourmet brewed coffee",32,112
+5327,Beverages,Coffee,"Premium brewed coffee",32,78.4
+8080,Beverages,Coffee,"Premium brewed coffee",32,78.4
+8384,Beverages,Coffee,"Premium brewed coffee",32,99.2
+181,Beverages,Coffee,"Premium brewed coffee",32,99.2
+5069,Beverages,Coffee,"Premium brewed coffee",32,120
+8271,Beverages,Coffee,"Barista Espresso",32,96
+5807,Beverages,Coffee,"Barista Espresso",32,96
+317,Beverages,Coffee,"Barista Espresso",32,96
+3,Beverages,Coffee,"Barista Espresso",32,96
+476,Beverages,Coffee,"Barista Espresso",32,96
+8226,Beverages,Coffee,"Barista Espresso",32,120
+574,Beverages,Coffee,"Barista Espresso",32,120
+198,Beverages,Coffee,"Barista Espresso",32,120
+120,Beverages,Coffee,"Barista Espresso",32,120
+751,Beverages,Coffee,"Barista Espresso",32,136
+8428,Beverages,Coffee,"Barista Espresso",32,136
+392,Beverages,Tea,"Brewed Green tea",32,96
+610,Beverages,Tea,"Brewed Green tea",32,96
+707,Beverages,Tea,"Brewed Green tea",32,96
+192,Beverages,Tea,"Brewed Green tea",32,96
+5277,Beverages,Tea,"Brewed Green tea",32,96
+432,Beverages,Tea,"Brewed Green tea",32,96
+8274,Beverages,Tea,"Brewed Black tea",32,80
+5000,Beverages,Tea,"Brewed Black tea",32,80
+5072,Beverages,Tea,"Brewed Black tea",32,80
+8222,Beverages,Tea,"Brewed Black tea",32,80
+5808,Beverages,Tea,"Brewed Black tea",32,96
+8272,Beverages,Tea,"Brewed Black tea",32,96
+155,Beverages,Tea,"Brewed Black tea",32,96
+8351,Beverages,Tea,"Brewed Black tea",32,96
+5789,Beverages,Tea,"Brewed Black tea",32,96
+778,Beverages,Tea,"Brewed Black tea",32,80
+5527,Beverages,Tea,"Brewed Black tea",32,80
+192,Beverages,Tea,"Brewed Chai tea",32,80
+8186,Beverages,Tea,"Brewed Chai tea",32,80
+8244,Beverages,Tea,"Brewed Chai tea",32,80
+712,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+388,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+573,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+5536,Beverages,"Drinking Chocolate","Hot chocolate",32,120
+8192,Beverages,"Drinking Chocolate","Hot chocolate",32,152
+8019,Beverages,"Drinking Chocolate","Hot chocolate",32,152
+418,Beverages,"Drinking Chocolate","Hot chocolate",32,152
+5509,Add-ons,Flavours,"Regular syrup",32,25.6
+8050,Add-ons,Flavours,"Regular syrup",32,25.6
+8375,Add-ons,Flavours,"Regular syrup",32,25.6
+8472,Add-ons,Flavours,"Regular syrup",32,25.6
+5164,Add-ons,Flavours,"Sugar free syrup",32,25.6
+15,Add-ons,Flavours,"Sugar free syrup",32,25.6
+8279,Beverages,Coffee,"Barista Espresso",32,96
+141,Beverages,Coffee,"Barista Espresso",32,136
+655,Beverages,Coffee,"Barista Espresso",32,136
+8208,Beverages,Coffee,"Barista Espresso",32,120
+5468,Beverages,Coffee,"Barista Espresso",32,120
+5359,Beverages,Coffee,"Barista Espresso",32,136
+5025,Beverages,Coffee,"Barista Espresso",32,136
+5130,Beverages,Tea,"Brewed herbal tea",32,80
+5190,Beverages,Tea,"Brewed herbal tea",32,80
+8043,Beverages,Tea,"Brewed herbal tea",32,80
+598,Beverages,Tea,"Brewed herbal tea",32,80
+5515,Beverages,Tea,"Brewed herbal tea",32,96
+229,Beverages,Tea,"Brewed herbal tea",32,96
+8099,Beverages,Tea,"Brewed herbal tea",32,96
+8339,Beverages,Tea,"Brewed herbal tea",32,96
+734,Beverages,Tea,"Brewed herbal tea",32,96
+5416,Beverages,Tea,"Brewed herbal tea",32,96
+239,Beverages,Tea,"Brewed herbal tea",32,96
+5652,Beverages,Tea,"Brewed herbal tea",32,96
+221,Beverages,Tea,"Brewed herbal tea",32,96
+744,Beverages,Tea,"Brewed herbal tea",32,80
+305,Beverages,Tea,"Brewed herbal tea",32,80
+5502,Beverages,Tea,"Brewed herbal tea",32,80
+382,Beverages,Tea,"Brewed herbal tea",32,80
+5326,Beverages,Tea,"Brewed herbal tea",32,96
+5538,Beverages,Tea,"Brewed herbal tea",32,96
+495,Beverages,Tea,"Brewed herbal tea",32,96
+153,Beverages,Tea,"Brewed Green tea",32,80
+8013,Beverages,Coffee,"Drip coffee",32,64
+8482,Beverages,Coffee,"Drip coffee",32,64
+74,Beverages,Coffee,"Drip coffee",32,64
+3,Beverages,Coffee,"Drip coffee",32,64
+8485,Beverages,Coffee,"Drip coffee",32,80
+264,Beverages,Coffee,"Drip coffee",32,80
+598,Beverages,Coffee,"Drip coffee",32,80
+718,Beverages,Coffee,"Drip coffee",32,96
+86,Beverages,Coffee,"Drip coffee",32,96
+8262,Beverages,Coffee,"Organic brewed coffee",32,70.4
+5685,Beverages,Coffee,"Organic brewed coffee",32,70.4
+5262,Beverages,Coffee,"Organic brewed coffee",32,70.4
+202,Beverages,Coffee,"Organic brewed coffee",32,70.4
+8455,Beverages,Coffee,"Organic brewed coffee",32,96
+580,Beverages,Coffee,"Organic brewed coffee",32,96
+68,Beverages,Coffee,"Organic brewed coffee",32,112
+8364,Beverages,Coffee,"Organic brewed coffee",32,112
+8266,Beverages,Coffee,"Organic brewed coffee",32,112
+8261,Beverages,Coffee,"Gourmet brewed coffee",32,64
+659,Beverages,Coffee,"Gourmet brewed coffee",32,64
+6,Beverages,Coffee,"Gourmet brewed coffee",32,64
+323,Beverages,Coffee,"Gourmet brewed coffee",32,64
+8020,Beverages,Coffee,"Gourmet brewed coffee",32,80
+8495,Beverages,Coffee,"Gourmet brewed coffee",32,80
+5656,Beverages,Coffee,"Gourmet brewed coffee",32,96
+406,Beverages,Coffee,"Gourmet brewed coffee",32,96
+8490,Beverages,Coffee,"Gourmet brewed coffee",32,96
+180,Beverages,Coffee,"Gourmet brewed coffee",32,96
+8341,Beverages,Coffee,"Gourmet brewed coffee",32,96
+642,Beverages,Coffee,"Gourmet brewed coffee",32,96
+8427,Beverages,Coffee,"Gourmet brewed coffee",32,96
+501,Beverages,Coffee,"Gourmet brewed coffee",32,70.4
+353,Beverages,Coffee,"Gourmet brewed coffee",32,70.4
+8403,Beverages,Coffee,"Gourmet brewed coffee",32,96
+5421,Beverages,Coffee,"Gourmet brewed coffee",32,112
+712,Beverages,Tea,"Brewed Chai tea",32,96
+8014,Beverages,Tea,"Brewed Chai tea",32,80
+731,Beverages,Tea,"Brewed Chai tea",32,80
+8128,Beverages,Tea,"Brewed Chai tea",32,80
+692,Beverages,Tea,"Brewed Chai tea",32,128
+8446,Beverages,Tea,"Brewed Chai tea",32,128
+498,Beverages,Tea,"Brewed Chai tea",32,128
+5101,Beverages,Tea,"Brewed Chai tea",32,128
+392,Beverages,Tea,"Brewed Chai tea",32,81.6
+8323,Beverages,Tea,"Brewed Chai tea",32,81.6
+135,Beverages,Tea,"Brewed Chai tea",32,81.6
+148,Beverages,Tea,"Brewed Chai tea",32,81.6
+745,Beverages,Tea,"Brewed Chai tea",32,81.6
+8489,Beverages,Tea,"Brewed Chai tea",32,99.2
+5842,Beverages,Tea,"Brewed Chai tea",32,99.2
+5661,Beverages,Tea,"Brewed Chai tea",32,99.2
+5257,Beverages,Tea,"Brewed Chai tea",32,99.2
+66,Beverages,"Drinking Chocolate","Hot chocolate",32,112
+8397,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+8231,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+503,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+5704,Beverages,"Drinking Chocolate","Hot chocolate",32,144
+8285,Beverages,Tea,"Brewed Chai tea",31,93
+250,Beverages,Tea,"Brewed Chai tea",31,93
+8051,Beverages,Tea,"Brewed Chai tea",31,77.5
+5507,Beverages,Tea,"Brewed Chai tea",31,124
+319,Beverages,Tea,"Brewed Chai tea",31,124
+725,Beverages,Tea,"Brewed Black tea",31,77.5
+8370,Beverages,Tea,"Brewed Black tea",31,77.5
+8471,Beverages,Tea,"Brewed Black tea",31,77.5
+440,Beverages,Tea,"Brewed Black tea",31,77.5
+5490,Beverages,Tea,"Brewed Black tea",31,77.5
+5194,Beverages,Tea,"Brewed Black tea",31,93
+417,Beverages,Tea,"Brewed Black tea",31,77.5
+8030,Beverages,Tea,"Brewed Chai tea",31,77.5
+714,Beverages,Tea,"Brewed Chai tea",31,77.5
+48,Beverages,Coffee,"Gourmet brewed coffee",31,108.5
+5825,Beverages,Coffee,"Gourmet brewed coffee",31,108.5
+8446,Beverages,Coffee,"Barista Espresso",31,93
+8078,Beverages,Coffee,"Barista Espresso",31,93
+5435,Beverages,Coffee,"Barista Espresso",31,116.25
+5405,Beverages,"Drinking Chocolate","Hot chocolate",31,147.25
+8495,Beverages,"Drinking Chocolate","Hot chocolate",31,147.25
+736,Beverages,"Drinking Chocolate","Hot chocolate",31,147.25
+5487,Add-ons,Flavours,"Regular syrup",31,24.8
+754,Beverages,Coffee,"Organic brewed coffee",31,108.5
+8180,Beverages,Coffee,"Gourmet brewed coffee",31,77.5
+5163,Beverages,Coffee,"Gourmet brewed coffee",31,93
+5616,Beverages,Coffee,"Gourmet brewed coffee",31,93
+5326,Beverages,Coffee,"Gourmet brewed coffee",31,93
+8407,Beverages,Coffee,"Gourmet brewed coffee",31,108.5
+5629,Beverages,Coffee,"Barista Espresso",31,131.75
+8467,Beverages,Coffee,"Barista Espresso",31,116.25
+8480,Beverages,Tea,"Brewed herbal tea",31,77.5
+8452,Beverages,Tea,"Brewed herbal tea",31,77.5
+180,Beverages,Tea,"Brewed herbal tea",31,93
+188,Beverages,Coffee,"Drip coffee",31,93
+285,Beverages,Coffee,"Organic brewed coffee",31,93
+8398,Beverages,Coffee,"Organic brewed coffee",31,93
+8302,Beverages,Coffee,"Organic brewed coffee",31,93
+1000,"Whole Bean/Teas","Loose Tea","Chai tea",30,268.5
+5115,Beverages,Coffee,"Drip coffee",30,60
+100,Beverages,Coffee,"Drip coffee",30,60
+5286,Beverages,Coffee,"Drip coffee",30,60
+5880,Beverages,Coffee,"Drip coffee",30,60
+5095,Beverages,Coffee,"Drip coffee",30,60
+8401,Beverages,Coffee,"Drip coffee",30,60
+8186,Beverages,Coffee,"Drip coffee",30,60
+8145,Beverages,Coffee,"Drip coffee",30,75
+5174,Beverages,Coffee,"Drip coffee",30,90
+5158,Beverages,Coffee,"Drip coffee",30,90
+8282,Beverages,Coffee,"Drip coffee",30,90
+5850,Beverages,Coffee,"Organic brewed coffee",30,66
+5468,Beverages,Coffee,"Organic brewed coffee",30,90
+8470,Beverages,Coffee,"Gourmet brewed coffee",30,105
+5900,Beverages,Coffee,"Gourmet brewed coffee",30,105
+5151,Beverages,Coffee,"Gourmet brewed coffee",30,105
+8106,Beverages,Coffee,"Gourmet brewed coffee",30,105
+5700,Beverages,Coffee,"Gourmet brewed coffee",30,105
+8427,Beverages,Coffee,"Premium brewed coffee",30,73.5
+5303,Beverages,Coffee,"Premium brewed coffee",30,73.5
+141,Beverages,Coffee,"Premium brewed coffee",30,73.5
+5182,Beverages,Coffee,"Premium brewed coffee",30,73.5
+5651,Beverages,Coffee,"Premium brewed coffee",30,73.5
+5269,Beverages,Coffee,"Premium brewed coffee",30,73.5
+35,Beverages,Coffee,"Premium brewed coffee",30,93
+5134,Beverages,Coffee,"Premium brewed coffee",30,93
+33,Beverages,Coffee,"Premium brewed coffee",30,93
+5070,Beverages,Coffee,"Premium brewed coffee",30,93
+8129,Beverages,Coffee,"Barista Espresso",30,90
+508,Beverages,Coffee,"Barista Espresso",30,90
+5143,Beverages,Coffee,"Barista Espresso",30,90
+8199,Beverages,Coffee,"Barista Espresso",30,90
+8145,Beverages,Coffee,"Barista Espresso",30,90
+5751,Beverages,Coffee,"Barista Espresso",30,90
+5181,Beverages,Coffee,"Barista Espresso",30,90
+8226,Beverages,Coffee,"Barista Espresso",30,90
+99,Beverages,Coffee,"Barista Espresso",30,90
+5424,Beverages,Coffee,"Barista Espresso",30,90
+5096,Beverages,Coffee,"Barista Espresso",30,90
+414,Beverages,Coffee,"Barista Espresso",30,112.5
+374,Beverages,Coffee,"Barista Espresso",30,112.5
+215,Beverages,Coffee,"Barista Espresso",30,112.5
+400,Beverages,Coffee,"Barista Espresso",30,112.5
+8369,Beverages,Coffee,"Barista Espresso",30,112.5
+5861,Beverages,Coffee,"Barista Espresso",30,112.5
+8276,Beverages,Coffee,"Barista Espresso",30,112.5
+370,Beverages,Coffee,"Barista Espresso",30,112.5
+8368,Beverages,Coffee,"Barista Espresso",30,112.5
+8271,Beverages,Coffee,"Barista Espresso",30,112.5
+8340,Beverages,Coffee,"Barista Espresso",30,112.5
+8202,Beverages,Coffee,"Barista Espresso",30,127.5
+8469,Beverages,Coffee,"Barista Espresso",30,127.5
+5604,Beverages,Coffee,"Barista Espresso",30,127.5
+5105,Beverages,Coffee,"Barista Espresso",30,127.5
+5434,Beverages,Coffee,"Barista Espresso",30,127.5
+5858,Beverages,Tea,"Brewed Chai tea",30,90
+5945,Beverages,Tea,"Brewed Chai tea",30,90
+355,Beverages,Tea,"Brewed Chai tea",30,90
+8275,Beverages,Tea,"Brewed Chai tea",30,75
+53,Beverages,Tea,"Brewed Chai tea",30,75
+5564,Beverages,Tea,"Brewed Chai tea",30,75
+5791,Beverages,Tea,"Brewed Chai tea",30,120
+5590,Beverages,Tea,"Brewed Chai tea",30,76.5
+8179,Beverages,Tea,"Brewed Chai tea",30,76.5
+5237,Beverages,Tea,"Brewed Chai tea",30,76.5
+5541,Beverages,Tea,"Brewed Chai tea",30,76.5
+8018,Beverages,Tea,"Brewed Chai tea",30,93
+30,Beverages,"Drinking Chocolate","Hot chocolate",30,105
+5905,Beverages,"Drinking Chocolate","Hot chocolate",30,135
+8500,Beverages,Coffee,"Barista Espresso",30,90
+552,Beverages,Tea,"Brewed Green tea",30,75
+80,Beverages,Tea,"Brewed Green tea",30,75
+5729,Beverages,Tea,"Brewed Green tea",30,75
+8307,Beverages,Tea,"Brewed Green tea",30,90
+5876,Beverages,Tea,"Brewed Green tea",30,90
+8304,Beverages,Tea,"Brewed Black tea",30,75
+8196,Beverages,Tea,"Brewed Black tea",30,75
+5209,Beverages,Tea,"Brewed Black tea",30,75
+487,Beverages,Tea,"Brewed Black tea",30,75
+5810,Beverages,Tea,"Brewed Black tea",30,75
+5891,Beverages,Tea,"Brewed Black tea",30,75
+5383,Beverages,Tea,"Brewed Black tea",30,75
+8428,Beverages,Tea,"Brewed Black tea",30,90
+335,Beverages,Tea,"Brewed Black tea",30,90
+5805,Beverages,Tea,"Brewed Black tea",30,90
+5516,Beverages,Tea,"Brewed Black tea",30,90
+5429,Beverages,Tea,"Brewed Black tea",30,90
+442,Beverages,Tea,"Brewed Black tea",30,90
+674,Beverages,Tea,"Brewed Black tea",30,90
+613,Beverages,Tea,"Brewed Black tea",30,90
+301,Beverages,Tea,"Brewed Black tea",30,90
+5782,Beverages,Tea,"Brewed Black tea",30,90
+8457,Beverages,Tea,"Brewed Black tea",30,90
+5511,Beverages,Tea,"Brewed Black tea",30,75
+8015,Beverages,Tea,"Brewed Black tea",30,75
+683,Beverages,Tea,"Brewed Black tea",30,75
+5057,Beverages,Tea,"Brewed Black tea",30,75
+5576,Beverages,Tea,"Brewed Black tea",30,90
+5067,Beverages,Tea,"Brewed Black tea",30,90
+5625,Beverages,Tea,"Brewed Black tea",30,90
+8496,Beverages,Tea,"Brewed Chai tea",30,75
+5012,Beverages,Tea,"Brewed Chai tea",30,75
+5204,Beverages,Tea,"Brewed Chai tea",30,75
+87,Beverages,Tea,"Brewed Chai tea",30,75
+5153,Beverages,Tea,"Brewed Chai tea",30,75
+8118,Beverages,Tea,"Brewed Chai tea",30,75
+390,Beverages,Tea,"Brewed Chai tea",30,75
+5484,Beverages,Tea,"Brewed Chai tea",30,75
+5515,Beverages,Tea,"Brewed Chai tea",30,75
+458,Beverages,Tea,"Brewed Chai tea",30,75
+5878,Beverages,Tea,"Brewed Chai tea",30,75
+5678,Beverages,Tea,"Brewed Chai tea",30,75
+5115,Beverages,Coffee,"Barista Espresso",30,127.5
+8280,Beverages,Coffee,"Barista Espresso",30,127.5
+8173,Beverages,Coffee,"Barista Espresso",30,127.5
+38,Beverages,Coffee,"Barista Espresso",30,127.5
+351,Beverages,Coffee,"Barista Espresso",30,127.5
+8297,Beverages,Coffee,"Barista Espresso",30,127.5
+5341,Beverages,Coffee,"Barista Espresso",30,112.5
+115,Beverages,Coffee,"Barista Espresso",30,112.5
+8409,Beverages,Coffee,"Barista Espresso",30,112.5
+601,Beverages,Coffee,"Barista Espresso",30,112.5
+5594,Beverages,Coffee,"Barista Espresso",30,112.5
+576,Beverages,Coffee,"Barista Espresso",30,127.5
+5724,Beverages,Coffee,"Barista Espresso",30,127.5
+5362,Beverages,Coffee,"Barista Espresso",30,127.5
+384,Beverages,Coffee,"Barista Espresso",30,127.5
+5345,Beverages,Coffee,"Barista Espresso",30,127.5
+8395,Beverages,Tea,"Brewed herbal tea",30,75
+5161,Beverages,Tea,"Brewed herbal tea",30,75
+5453,Beverages,Tea,"Brewed herbal tea",30,75
+5464,Beverages,Tea,"Brewed herbal tea",30,75
+8223,Beverages,Tea,"Brewed herbal tea",30,75
+5102,Beverages,Tea,"Brewed herbal tea",30,75
+8445,Beverages,Tea,"Brewed herbal tea",30,75
+8163,Beverages,Tea,"Brewed herbal tea",30,75
+8469,Beverages,Tea,"Brewed herbal tea",30,75
+689,Beverages,Tea,"Brewed herbal tea",30,75
+8069,Beverages,Tea,"Brewed herbal tea",30,90
+8126,Beverages,Tea,"Brewed herbal tea",30,90
+5545,Beverages,Tea,"Brewed herbal tea",30,90
+274,Beverages,Tea,"Brewed herbal tea",30,90
+537,Beverages,Tea,"Brewed herbal tea",30,90
+428,Beverages,Tea,"Brewed herbal tea",30,75
+8196,Beverages,Tea,"Brewed herbal tea",30,75
+5919,Beverages,Tea,"Brewed herbal tea",30,75
+8436,Beverages,Tea,"Brewed herbal tea",30,90
+5566,Beverages,Tea,"Brewed herbal tea",30,90
+5417,Beverages,Tea,"Brewed herbal tea",30,90
+49,Beverages,Tea,"Brewed herbal tea",30,90
+5382,Beverages,Tea,"Brewed Green tea",30,75
+5609,Beverages,"Drinking Chocolate","Hot chocolate",30,135
+5793,Beverages,"Drinking Chocolate","Hot chocolate",30,112.5
+97,Beverages,"Drinking Chocolate","Hot chocolate",30,112.5
+118,Beverages,"Drinking Chocolate","Hot chocolate",30,142.5
+643,Beverages,"Drinking Chocolate","Hot chocolate",30,142.5
+5858,Beverages,"Drinking Chocolate","Hot chocolate",30,142.5
+5892,Add-ons,Flavours,"Regular syrup",30,24
+5055,Add-ons,Flavours,"Regular syrup",30,24
+432,Add-ons,Flavours,"Regular syrup",30,24
+5115,Add-ons,Flavours,"Regular syrup",30,24
+5025,Add-ons,Flavours,"Sugar free syrup",30,24
+608,Beverages,Coffee,"Organic brewed coffee",30,105
+5009,Beverages,Coffee,"Organic brewed coffee",30,105
+5876,Beverages,Coffee,"Organic brewed coffee",30,105
+5847,Beverages,Coffee,"Gourmet brewed coffee",30,60
+545,Beverages,Coffee,"Gourmet brewed coffee",30,60
+163,Beverages,Coffee,"Gourmet brewed coffee",30,60
+5941,Beverages,Coffee,"Gourmet brewed coffee",30,60
+729,Beverages,Coffee,"Gourmet brewed coffee",30,60
+8361,Beverages,Coffee,"Gourmet brewed coffee",30,60
+5697,Beverages,Coffee,"Gourmet brewed coffee",30,60
+302,Beverages,Coffee,"Gourmet brewed coffee",30,75
+5704,Beverages,Coffee,"Gourmet brewed coffee",30,75
+5773,Beverages,Coffee,"Gourmet brewed coffee",30,90
+570,Beverages,Coffee,"Gourmet brewed coffee",30,90
+5620,Beverages,Coffee,"Gourmet brewed coffee",30,90
+8248,Beverages,Coffee,"Gourmet brewed coffee",30,90
+429,Beverages,Coffee,"Gourmet brewed coffee",30,90
+5005,Beverages,Coffee,"Gourmet brewed coffee",30,66
+174,Beverages,Coffee,"Gourmet brewed coffee",30,66
+393,Beverages,Coffee,"Gourmet brewed coffee",30,66
+5331,Beverages,Coffee,"Gourmet brewed coffee",30,66
+5636,Beverages,Coffee,"Gourmet brewed coffee",30,66
+5350,Beverages,Coffee,"Gourmet brewed coffee",30,66
+5617,Beverages,Coffee,"Gourmet brewed coffee",30,90
+8189,Beverages,Coffee,"Gourmet brewed coffee",30,105
+441,Beverages,Coffee,"Gourmet brewed coffee",30,105
+5187,Beverages,Coffee,"Gourmet brewed coffee",29,72.5
+184,Beverages,Coffee,"Gourmet brewed coffee",29,87
+785,Beverages,Coffee,"Gourmet brewed coffee",29,63.8
+638,Beverages,Coffee,"Gourmet brewed coffee",29,87
+279,Food,Bakery,Scone,29,87
+45,Beverages,Coffee,"Premium brewed coffee",29,71.05
+8245,Beverages,Coffee,"Premium brewed coffee",29,89.9
+143,Beverages,Coffee,"Premium brewed coffee",29,89.9
+5044,Beverages,Coffee,"Premium brewed coffee",29,108.75
+5284,Beverages,Coffee,"Premium brewed coffee",29,108.75
+8074,Beverages,Coffee,"Barista Espresso",29,108.75
+189,Beverages,Coffee,"Barista Espresso",29,108.75
+5510,Beverages,Coffee,"Barista Espresso",29,108.75
+789,Beverages,Coffee,"Barista Espresso",29,108.75
+8500,Beverages,Coffee,"Drip coffee",29,58
+701,Beverages,Coffee,"Drip coffee",29,72.5
+731,Beverages,Coffee,"Drip coffee",29,72.5
+346,Beverages,Coffee,"Drip coffee",29,72.5
+8218,Beverages,Coffee,"Drip coffee",29,72.5
+5620,Beverages,Coffee,"Drip coffee",29,87
+577,Beverages,Coffee,"Organic brewed coffee",29,63.8
+185,Beverages,Coffee,"Organic brewed coffee",29,87
+8164,Beverages,Coffee,"Organic brewed coffee",29,87
+268,Beverages,Tea,"Brewed Chai tea",29,72.5
+8432,Beverages,Tea,"Brewed Chai tea",29,72.5
+5141,Beverages,Tea,"Brewed Chai tea",29,72.5
+40,Beverages,Tea,"Brewed Chai tea",29,116
+681,Beverages,Tea,"Brewed Chai tea",29,89.9
+697,Beverages,Tea,"Brewed Chai tea",29,89.9
+476,Beverages,Tea,"Brewed Chai tea",29,89.9
+134,Beverages,"Drinking Chocolate","Hot chocolate",29,101.5
+5402,Beverages,"Drinking Chocolate","Hot chocolate",29,137.75
+5711,Beverages,"Drinking Chocolate","Hot chocolate",29,137.75
+5879,Add-ons,Flavours,"Regular syrup",29,23.2
+5465,Add-ons,Flavours,"Regular syrup",29,23.2
+643,Food,Bakery,Scone,29,94.25
+8096,Beverages,Tea,"Brewed Green tea",29,87
+5335,Beverages,Tea,"Brewed Green tea",29,87
+8213,Beverages,Tea,"Brewed Black tea",29,72.5
+5055,Beverages,Tea,"Brewed Black tea",29,72.5
+55,Beverages,Tea,"Brewed Black tea",29,72.5
+309,Beverages,Tea,"Brewed Black tea",29,72.5
+728,Beverages,Tea,"Brewed Black tea",29,87
+247,Beverages,Tea,"Brewed Black tea",29,87
+321,Beverages,Tea,"Brewed Black tea",29,87
+8165,Beverages,Tea,"Brewed Black tea",29,72.5
+8002,Beverages,Tea,"Brewed Black tea",29,87
+5394,Beverages,Tea,"Brewed Black tea",29,87
+798,Beverages,Tea,"Brewed Chai tea",29,72.5
+5453,Beverages,Coffee,"Barista Espresso",29,123.25
+115,Beverages,Tea,"Brewed herbal tea",29,72.5
+159,Beverages,Tea,"Brewed herbal tea",29,72.5
+5123,Beverages,Tea,"Brewed herbal tea",29,72.5
+5860,Beverages,Tea,"Brewed herbal tea",29,72.5
+5670,Beverages,Tea,"Brewed herbal tea",29,72.5
+8221,Beverages,Tea,"Brewed herbal tea",29,72.5
+8343,Beverages,Tea,"Brewed herbal tea",29,72.5
+5224,Beverages,Tea,"Brewed herbal tea",29,72.5
+698,Beverages,Tea,"Brewed herbal tea",29,87
+399,Beverages,Tea,"Brewed Green tea",29,72.5
+5535,Beverages,Coffee,"Barista Espresso",28,119
+8481,Beverages,Coffee,"Barista Espresso",28,119
+483,Beverages,Coffee,"Barista Espresso",28,119
+8183,Beverages,Coffee,"Barista Espresso",28,119
+5127,Beverages,Coffee,"Barista Espresso",28,119
+5097,Beverages,Coffee,"Barista Espresso",28,119
+5470,Beverages,Coffee,"Barista Espresso",28,119
+8188,Beverages,Coffee,"Barista Espresso",28,119
+659,Beverages,Tea,"Brewed herbal tea",28,70
+138,Beverages,Tea,"Brewed herbal tea",28,70
+8017,Beverages,Tea,"Brewed herbal tea",28,70
+8491,Beverages,Tea,"Brewed herbal tea",28,70
+177,Beverages,Tea,"Brewed herbal tea",28,70
+5544,Beverages,Tea,"Brewed herbal tea",28,70
+607,Beverages,Tea,"Brewed herbal tea",28,84
+5595,Beverages,Tea,"Brewed herbal tea",28,84
+8117,Beverages,Tea,"Brewed herbal tea",28,84
+8286,Beverages,Tea,"Brewed herbal tea",28,84
+8340,Beverages,Tea,"Brewed herbal tea",28,84
+252,Beverages,Tea,"Brewed herbal tea",28,84
+179,Beverages,Tea,"Brewed herbal tea",28,84
+176,Beverages,Tea,"Brewed herbal tea",28,70
+5497,Beverages,Tea,"Brewed herbal tea",28,70
+8309,Beverages,Tea,"Brewed herbal tea",28,70
+5876,Beverages,Tea,"Brewed herbal tea",28,84
+8062,Beverages,Tea,"Brewed herbal tea",28,84
+8236,Beverages,Tea,"Brewed herbal tea",28,84
+8429,Beverages,Tea,"Brewed herbal tea",28,84
+686,Beverages,Tea,"Brewed herbal tea",28,84
+330,Beverages,Tea,"Brewed Green tea",28,70
+5820,Beverages,Tea,"Brewed Green tea",28,70
+8159,Beverages,Tea,"Brewed Green tea",28,70
+5464,Beverages,Tea,"Brewed Green tea",28,70
+8257,Beverages,Tea,"Brewed Green tea",28,70
+156,Beverages,Coffee,"Drip coffee",28,56
+8289,Beverages,Coffee,"Drip coffee",28,56
+92,Beverages,Coffee,"Drip coffee",28,56
+5602,Beverages,Coffee,"Drip coffee",28,56
+249,Beverages,Coffee,"Drip coffee",28,70
+692,Beverages,Coffee,"Drip coffee",28,70
+12,Beverages,Coffee,"Drip coffee",28,70
+8147,Beverages,Coffee,"Drip coffee",28,70
+8285,Beverages,Coffee,"Drip coffee",28,84
+135,Beverages,Coffee,"Drip coffee",28,84
+621,Beverages,Coffee,"Organic brewed coffee",28,61.6
+216,Beverages,Coffee,"Organic brewed coffee",28,61.6
+479,Beverages,Coffee,"Organic brewed coffee",28,61.6
+411,Beverages,Coffee,"Organic brewed coffee",28,61.6
+8443,Beverages,Coffee,"Organic brewed coffee",28,61.6
+396,Beverages,Coffee,"Organic brewed coffee",28,84
+8251,Food,Bakery,Biscotti,28,98
+8042,Beverages,Coffee,"Organic brewed coffee",28,98
+8191,Beverages,Coffee,"Organic brewed coffee",28,98
+781,Beverages,Coffee,"Organic brewed coffee",28,98
+5111,Beverages,Coffee,"Organic brewed coffee",28,98
+320,Beverages,Coffee,"Organic brewed coffee",28,98
+5854,Beverages,Coffee,"Organic brewed coffee",28,98
+8410,Beverages,Coffee,"Gourmet brewed coffee",28,56
+102,Beverages,Coffee,"Gourmet brewed coffee",28,56
+8439,Beverages,Coffee,"Gourmet brewed coffee",28,56
+319,Beverages,Coffee,"Gourmet brewed coffee",28,56
+313,Beverages,Coffee,"Gourmet brewed coffee",28,56
+636,Beverages,Coffee,"Gourmet brewed coffee",28,56
+5132,Beverages,Coffee,"Gourmet brewed coffee",28,56
+5211,Beverages,Coffee,"Gourmet brewed coffee",28,56
+5446,Beverages,Coffee,"Gourmet brewed coffee",28,70
+634,Beverages,Coffee,"Gourmet brewed coffee",28,70
+639,Beverages,Coffee,"Gourmet brewed coffee",28,84
+5766,Beverages,Coffee,"Gourmet brewed coffee",28,84
+5510,Beverages,Coffee,"Gourmet brewed coffee",28,84
+8046,Beverages,Coffee,"Gourmet brewed coffee",28,84
+8374,Beverages,Coffee,"Gourmet brewed coffee",28,84
+601,Beverages,Coffee,"Gourmet brewed coffee",28,84
+5480,Beverages,Coffee,"Gourmet brewed coffee",28,84
+5102,Beverages,Coffee,"Gourmet brewed coffee",28,84
+8032,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+8166,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+8178,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+170,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+5225,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+8406,Beverages,Coffee,"Gourmet brewed coffee",28,61.6
+8077,Beverages,Coffee,"Gourmet brewed coffee",28,84
+8229,Beverages,Coffee,"Gourmet brewed coffee",28,98
+8369,Beverages,Coffee,"Gourmet brewed coffee",28,98
+5064,Beverages,Coffee,"Gourmet brewed coffee",28,98
+388,Beverages,Coffee,"Premium brewed coffee",28,68.6
+695,Beverages,Coffee,"Premium brewed coffee",28,68.6
+5879,Beverages,Coffee,"Premium brewed coffee",28,68.6
+395,Beverages,Coffee,"Premium brewed coffee",28,86.8
+8109,Beverages,Coffee,"Premium brewed coffee",28,105
+387,Beverages,Coffee,"Premium brewed coffee",28,105
+5347,Beverages,Coffee,"Premium brewed coffee",28,105
+5878,Beverages,Coffee,"Premium brewed coffee",28,105
+8073,Beverages,Coffee,"Barista Espresso",28,84
+440,Beverages,Coffee,"Barista Espresso",28,84
+342,Beverages,Coffee,"Barista Espresso",28,105
+5719,Beverages,Coffee,"Barista Espresso",28,105
+8043,Beverages,Coffee,"Barista Espresso",28,105
+360,Beverages,Coffee,"Barista Espresso",28,105
+318,Beverages,Coffee,"Barista Espresso",28,119
+378,Beverages,Tea,"Brewed Green tea",28,70
+8331,Beverages,Tea,"Brewed Green tea",28,70
+5674,Beverages,Tea,"Brewed Green tea",28,70
+545,Beverages,Tea,"Brewed Green tea",28,84
+5314,Beverages,Tea,"Brewed Green tea",28,84
+8242,Beverages,Tea,"Brewed Green tea",28,84
+599,Beverages,Tea,"Brewed Black tea",28,70
+8426,Beverages,Tea,"Brewed Black tea",28,70
+5818,Beverages,Tea,"Brewed Black tea",28,70
+5835,Beverages,Tea,"Brewed Black tea",28,70
+5190,Beverages,Tea,"Brewed Black tea",28,84
+5893,Beverages,Tea,"Brewed Black tea",28,84
+5550,Beverages,Tea,"Brewed Black tea",28,84
+5565,Beverages,Tea,"Brewed Black tea",28,84
+746,Beverages,Tea,"Brewed Black tea",28,84
+5123,Beverages,Tea,"Brewed Black tea",28,84
+448,Beverages,Tea,"Brewed Black tea",28,84
+626,Beverages,Tea,"Brewed Black tea",28,84
+5535,Beverages,Tea,"Brewed Black tea",28,70
+5576,Beverages,Tea,"Brewed Black tea",28,70
+776,Beverages,Tea,"Brewed Black tea",28,84
+8076,Beverages,Tea,"Brewed Black tea",28,84
+678,Beverages,Tea,"Brewed Black tea",28,84
+8026,Beverages,Tea,"Brewed Chai tea",28,70
+8041,Beverages,Tea,"Brewed Chai tea",28,70
+28,Beverages,Tea,"Brewed Chai tea",28,70
+8213,Beverages,Tea,"Brewed Chai tea",28,70
+608,Beverages,Tea,"Brewed Chai tea",28,70
+5013,Beverages,Tea,"Brewed Chai tea",28,70
+5458,Beverages,Tea,"Brewed Chai tea",28,70
+5885,Beverages,Tea,"Brewed Chai tea",28,70
+259,Beverages,Tea,"Brewed Chai tea",28,70
+8304,Beverages,Tea,"Brewed Chai tea",28,70
+8007,Beverages,Tea,"Brewed Chai tea",28,70
+166,Beverages,Tea,"Brewed Chai tea",28,70
+8428,Beverages,Tea,"Brewed Chai tea",28,70
+685,Beverages,Tea,"Brewed Chai tea",28,84
+8013,Beverages,Tea,"Brewed Chai tea",28,84
+8236,Beverages,Tea,"Brewed Chai tea",28,84
+5939,Beverages,Tea,"Brewed Chai tea",28,70
+189,Beverages,Tea,"Brewed Chai tea",28,70
+5082,Beverages,Tea,"Brewed Chai tea",28,70
+5174,Beverages,Tea,"Brewed Chai tea",28,70
+593,Beverages,Tea,"Brewed Chai tea",28,112
+65,Beverages,Tea,"Brewed Chai tea",28,112
+289,Beverages,Tea,"Brewed Chai tea",28,112
+5488,Beverages,Tea,"Brewed Chai tea",28,71.4
+326,Beverages,Tea,"Brewed Chai tea",28,71.4
+5508,Beverages,Tea,"Brewed Chai tea",28,71.4
+8458,Beverages,Tea,"Brewed Chai tea",28,86.8
+233,Beverages,Tea,"Brewed Chai tea",28,86.8
+8013,Beverages,"Drinking Chocolate","Hot chocolate",28,98
+5289,Beverages,"Drinking Chocolate","Hot chocolate",28,98
+8269,Beverages,"Drinking Chocolate","Hot chocolate",28,98
+5712,Beverages,"Drinking Chocolate","Hot chocolate",28,126
+107,Beverages,"Drinking Chocolate","Hot chocolate",28,126
+8245,Beverages,"Drinking Chocolate","Hot chocolate",28,126
+5502,Beverages,"Drinking Chocolate","Hot chocolate",28,126
+8081,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+8249,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+496,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+435,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+22,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+221,Beverages,"Drinking Chocolate","Hot chocolate",28,105
+8209,Beverages,"Drinking Chocolate","Hot chocolate",28,133
+764,Beverages,"Drinking Chocolate","Hot chocolate",28,133
+8147,Beverages,"Drinking Chocolate","Hot chocolate",28,133
+136,Beverages,"Drinking Chocolate","Hot chocolate",28,133
+5598,Add-ons,Flavours,"Regular syrup",28,22.4
+360,Add-ons,Flavours,"Regular syrup",28,22.4
+342,Add-ons,Flavours,"Sugar free syrup",28,22.4
+30,Add-ons,Flavours,"Sugar free syrup",28,22.4
+5389,Add-ons,Flavours,"Sugar free syrup",28,22.4
+8152,Add-ons,Flavours,"Sugar free syrup",28,22.4
+5199,Food,Bakery,Pastry,28,105
+520,Beverages,"Drinking Chocolate","Hot chocolate",27,121.5
+5717,Beverages,"Drinking Chocolate","Hot chocolate",27,121.5
+5406,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+8069,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+5829,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+176,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+8206,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+5275,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+38,Beverages,"Drinking Chocolate","Hot chocolate",27,101.25
+5630,Beverages,"Drinking Chocolate","Hot chocolate",27,128.25
+8499,Beverages,"Drinking Chocolate","Hot chocolate",27,128.25
+5164,Beverages,"Drinking Chocolate","Hot chocolate",27,128.25
+5765,Beverages,"Drinking Chocolate","Hot chocolate",27,128.25
+8264,Add-ons,Flavours,"Regular syrup",27,21.6
+8145,Add-ons,Flavours,"Regular syrup",27,21.6
+5684,Add-ons,Flavours,"Regular syrup",27,21.6
+5520,Add-ons,Flavours,"Regular syrup",27,21.6
+5941,Add-ons,Flavours,"Regular syrup",27,21.6
+5304,Add-ons,Flavours,"Regular syrup",27,21.6
+5128,Add-ons,Flavours,"Sugar free syrup",27,21.6
+5662,Food,Bakery,Scone,27,87.75
+565,Food,Bakery,Scone,27,87.75
+8352,Beverages,Coffee,"Organic brewed coffee",27,94.5
+8092,Beverages,Coffee,"Organic brewed coffee",27,94.5
+395,Beverages,Coffee,"Gourmet brewed coffee",27,54
+8344,Beverages,Coffee,"Gourmet brewed coffee",27,54
+5420,Beverages,Coffee,"Gourmet brewed coffee",27,67.5
+5178,Beverages,Coffee,"Gourmet brewed coffee",27,67.5
+8394,Beverages,Coffee,"Gourmet brewed coffee",27,67.5
+8317,Beverages,Coffee,"Gourmet brewed coffee",27,81
+435,Beverages,Coffee,"Gourmet brewed coffee",27,81
+403,Beverages,Coffee,"Gourmet brewed coffee",27,81
+5881,Beverages,Coffee,"Gourmet brewed coffee",27,81
+5292,Beverages,Coffee,"Gourmet brewed coffee",27,81
+8284,Beverages,Coffee,"Gourmet brewed coffee",27,81
+440,Beverages,Coffee,"Gourmet brewed coffee",27,59.4
+5866,Beverages,Coffee,"Gourmet brewed coffee",27,59.4
+5739,Beverages,Coffee,"Gourmet brewed coffee",27,59.4
+5236,Beverages,Coffee,"Gourmet brewed coffee",27,59.4
+5749,Beverages,Coffee,"Gourmet brewed coffee",27,59.4
+8350,Beverages,Coffee,"Gourmet brewed coffee",27,81
+8441,Beverages,Coffee,"Gourmet brewed coffee",27,94.5
+5709,Beverages,Coffee,"Drip coffee",27,54
+5695,Beverages,Coffee,"Drip coffee",27,54
+5397,Beverages,Coffee,"Drip coffee",27,67.5
+5592,Beverages,Coffee,"Drip coffee",27,67.5
+8147,Beverages,Coffee,"Drip coffee",27,81
+8046,Beverages,Coffee,"Drip coffee",27,81
+100,Beverages,Coffee,"Drip coffee",27,81
+500,Beverages,Coffee,"Organic brewed coffee",27,59.4
+8048,Beverages,Coffee,"Organic brewed coffee",27,59.4
+8158,Beverages,Coffee,"Organic brewed coffee",27,59.4
+5354,Beverages,Coffee,"Organic brewed coffee",27,59.4
+5452,Beverages,Coffee,"Organic brewed coffee",27,81
+5233,Beverages,Coffee,"Barista Espresso",27,114.75
+5717,Beverages,Coffee,"Barista Espresso",27,101.25
+5240,Beverages,Coffee,"Barista Espresso",27,101.25
+5522,Beverages,Coffee,"Barista Espresso",27,114.75
+5576,Beverages,Tea,"Brewed herbal tea",27,67.5
+221,Beverages,Tea,"Brewed herbal tea",27,67.5
+5109,Beverages,Tea,"Brewed herbal tea",27,67.5
+5627,Beverages,Tea,"Brewed herbal tea",27,67.5
+5757,Beverages,Tea,"Brewed herbal tea",27,81
+5912,Beverages,Tea,"Brewed herbal tea",27,81
+8345,Beverages,Tea,"Brewed herbal tea",27,67.5
+739,Beverages,Tea,"Brewed herbal tea",27,67.5
+5384,Beverages,Tea,"Brewed herbal tea",27,67.5
+618,Beverages,Tea,"Brewed herbal tea",27,81
+5393,Beverages,Tea,"Brewed herbal tea",27,81
+549,Beverages,Tea,"Brewed herbal tea",27,81
+8431,Beverages,Tea,"Brewed Green tea",27,67.5
+192,Food,Bakery,Biscotti,27,87.75
+6000,Food,Bakery,Scone,27,152.01
+5081,Beverages,Coffee,"Barista Espresso",27,81
+5209,Beverages,Coffee,"Barista Espresso",27,81
+5938,Beverages,Tea,"Brewed Chai tea",27,81
+8397,Beverages,Tea,"Brewed Chai tea",27,67.5
+8121,Beverages,Tea,"Brewed Chai tea",27,108
+247,Beverages,Tea,"Brewed Chai tea",27,108
+275,Beverages,Tea,"Brewed Chai tea",27,108
+8405,Beverages,Tea,"Brewed Chai tea",27,108
+5414,Beverages,Tea,"Brewed Chai tea",27,108
+5268,Beverages,Tea,"Brewed Chai tea",27,108
+5179,Beverages,Tea,"Brewed Chai tea",27,108
+5354,Beverages,Tea,"Brewed Chai tea",27,68.85
+8441,Beverages,Tea,"Brewed Chai tea",27,68.85
+672,Beverages,Tea,"Brewed Chai tea",27,83.7
+5506,Beverages,Tea,"Brewed Chai tea",27,83.7
+189,Beverages,"Drinking Chocolate","Hot chocolate",27,94.5
+8409,Beverages,"Drinking Chocolate","Hot chocolate",27,94.5
+5585,Beverages,"Drinking Chocolate","Hot chocolate",27,94.5
+8483,Beverages,Coffee,"Gourmet brewed coffee",27,94.5
+5768,Beverages,Coffee,"Gourmet brewed coffee",27,94.5
+8265,Beverages,Coffee,"Gourmet brewed coffee",27,94.5
+500,Beverages,Coffee,"Gourmet brewed coffee",27,94.5
+678,Beverages,Coffee,"Premium brewed coffee",27,66.15
+5309,Beverages,Coffee,"Premium brewed coffee",27,66.15
+5596,Beverages,Coffee,"Premium brewed coffee",27,66.15
+8144,Beverages,Coffee,"Premium brewed coffee",27,66.15
+5654,Beverages,Coffee,"Premium brewed coffee",27,83.7
+5655,Beverages,Coffee,"Premium brewed coffee",27,83.7
+5040,Beverages,Coffee,"Premium brewed coffee",27,83.7
+5293,Beverages,Coffee,"Premium brewed coffee",27,83.7
+5610,Beverages,Coffee,"Barista Espresso",27,81
+8006,Beverages,Coffee,"Barista Espresso",27,81
+5791,Beverages,Coffee,"Barista Espresso",27,81
+8264,Beverages,Coffee,"Barista Espresso",27,101.25
+5928,Beverages,Coffee,"Barista Espresso",27,101.25
+5527,Beverages,Coffee,"Barista Espresso",27,101.25
+5224,Beverages,Coffee,"Barista Espresso",27,101.25
+8241,Beverages,Coffee,"Barista Espresso",27,101.25
+6,Beverages,Coffee,"Barista Espresso",27,114.75
+8180,Beverages,Tea,"Brewed Green tea",27,81
+8002,Beverages,Tea,"Brewed Green tea",27,81
+5821,Beverages,Tea,"Brewed Green tea",27,81
+8003,Beverages,Tea,"Brewed Black tea",27,67.5
+8389,Beverages,Tea,"Brewed Black tea",27,67.5
+5881,Beverages,Tea,"Brewed Black tea",27,67.5
+59,Beverages,Tea,"Brewed Black tea",27,67.5
+5642,Beverages,Tea,"Brewed Black tea",27,67.5
+8359,Beverages,Tea,"Brewed Black tea",27,67.5
+5465,Beverages,Tea,"Brewed Black tea",27,67.5
+5392,Beverages,Tea,"Brewed Black tea",27,67.5
+5391,Beverages,Tea,"Brewed Black tea",27,67.5
+31,Beverages,Tea,"Brewed Black tea",27,81
+237,Beverages,Tea,"Brewed Black tea",27,81
+578,Beverages,Tea,"Brewed Black tea",27,81
+8059,Beverages,Tea,"Brewed Black tea",27,81
+5318,Beverages,Tea,"Brewed Black tea",27,81
+8279,Beverages,Tea,"Brewed Black tea",27,81
+5387,Beverages,Tea,"Brewed Black tea",27,81
+8272,Beverages,Tea,"Brewed Chai tea",27,67.5
+5283,Beverages,Tea,"Brewed Chai tea",27,67.5
+747,Beverages,Tea,"Brewed Chai tea",27,67.5
+8077,Beverages,Tea,"Brewed Green tea",26,65
+5769,Beverages,Tea,"Brewed Green tea",26,78
+8124,Beverages,Tea,"Brewed Green tea",26,78
+172,Beverages,Tea,"Brewed Green tea",26,78
+8126,Beverages,Tea,"Brewed Green tea",26,78
+311,Beverages,Tea,"Brewed Black tea",26,65
+5233,Beverages,Tea,"Brewed Black tea",26,65
+8462,Beverages,Tea,"Brewed Black tea",26,65
+8097,Beverages,Tea,"Brewed Black tea",26,65
+8289,Beverages,Tea,"Brewed Black tea",26,65
+8345,Beverages,Tea,"Brewed Black tea",26,78
+8477,Beverages,Tea,"Brewed Black tea",26,78
+8343,Beverages,Tea,"Brewed Black tea",26,65
+5033,Beverages,Tea,"Brewed Black tea",26,65
+5103,Beverages,Tea,"Brewed Black tea",26,65
+8176,Beverages,Tea,"Brewed Black tea",26,65
+5289,Beverages,Tea,"Brewed Black tea",26,65
+499,Beverages,Tea,"Brewed Black tea",26,65
+5894,Beverages,Tea,"Brewed Black tea",26,78
+172,Beverages,Tea,"Brewed Chai tea",26,65
+8236,Beverages,Tea,"Brewed Chai tea",26,65
+5412,Beverages,Tea,"Brewed Chai tea",26,65
+8189,Beverages,Tea,"Brewed Chai tea",26,65
+534,Beverages,Tea,"Brewed Chai tea",26,65
+771,Beverages,Tea,"Brewed Chai tea",26,65
+5573,Beverages,Tea,"Brewed Chai tea",26,65
+8485,Beverages,Tea,"Brewed Chai tea",26,65
+697,Beverages,Tea,"Brewed Chai tea",26,65
+8412,Beverages,Tea,"Brewed Chai tea",26,65
+8376,Beverages,Coffee,"Barista Espresso",26,110.5
+8474,Beverages,Coffee,"Barista Espresso",26,110.5
+5386,Beverages,Coffee,"Barista Espresso",26,110.5
+8040,Beverages,Coffee,"Barista Espresso",26,110.5
+8489,Beverages,Coffee,"Barista Espresso",26,110.5
+484,Beverages,Coffee,"Barista Espresso",26,97.5
+8114,Beverages,Coffee,"Barista Espresso",26,97.5
+8416,Beverages,Coffee,"Barista Espresso",26,97.5
+688,Beverages,Coffee,"Barista Espresso",26,97.5
+447,Beverages,Coffee,"Barista Espresso",26,110.5
+8348,Beverages,Tea,"Brewed herbal tea",26,65
+5567,Beverages,Tea,"Brewed herbal tea",26,65
+5306,Beverages,Tea,"Brewed herbal tea",26,65
+179,Beverages,Tea,"Brewed herbal tea",26,65
+5419,Beverages,Tea,"Brewed herbal tea",26,65
+556,Beverages,Tea,"Brewed herbal tea",26,78
+5739,Beverages,Tea,"Brewed herbal tea",26,78
+5119,Beverages,Tea,"Brewed herbal tea",26,78
+5298,Beverages,Tea,"Brewed herbal tea",26,78
+8287,Beverages,Tea,"Brewed herbal tea",26,78
+8324,Beverages,Tea,"Brewed herbal tea",26,78
+556,Beverages,Tea,"Brewed herbal tea",26,65
+100,Beverages,Tea,"Brewed herbal tea",26,65
+8169,Beverages,Tea,"Brewed herbal tea",26,65
+5581,Beverages,Tea,"Brewed herbal tea",26,65
+5257,Beverages,Tea,"Brewed herbal tea",26,78
+5920,Beverages,Tea,"Brewed herbal tea",26,78
+237,Beverages,Tea,"Brewed Green tea",26,65
+8101,Beverages,Tea,"Brewed Green tea",26,65
+47,Beverages,Tea,"Brewed Green tea",26,65
+5430,Beverages,Tea,"Brewed Green tea",26,65
+5419,Beverages,Tea,"Brewed Green tea",26,65
+8069,Beverages,Coffee,"Organic brewed coffee",26,91
+631,Beverages,Coffee,"Organic brewed coffee",26,91
+5409,Beverages,Coffee,"Gourmet brewed coffee",26,52
+8071,Beverages,Coffee,"Gourmet brewed coffee",26,52
+8328,Beverages,Coffee,"Gourmet brewed coffee",26,52
+105,Beverages,Coffee,"Gourmet brewed coffee",26,52
+786,Beverages,Coffee,"Gourmet brewed coffee",26,52
+8101,Beverages,Coffee,"Gourmet brewed coffee",26,65
+429,Beverages,Coffee,"Gourmet brewed coffee",26,65
+453,Beverages,Coffee,"Gourmet brewed coffee",26,65
+5063,Beverages,Coffee,"Gourmet brewed coffee",26,78
+723,Beverages,Coffee,"Gourmet brewed coffee",26,78
+132,Beverages,Coffee,"Gourmet brewed coffee",26,78
+8148,Beverages,Coffee,"Gourmet brewed coffee",26,78
+8266,Beverages,Coffee,"Gourmet brewed coffee",26,78
+364,Beverages,Coffee,"Gourmet brewed coffee",26,78
+5090,Beverages,Coffee,"Gourmet brewed coffee",26,57.2
+8319,Beverages,Coffee,"Gourmet brewed coffee",26,57.2
+5822,Beverages,Coffee,"Gourmet brewed coffee",26,78
+37,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+8488,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+5323,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+8344,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+5261,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+259,Beverages,"Drinking Chocolate","Hot chocolate",26,97.5
+8286,Beverages,"Drinking Chocolate","Hot chocolate",26,97.5
+5745,Beverages,"Drinking Chocolate","Hot chocolate",26,97.5
+248,Beverages,"Drinking Chocolate","Hot chocolate",26,97.5
+5563,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+8241,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+39,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+5578,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+229,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+67,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+8017,Beverages,"Drinking Chocolate","Hot chocolate",26,123.5
+8437,Add-ons,Flavours,"Regular syrup",26,20.8
+688,Add-ons,Flavours,"Sugar free syrup",26,20.8
+114,Add-ons,Flavours,"Sugar free syrup",26,20.8
+5673,Add-ons,Flavours,"Sugar free syrup",26,20.8
+5777,Food,Bakery,Pastry,26,97.5
+527,Beverages,Coffee,"Drip coffee",26,52
+5050,Beverages,Coffee,"Drip coffee",26,52
+8492,Beverages,Coffee,"Drip coffee",26,65
+8336,Beverages,Coffee,"Drip coffee",26,65
+735,Beverages,Coffee,"Drip coffee",26,65
+5157,Beverages,Coffee,"Drip coffee",26,65
+8162,Beverages,Coffee,"Drip coffee",26,65
+674,Beverages,Coffee,"Drip coffee",26,65
+342,Beverages,Coffee,"Drip coffee",26,65
+659,Beverages,Coffee,"Drip coffee",26,65
+487,Beverages,Coffee,"Drip coffee",26,78
+8394,Beverages,Coffee,"Drip coffee",26,78
+734,Beverages,Coffee,"Organic brewed coffee",26,57.2
+8448,Beverages,Coffee,"Organic brewed coffee",26,57.2
+108,Beverages,Coffee,"Organic brewed coffee",26,57.2
+180,Beverages,Coffee,"Organic brewed coffee",26,57.2
+476,Beverages,Coffee,"Organic brewed coffee",26,78
+8437,Beverages,Coffee,"Organic brewed coffee",26,78
+526,Beverages,Coffee,"Organic brewed coffee",26,78
+5512,Beverages,Coffee,"Gourmet brewed coffee",26,91
+5277,Beverages,Coffee,"Premium brewed coffee",26,63.7
+122,Beverages,Coffee,"Premium brewed coffee",26,63.7
+676,Beverages,Coffee,"Premium brewed coffee",26,63.7
+8480,Beverages,Coffee,"Premium brewed coffee",26,63.7
+5144,Beverages,Coffee,"Premium brewed coffee",26,63.7
+5632,Beverages,Coffee,"Premium brewed coffee",26,63.7
+8026,Beverages,Coffee,"Premium brewed coffee",26,80.6
+8059,Beverages,Coffee,"Premium brewed coffee",26,80.6
+758,Beverages,Coffee,"Premium brewed coffee",26,80.6
+8267,Beverages,Coffee,"Premium brewed coffee",26,97.5
+5632,Beverages,Coffee,"Premium brewed coffee",26,97.5
+5269,Beverages,Coffee,"Barista Espresso",26,78
+8431,Beverages,Coffee,"Barista Espresso",26,78
+87,Beverages,Coffee,"Barista Espresso",26,78
+8413,Beverages,Coffee,"Barista Espresso",26,78
+5848,Beverages,Coffee,"Barista Espresso",26,78
+541,Beverages,Coffee,"Barista Espresso",26,78
+8112,Beverages,Coffee,"Barista Espresso",26,78
+790,Beverages,Coffee,"Barista Espresso",26,97.5
+8364,Beverages,Coffee,"Barista Espresso",26,97.5
+700,Beverages,Coffee,"Barista Espresso",26,97.5
+331,Beverages,Coffee,"Barista Espresso",26,97.5
+381,Beverages,Coffee,"Barista Espresso",26,97.5
+5200,Beverages,Coffee,"Barista Espresso",26,97.5
+5023,Beverages,Coffee,"Barista Espresso",26,97.5
+5754,Beverages,Coffee,"Barista Espresso",26,97.5
+8385,Beverages,Coffee,"Barista Espresso",26,97.5
+399,Beverages,Coffee,"Barista Espresso",26,110.5
+5066,Beverages,Coffee,"Barista Espresso",26,110.5
+748,Beverages,Coffee,"Barista Espresso",26,110.5
+5438,Beverages,Coffee,"Barista Espresso",26,110.5
+624,Food,Bakery,Pastry,26,97.5
+8307,Food,Bakery,Biscotti,26,84.5
+695,Food,Bakery,Scone,26,78
+475,Food,Bakery,Scone,26,78
+347,Food,Bakery,Scone,26,117
+5199,Beverages,Coffee,"Barista Espresso",26,78
+8298,Beverages,Coffee,"Barista Espresso",26,78
+647,Beverages,Tea,"Brewed Chai tea",26,78
+546,Beverages,Tea,"Brewed Chai tea",26,78
+670,Beverages,Tea,"Brewed Chai tea",26,78
+652,Beverages,Tea,"Brewed Chai tea",26,65
+5907,Beverages,Tea,"Brewed Chai tea",26,65
+5097,Beverages,Tea,"Brewed Chai tea",26,65
+5139,Beverages,Tea,"Brewed Chai tea",26,65
+5743,Beverages,Tea,"Brewed Chai tea",26,65
+307,Beverages,Tea,"Brewed Chai tea",26,104
+388,Beverages,Tea,"Brewed Chai tea",26,104
+5611,Beverages,Tea,"Brewed Chai tea",26,104
+5688,Beverages,Tea,"Brewed Chai tea",26,66.3
+5830,Beverages,Tea,"Brewed Chai tea",26,66.3
+687,Beverages,Tea,"Brewed Chai tea",26,66.3
+8246,Beverages,Tea,"Brewed Chai tea",26,66.3
+404,Beverages,Tea,"Brewed Chai tea",26,66.3
+5479,Beverages,Tea,"Brewed Chai tea",26,80.6
+8323,Beverages,Tea,"Brewed Chai tea",26,80.6
+5824,Beverages,Tea,"Brewed Chai tea",26,80.6
+56,Beverages,Tea,"Brewed Chai tea",26,80.6
+8100,Beverages,Tea,"Brewed Chai tea",26,80.6
+424,Beverages,"Drinking Chocolate","Hot chocolate",26,91
+572,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+5553,Beverages,"Drinking Chocolate","Hot chocolate",26,117
+8255,Beverages,Tea,"Brewed Chai tea",25,75
+8351,Beverages,Tea,"Brewed Chai tea",25,75
+8489,Beverages,Tea,"Brewed Chai tea",25,62.5
+5769,Beverages,Tea,"Brewed Chai tea",25,100
+8136,Beverages,Tea,"Brewed Chai tea",25,100
+28,Beverages,Tea,"Brewed Chai tea",25,100
+8307,Beverages,Tea,"Brewed Chai tea",25,63.75
+5712,Beverages,Tea,"Brewed Chai tea",25,63.75
+5290,Beverages,Tea,"Brewed Chai tea",25,63.75
+5020,Beverages,Tea,"Brewed Chai tea",25,77.5
+507,Beverages,"Drinking Chocolate","Hot chocolate",25,87.5
+8159,Beverages,"Drinking Chocolate","Hot chocolate",25,87.5
+428,Beverages,"Drinking Chocolate","Hot chocolate",25,87.5
+8292,Beverages,"Drinking Chocolate","Hot chocolate",25,112.5
+408,Beverages,"Drinking Chocolate","Hot chocolate",25,112.5
+587,Beverages,"Drinking Chocolate","Hot chocolate",25,93.75
+8228,Beverages,"Drinking Chocolate","Hot chocolate",25,93.75
+8148,Beverages,"Drinking Chocolate","Hot chocolate",25,118.75
+8415,Add-ons,Flavours,"Regular syrup",25,20
+8090,Add-ons,Flavours,"Regular syrup",25,20
+205,Food,Bakery,Pastry,25,87.5
+8400,Beverages,Coffee,"Barista Espresso",25,106.25
+36,Beverages,Coffee,"Barista Espresso",25,106.25
+8201,Beverages,Coffee,"Barista Espresso",25,106.25
+2,Beverages,Coffee,"Barista Espresso",25,106.25
+5319,Beverages,Coffee,"Barista Espresso",25,106.25
+171,Beverages,Coffee,"Barista Espresso",25,93.75
+328,Beverages,Tea,"Brewed herbal tea",25,62.5
+8188,Beverages,Tea,"Brewed herbal tea",25,62.5
+8102,Beverages,Tea,"Brewed herbal tea",25,62.5
+726,Beverages,Tea,"Brewed herbal tea",25,62.5
+8213,Beverages,Tea,"Brewed herbal tea",25,62.5
+5861,Beverages,Tea,"Brewed herbal tea",25,62.5
+5275,Beverages,Tea,"Brewed herbal tea",25,75
+732,Beverages,Tea,"Brewed herbal tea",25,75
+768,Beverages,Tea,"Brewed herbal tea",25,75
+8100,Beverages,Tea,"Brewed herbal tea",25,75
+5502,Beverages,Tea,"Brewed herbal tea",25,75
+65,Beverages,Tea,"Brewed herbal tea",25,75
+8136,Beverages,Tea,"Brewed herbal tea",25,75
+8083,Beverages,Tea,"Brewed herbal tea",25,75
+5534,Beverages,Tea,"Brewed herbal tea",25,75
+8371,Beverages,Tea,"Brewed Green tea",25,62.5
+8355,Beverages,Tea,"Brewed Green tea",25,62.5
+8158,Beverages,Tea,"Brewed Green tea",25,62.5
+186,Beverages,Tea,"Brewed Green tea",25,62.5
+456,Beverages,Tea,"Brewed Green tea",25,75
+5039,Beverages,Tea,"Brewed Black tea",25,62.5
+5282,Beverages,Tea,"Brewed Black tea",25,62.5
+8180,Beverages,Tea,"Brewed Black tea",25,62.5
+508,Beverages,Tea,"Brewed Black tea",25,62.5
+5655,Beverages,Tea,"Brewed Black tea",25,62.5
+8337,Beverages,Tea,"Brewed Black tea",25,75
+8405,Beverages,Tea,"Brewed Black tea",25,75
+8184,Beverages,Tea,"Brewed Black tea",25,75
+8319,Beverages,Tea,"Brewed Black tea",25,75
+8264,Beverages,Tea,"Brewed Black tea",25,75
+732,Beverages,Tea,"Brewed Black tea",25,75
+173,Beverages,Tea,"Brewed Black tea",25,75
+8311,Beverages,Tea,"Brewed Black tea",25,75
+5040,Beverages,Tea,"Brewed Black tea",25,75
+5452,Beverages,Tea,"Brewed Black tea",25,62.5
+101,Beverages,Tea,"Brewed Black tea",25,75
+465,Beverages,Tea,"Brewed Black tea",25,75
+5244,Beverages,Tea,"Brewed Black tea",25,75
+8287,Beverages,Tea,"Brewed Chai tea",25,62.5
+5802,Beverages,Tea,"Brewed Chai tea",25,62.5
+8398,Beverages,Tea,"Brewed Chai tea",25,62.5
+117,Beverages,Tea,"Brewed Chai tea",25,62.5
+8282,Beverages,Tea,"Brewed Chai tea",25,62.5
+8301,Beverages,Coffee,"Organic brewed coffee",25,87.5
+8070,Beverages,Coffee,"Organic brewed coffee",25,87.5
+499,Beverages,Coffee,"Organic brewed coffee",25,87.5
+8135,Beverages,Coffee,"Organic brewed coffee",25,87.5
+8214,Beverages,Coffee,"Gourmet brewed coffee",25,50
+391,Beverages,Coffee,"Gourmet brewed coffee",25,50
+5752,Beverages,Coffee,"Gourmet brewed coffee",25,62.5
+8291,Beverages,Coffee,"Gourmet brewed coffee",25,75
+5889,Beverages,Coffee,"Gourmet brewed coffee",25,75
+8260,Beverages,Coffee,"Gourmet brewed coffee",25,75
+514,Beverages,Coffee,"Gourmet brewed coffee",25,75
+8433,Beverages,Coffee,"Gourmet brewed coffee",25,75
+692,Beverages,Coffee,"Gourmet brewed coffee",25,75
+5388,Beverages,Coffee,"Gourmet brewed coffee",25,75
+508,Beverages,Coffee,"Gourmet brewed coffee",25,55
+8034,Beverages,Coffee,"Gourmet brewed coffee",25,55
+772,Beverages,Coffee,"Gourmet brewed coffee",25,55
+438,Beverages,Coffee,"Gourmet brewed coffee",25,55
+8190,Beverages,Coffee,"Gourmet brewed coffee",25,55
+169,Beverages,Coffee,"Gourmet brewed coffee",25,75
+5915,Beverages,Coffee,"Gourmet brewed coffee",25,75
+8490,Beverages,Coffee,"Gourmet brewed coffee",25,87.5
+195,Beverages,Coffee,"Gourmet brewed coffee",25,87.5
+8071,Food,Bakery,Biscotti,25,87.5
+5352,Food,Bakery,Scone,25,75
+5917,Food,Bakery,Scone,25,93.75
+5674,Add-ons,Flavours,"Regular syrup",25,20
+8192,Beverages,Coffee,"Barista Espresso",25,75
+8116,Beverages,Coffee,"Drip coffee",25,50
+584,Beverages,Coffee,"Drip coffee",25,50
+160,Beverages,Coffee,"Drip coffee",25,50
+5923,Beverages,Coffee,"Drip coffee",25,50
+8252,Beverages,Coffee,"Drip coffee",25,50
+319,Beverages,Coffee,"Drip coffee",25,62.5
+57,Beverages,Coffee,"Drip coffee",25,75
+5322,Beverages,Coffee,"Organic brewed coffee",25,55
+404,Beverages,Coffee,"Organic brewed coffee",25,55
+8113,Beverages,Coffee,"Organic brewed coffee",25,55
+5583,Beverages,Coffee,"Organic brewed coffee",25,55
+92,Beverages,Coffee,"Organic brewed coffee",25,75
+8033,Beverages,Coffee,"Organic brewed coffee",25,75
+5655,Beverages,Coffee,"Gourmet brewed coffee",25,87.5
+9,Beverages,Coffee,"Gourmet brewed coffee",25,87.5
+8384,Beverages,Coffee,"Premium brewed coffee",25,61.25
+8147,Beverages,Coffee,"Premium brewed coffee",25,61.25
+8335,Beverages,Coffee,"Premium brewed coffee",25,61.25
+5136,Beverages,Coffee,"Premium brewed coffee",25,77.5
+719,Beverages,Coffee,"Premium brewed coffee",25,77.5
+121,Beverages,Coffee,"Premium brewed coffee",25,77.5
+8210,Beverages,Coffee,"Premium brewed coffee",25,93.75
+8444,Beverages,Coffee,"Barista Espresso",25,75
+8424,Beverages,Coffee,"Barista Espresso",25,75
+5412,Beverages,Coffee,"Barista Espresso",25,93.75
+5912,Beverages,Coffee,"Barista Espresso",25,93.75
+8072,Beverages,Coffee,"Barista Espresso",25,93.75
+214,Beverages,Coffee,"Barista Espresso",25,93.75
+82,Beverages,Coffee,"Barista Espresso",25,106.25
+8119,Beverages,Coffee,"Gourmet brewed coffee",24,84
+8152,Beverages,Coffee,"Gourmet brewed coffee",24,84
+680,Beverages,Coffee,"Gourmet brewed coffee",24,84
+8150,Beverages,Coffee,"Gourmet brewed coffee",24,84
+8047,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5229,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5457,Beverages,Coffee,"Premium brewed coffee",24,58.8
+8009,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5611,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5248,Beverages,Coffee,"Premium brewed coffee",24,58.8
+793,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5375,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5760,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5217,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5419,Beverages,Coffee,"Premium brewed coffee",24,58.8
+5193,Beverages,Coffee,"Premium brewed coffee",24,74.4
+167,Beverages,Coffee,"Premium brewed coffee",24,74.4
+8432,Beverages,Coffee,"Premium brewed coffee",24,74.4
+5657,Beverages,Coffee,"Premium brewed coffee",24,74.4
+105,Beverages,Coffee,"Premium brewed coffee",24,74.4
+597,Beverages,Coffee,"Premium brewed coffee",24,74.4
+8064,Beverages,Coffee,"Premium brewed coffee",24,74.4
+5239,Beverages,Coffee,"Premium brewed coffee",24,74.4
+352,Beverages,Coffee,"Premium brewed coffee",24,74.4
+5513,Beverages,Coffee,"Premium brewed coffee",24,74.4
+735,Beverages,Coffee,"Premium brewed coffee",24,90
+370,Beverages,Coffee,"Premium brewed coffee",24,90
+456,Beverages,Coffee,"Barista Espresso",24,72
+708,Beverages,Coffee,"Barista Espresso",24,72
+5035,Beverages,Coffee,"Barista Espresso",24,72
+5032,Beverages,Coffee,"Barista Espresso",24,72
+707,Beverages,Coffee,"Barista Espresso",24,72
+5785,Beverages,Coffee,"Barista Espresso",24,72
+81,Beverages,Coffee,"Barista Espresso",24,72
+730,Beverages,Coffee,"Barista Espresso",24,90
+5097,Beverages,Coffee,"Barista Espresso",24,90
+560,Beverages,Coffee,"Barista Espresso",24,90
+8052,Beverages,Coffee,"Barista Espresso",24,90
+34,Beverages,Coffee,"Barista Espresso",24,90
+5301,Beverages,Coffee,"Barista Espresso",24,90
+5793,Beverages,Coffee,"Barista Espresso",24,90
+5100,Beverages,Coffee,"Barista Espresso",24,90
+5422,Beverages,Coffee,"Barista Espresso",24,90
+8395,Beverages,Coffee,"Barista Espresso",24,90
+8483,Beverages,Coffee,"Barista Espresso",24,90
+5244,Beverages,Coffee,"Barista Espresso",24,90
+8118,Beverages,Coffee,"Barista Espresso",24,102
+8030,Beverages,Coffee,"Barista Espresso",24,102
+8256,Beverages,Tea,"Brewed Green tea",24,60
+428,Beverages,Tea,"Brewed Green tea",24,60
+5817,Beverages,Tea,"Brewed Green tea",24,60
+3,Beverages,Tea,"Brewed Green tea",24,60
+5210,Beverages,Tea,"Brewed Green tea",24,60
+563,Beverages,Tea,"Brewed Green tea",24,72
+202,Beverages,Tea,"Brewed Green tea",24,72
+5154,Beverages,Tea,"Brewed Green tea",24,72
+5213,Beverages,Tea,"Brewed Green tea",24,72
+5645,Beverages,Tea,"Brewed Green tea",24,72
+5071,Beverages,Tea,"Brewed Green tea",24,72
+5284,Beverages,Tea,"Brewed Green tea",24,72
+5812,Beverages,Tea,"Brewed Green tea",24,72
+5122,Beverages,Tea,"Brewed Green tea",24,72
+5597,Beverages,Tea,"Brewed Black tea",24,60
+5531,Beverages,Tea,"Brewed Black tea",24,60
+8252,Beverages,Tea,"Brewed Black tea",24,60
+8446,Beverages,Tea,"Brewed Black tea",24,60
+5752,Beverages,Tea,"Brewed Black tea",24,60
+369,Beverages,Tea,"Brewed Black tea",24,60
+5054,Beverages,Tea,"Brewed Black tea",24,60
+8407,Beverages,Tea,"Brewed Black tea",24,60
+5608,Beverages,Tea,"Brewed Black tea",24,60
+8182,Beverages,Tea,"Brewed Black tea",24,60
+8420,Beverages,Tea,"Brewed Black tea",24,60
+5456,Beverages,Tea,"Brewed Black tea",24,72
+8159,Beverages,Tea,"Brewed Black tea",24,72
+5035,Beverages,Tea,"Brewed Black tea",24,72
+8070,Beverages,Tea,"Brewed Black tea",24,72
+6,Beverages,Tea,"Brewed Black tea",24,72
+8011,Beverages,Tea,"Brewed Black tea",24,72
+8122,Beverages,Tea,"Brewed Black tea",24,72
+5303,Beverages,Tea,"Brewed Black tea",24,72
+8109,Beverages,Tea,"Brewed Black tea",24,72
+539,Beverages,Tea,"Brewed Black tea",24,72
+5437,Beverages,Tea,"Brewed Black tea",24,72
+5196,Beverages,Tea,"Brewed Black tea",24,72
+5666,Beverages,Tea,"Brewed Black tea",24,72
+688,Beverages,Tea,"Brewed Black tea",24,60
+234,Beverages,Tea,"Brewed Black tea",24,60
+263,Beverages,Tea,"Brewed Black tea",24,60
+615,Beverages,Tea,"Brewed Black tea",24,60
+791,Beverages,Tea,"Brewed Black tea",24,60
+8256,Beverages,Tea,"Brewed Black tea",24,60
+5380,Beverages,Tea,"Brewed Black tea",24,60
+5003,Beverages,Tea,"Brewed Black tea",24,60
+5443,Beverages,Tea,"Brewed Black tea",24,60
+376,Beverages,Tea,"Brewed Black tea",24,60
+549,Beverages,Tea,"Brewed Black tea",24,60
+5163,Beverages,Tea,"Brewed Black tea",24,72
+53,Beverages,Tea,"Brewed Black tea",24,72
+694,Beverages,Tea,"Brewed Black tea",24,72
+408,Beverages,Tea,"Brewed Black tea",24,72
+5725,Beverages,Tea,"Brewed Black tea",24,72
+477,Beverages,Tea,"Brewed Black tea",24,72
+5345,Beverages,Tea,"Brewed Black tea",24,72
+681,Beverages,Tea,"Brewed Chai tea",24,60
+409,Beverages,Tea,"Brewed Chai tea",24,60
+497,Beverages,Tea,"Brewed Chai tea",24,60
+42,Beverages,Tea,"Brewed Chai tea",24,60
+5701,Beverages,Tea,"Brewed Chai tea",24,60
+5257,Beverages,Tea,"Brewed Chai tea",24,60
+687,Beverages,Tea,"Brewed Chai tea",24,60
+765,Beverages,Tea,"Brewed Chai tea",24,60
+5026,Beverages,Tea,"Brewed Chai tea",24,60
+8425,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+5398,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+428,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+5911,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+377,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+601,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+179,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+8227,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+5263,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+5904,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+5877,Beverages,"Drinking Chocolate","Hot chocolate",24,90
+5564,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+389,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+8225,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+8388,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+5754,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+8010,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+5739,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+5672,Beverages,"Drinking Chocolate","Hot chocolate",24,114
+5422,Add-ons,Flavours,"Regular syrup",24,19.2
+5536,Add-ons,Flavours,"Regular syrup",24,19.2
+5035,Add-ons,Flavours,"Regular syrup",24,19.2
+5785,Add-ons,Flavours,"Regular syrup",24,19.2
+5780,Add-ons,Flavours,"Regular syrup",24,19.2
+5470,Add-ons,Flavours,"Sugar free syrup",24,19.2
+5756,Add-ons,Flavours,"Sugar free syrup",24,19.2
+8299,Add-ons,Flavours,"Sugar free syrup",24,19.2
+5209,Add-ons,Flavours,"Sugar free syrup",24,19.2
+5820,Add-ons,Flavours,"Sugar free syrup",24,19.2
+8158,Add-ons,Flavours,"Sugar free syrup",24,19.2
+5858,Food,Bakery,Pastry,24,84
+3,Food,Bakery,Scone,24,78
+8251,Food,Bakery,Scone,24,78
+8049,Food,Bakery,Pastry,24,90
+5758,Food,Bakery,Pastry,24,90
+5164,Food,Bakery,Pastry,24,90
+362,Beverages,Tea,"Brewed Chai tea",24,72
+532,Beverages,Tea,"Brewed Chai tea",24,72
+8137,Beverages,Tea,"Brewed Chai tea",24,72
+8159,Beverages,Tea,"Brewed Chai tea",24,72
+5086,Beverages,Tea,"Brewed Chai tea",24,72
+5685,Beverages,Tea,"Brewed Chai tea",24,72
+5597,Beverages,Tea,"Brewed Chai tea",24,72
+5591,Beverages,Tea,"Brewed Chai tea",24,72
+5720,Beverages,Tea,"Brewed Chai tea",24,60
+469,Beverages,Tea,"Brewed Chai tea",24,60
+239,Beverages,Tea,"Brewed Chai tea",24,60
+700,Beverages,Tea,"Brewed Chai tea",24,60
+5265,Beverages,Tea,"Brewed Chai tea",24,60
+548,Beverages,Tea,"Brewed Chai tea",24,60
+455,Beverages,Tea,"Brewed Chai tea",24,60
+5371,Beverages,Tea,"Brewed Chai tea",24,60
+5656,Beverages,Tea,"Brewed Chai tea",24,60
+3,Beverages,Tea,"Brewed Chai tea",24,96
+8387,Beverages,Tea,"Brewed Chai tea",24,96
+52,Beverages,Tea,"Brewed Chai tea",24,96
+5324,Beverages,Tea,"Brewed Chai tea",24,96
+5540,Beverages,Tea,"Brewed Chai tea",24,96
+8321,Beverages,Tea,"Brewed Chai tea",24,96
+8222,Beverages,Tea,"Brewed Chai tea",24,96
+511,Beverages,Tea,"Brewed Chai tea",24,96
+8056,Beverages,Tea,"Brewed Chai tea",24,61.2
+5365,Beverages,Tea,"Brewed Chai tea",24,61.2
+5599,Beverages,Tea,"Brewed Chai tea",24,61.2
+657,Beverages,Tea,"Brewed Chai tea",24,61.2
+564,Beverages,Tea,"Brewed Chai tea",24,61.2
+8110,Beverages,Tea,"Brewed Chai tea",24,61.2
+5720,Beverages,Tea,"Brewed Chai tea",24,61.2
+5435,Beverages,Tea,"Brewed Chai tea",24,61.2
+5539,Beverages,Tea,"Brewed Chai tea",24,61.2
+232,Beverages,Tea,"Brewed Chai tea",24,61.2
+5289,Beverages,Tea,"Brewed Chai tea",24,74.4
+8249,Beverages,Tea,"Brewed Chai tea",24,74.4
+640,Beverages,Tea,"Brewed Chai tea",24,74.4
+5920,Beverages,Tea,"Brewed Chai tea",24,74.4
+8379,Beverages,Tea,"Brewed Chai tea",24,74.4
+185,Beverages,Tea,"Brewed Chai tea",24,74.4
+5840,Beverages,Tea,"Brewed Chai tea",24,74.4
+5664,Beverages,Tea,"Brewed Chai tea",24,74.4
+434,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+332,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+209,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+721,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+8164,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+755,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+5387,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+8054,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+10,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+8297,Beverages,"Drinking Chocolate","Hot chocolate",24,84
+490,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+5760,Beverages,"Drinking Chocolate","Hot chocolate",24,108
+8061,Beverages,Coffee,"Barista Espresso",24,102
+8338,Beverages,Coffee,"Barista Espresso",24,102
+5209,Beverages,Coffee,"Barista Espresso",24,102
+5439,Beverages,Coffee,"Barista Espresso",24,102
+693,Beverages,Coffee,"Barista Espresso",24,102
+723,Beverages,Coffee,"Barista Espresso",24,90
+8124,Beverages,Coffee,"Barista Espresso",24,90
+26,Beverages,Coffee,"Barista Espresso",24,90
+5237,Beverages,Coffee,"Barista Espresso",24,90
+5915,Beverages,Coffee,"Barista Espresso",24,90
+678,Beverages,Coffee,"Barista Espresso",24,102
+565,Beverages,Coffee,"Barista Espresso",24,102
+8058,Beverages,Coffee,"Barista Espresso",24,102
+8366,Beverages,Coffee,"Barista Espresso",24,102
+52,Beverages,Coffee,"Barista Espresso",24,102
+5301,Beverages,Coffee,"Barista Espresso",24,102
+5536,Beverages,Coffee,"Barista Espresso",24,102
+5352,Beverages,Tea,"Brewed herbal tea",24,60
+5487,Beverages,Tea,"Brewed herbal tea",24,60
+425,Beverages,Tea,"Brewed herbal tea",24,60
+701,Beverages,Tea,"Brewed herbal tea",24,60
+5847,Beverages,Tea,"Brewed herbal tea",24,60
+269,Beverages,Tea,"Brewed herbal tea",24,60
+5026,Beverages,Tea,"Brewed herbal tea",24,72
+505,Beverages,Tea,"Brewed herbal tea",24,72
+760,Beverages,Tea,"Brewed herbal tea",24,72
+8072,Beverages,Tea,"Brewed herbal tea",24,72
+5479,Beverages,Tea,"Brewed herbal tea",24,72
+5378,Beverages,Tea,"Brewed herbal tea",24,72
+222,Beverages,Tea,"Brewed herbal tea",24,72
+5473,Beverages,Tea,"Brewed herbal tea",24,60
+8376,Beverages,Tea,"Brewed herbal tea",24,60
+5941,Beverages,Tea,"Brewed herbal tea",24,60
+5154,Beverages,Tea,"Brewed herbal tea",24,60
+5625,Beverages,Tea,"Brewed herbal tea",24,60
+8121,Beverages,Tea,"Brewed herbal tea",24,72
+5334,Beverages,Tea,"Brewed herbal tea",24,72
+5242,Beverages,Tea,"Brewed herbal tea",24,72
+158,Beverages,Tea,"Brewed Green tea",24,60
+8133,Beverages,Tea,"Brewed Green tea",24,60
+287,Beverages,Tea,"Brewed Green tea",24,60
+5348,Beverages,Coffee,"Drip coffee",24,48
+8088,Beverages,Coffee,"Drip coffee",24,48
+5524,Beverages,Coffee,"Drip coffee",24,48
+5742,Beverages,Coffee,"Drip coffee",24,48
+8264,Beverages,Coffee,"Drip coffee",24,60
+128,Beverages,Coffee,"Drip coffee",24,60
+8134,Beverages,Coffee,"Drip coffee",24,60
+694,Beverages,Coffee,"Drip coffee",24,60
+5106,Beverages,Coffee,"Drip coffee",24,60
+789,Beverages,Coffee,"Drip coffee",24,60
+8171,Beverages,Coffee,"Drip coffee",24,60
+8223,Beverages,Coffee,"Drip coffee",24,60
+5867,Beverages,Coffee,"Drip coffee",24,60
+5600,Beverages,Coffee,"Drip coffee",24,60
+5918,Beverages,Coffee,"Drip coffee",24,60
+104,Beverages,Coffee,"Drip coffee",24,72
+8349,Beverages,Coffee,"Drip coffee",24,72
+5118,Beverages,Coffee,"Drip coffee",24,72
+674,Beverages,Coffee,"Drip coffee",24,72
+5361,Beverages,Coffee,"Organic brewed coffee",24,52.8
+8321,Beverages,Coffee,"Organic brewed coffee",24,52.8
+8185,Beverages,Coffee,"Organic brewed coffee",24,52.8
+5537,Beverages,Coffee,"Organic brewed coffee",24,52.8
+5746,Beverages,Coffee,"Organic brewed coffee",24,52.8
+8113,Beverages,Coffee,"Organic brewed coffee",24,72
+401,Beverages,Coffee,"Organic brewed coffee",24,72
+8266,Beverages,Coffee,"Organic brewed coffee",24,72
+8464,Beverages,Coffee,"Organic brewed coffee",24,72
+5377,Beverages,Coffee,"Organic brewed coffee",24,72
+5009,Beverages,Coffee,"Organic brewed coffee",24,72
+262,Beverages,Coffee,"Organic brewed coffee",24,72
+5008,Beverages,Coffee,"Organic brewed coffee",24,72
+5332,Beverages,Coffee,"Organic brewed coffee",24,72
+322,Beverages,Coffee,"Organic brewed coffee",24,72
+5188,Beverages,Coffee,"Organic brewed coffee",24,84
+414,Beverages,Coffee,"Organic brewed coffee",24,84
+5091,Beverages,Coffee,"Organic brewed coffee",24,84
+5371,Beverages,Coffee,"Organic brewed coffee",24,84
+5130,Beverages,Coffee,"Organic brewed coffee",24,84
+5634,Beverages,Coffee,"Organic brewed coffee",24,84
+5612,Beverages,Coffee,"Organic brewed coffee",24,84
+5412,Beverages,Coffee,"Organic brewed coffee",24,84
+702,Beverages,Coffee,"Gourmet brewed coffee",24,48
+730,Beverages,Coffee,"Gourmet brewed coffee",24,48
+8396,Beverages,Coffee,"Gourmet brewed coffee",24,48
+8364,Beverages,Coffee,"Gourmet brewed coffee",24,48
+8230,Beverages,Coffee,"Gourmet brewed coffee",24,48
+345,Beverages,Coffee,"Gourmet brewed coffee",24,48
+302,Beverages,Coffee,"Gourmet brewed coffee",24,48
+602,Beverages,Coffee,"Gourmet brewed coffee",24,48
+28,Beverages,Coffee,"Gourmet brewed coffee",24,48
+8126,Beverages,Coffee,"Gourmet brewed coffee",24,48
+5085,Beverages,Coffee,"Gourmet brewed coffee",24,60
+254,Beverages,Coffee,"Gourmet brewed coffee",24,60
+8002,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5168,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5242,Beverages,Coffee,"Gourmet brewed coffee",24,60
+8251,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5141,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5496,Beverages,Coffee,"Gourmet brewed coffee",24,60
+734,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5279,Beverages,Coffee,"Gourmet brewed coffee",24,60
+5845,Beverages,Coffee,"Gourmet brewed coffee",24,72
+8169,Beverages,Coffee,"Gourmet brewed coffee",24,72
+8061,Beverages,Coffee,"Gourmet brewed coffee",24,72
+210,Beverages,Coffee,"Gourmet brewed coffee",24,72
+8156,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5537,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5358,Beverages,Coffee,"Gourmet brewed coffee",24,72
+176,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5843,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+8481,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+5315,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+282,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+172,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+215,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+5431,Beverages,Coffee,"Gourmet brewed coffee",24,52.8
+5403,Beverages,Coffee,"Gourmet brewed coffee",24,72
+56,Beverages,Coffee,"Gourmet brewed coffee",24,72
+695,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5556,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5778,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5568,Beverages,Coffee,"Gourmet brewed coffee",24,72
+5795,Beverages,Coffee,"Gourmet brewed coffee",24,72
+691,Beverages,Coffee,"Gourmet brewed coffee",24,72
+429,Beverages,Coffee,"Gourmet brewed coffee",24,84
+8410,Food,Bakery,Biscotti,24,84
+355,Food,Bakery,Biscotti,24,84
+8322,Food,Bakery,Biscotti,24,84
+321,Food,Bakery,Scone,24,72
+100,Add-ons,Flavours,"Regular syrup",24,19.2
+5489,Add-ons,Flavours,"Regular syrup",24,19.2
+502,Add-ons,Flavours,"Regular syrup",24,19.2
+5627,Add-ons,Flavours,"Regular syrup",24,19.2
+8066,Beverages,Coffee,"Barista Espresso",24,72
+8468,Beverages,Coffee,"Barista Espresso",24,72
+8395,Beverages,Coffee,"Barista Espresso",24,72
+8224,Beverages,Coffee,"Barista Espresso",24,72
+5528,Beverages,Coffee,"Barista Espresso",24,72
+5378,Beverages,Coffee,"Barista Espresso",24,72
+5536,Food,Bakery,Biscotti,23,80.5
+202,Food,Bakery,Biscotti,23,80.5
+8042,Beverages,Coffee,"Barista Espresso",23,69
+8472,Beverages,Coffee,"Barista Espresso",23,69
+5068,Beverages,Coffee,"Barista Espresso",23,69
+5871,Beverages,Tea,"Brewed Chai tea",23,69
+8216,Beverages,Tea,"Brewed Chai tea",23,58.65
+8403,Beverages,Tea,"Brewed Chai tea",23,58.65
+5229,Beverages,Tea,"Brewed Chai tea",23,71.3
+5627,Beverages,Tea,"Brewed Chai tea",23,71.3
+464,Beverages,Tea,"Brewed Chai tea",23,71.3
+5796,Beverages,Tea,"Brewed Chai tea",23,71.3
+8138,Beverages,"Drinking Chocolate","Hot chocolate",23,80.5
+8222,Beverages,"Drinking Chocolate","Hot chocolate",23,80.5
+115,Beverages,Tea,"Brewed Green tea",23,69
+8369,Beverages,Tea,"Brewed Green tea",23,69
+8313,Beverages,Tea,"Brewed Green tea",23,69
+723,Beverages,Tea,"Brewed Green tea",23,69
+8352,Beverages,Tea,"Brewed Black tea",23,57.5
+8127,Beverages,Tea,"Brewed Black tea",23,57.5
+5202,Beverages,Tea,"Brewed Black tea",23,57.5
+693,Beverages,Tea,"Brewed Black tea",23,57.5
+689,Beverages,Tea,"Brewed Black tea",23,57.5
+619,Beverages,Tea,"Brewed Black tea",23,57.5
+5929,Beverages,Tea,"Brewed Black tea",23,57.5
+511,Beverages,Tea,"Brewed Black tea",23,57.5
+8191,Beverages,Tea,"Brewed Black tea",23,69
+5025,Beverages,Tea,"Brewed Black tea",23,69
+35,Beverages,Tea,"Brewed Black tea",23,69
+474,Beverages,Tea,"Brewed Black tea",23,69
+8248,Beverages,Tea,"Brewed Black tea",23,69
+8163,Beverages,Tea,"Brewed Black tea",23,69
+8498,Beverages,Tea,"Brewed Black tea",23,69
+5611,Beverages,Tea,"Brewed Black tea",23,69
+8002,Beverages,Tea,"Brewed Black tea",23,57.5
+8134,Beverages,Tea,"Brewed Black tea",23,57.5
+8394,Beverages,Tea,"Brewed Black tea",23,69
+283,Beverages,Tea,"Brewed Black tea",23,69
+111,Beverages,Tea,"Brewed Chai tea",23,57.5
+5382,Beverages,Tea,"Brewed Chai tea",23,57.5
+8231,Beverages,Tea,"Brewed Chai tea",23,57.5
+686,Beverages,Coffee,"Gourmet brewed coffee",23,80.5
+5618,Beverages,Coffee,"Premium brewed coffee",23,56.35
+320,Beverages,Coffee,"Premium brewed coffee",23,56.35
+8129,Beverages,Coffee,"Premium brewed coffee",23,86.25
+5740,Beverages,Coffee,"Premium brewed coffee",23,86.25
+5468,Beverages,Coffee,"Premium brewed coffee",23,86.25
+8215,Beverages,Coffee,"Barista Espresso",23,69
+5583,Beverages,Coffee,"Barista Espresso",23,69
+8302,Beverages,Coffee,"Barista Espresso",23,69
+8327,Beverages,Coffee,"Barista Espresso",23,69
+5841,Beverages,Coffee,"Barista Espresso",23,86.25
+8121,Beverages,Coffee,"Barista Espresso",23,86.25
+260,Beverages,Coffee,"Barista Espresso",23,86.25
+8476,Beverages,Coffee,"Barista Espresso",23,86.25
+8414,Beverages,Coffee,"Barista Espresso",23,86.25
+8393,Beverages,Coffee,"Barista Espresso",23,86.25
+8463,Beverages,Coffee,"Barista Espresso",23,97.75
+5479,Beverages,Coffee,"Barista Espresso",23,97.75
+275,Beverages,"Drinking Chocolate","Hot chocolate",23,86.25
+5463,Beverages,"Drinking Chocolate","Hot chocolate",23,109.25
+8059,Beverages,"Drinking Chocolate","Hot chocolate",23,109.25
+5374,Add-ons,Flavours,"Regular syrup",23,18.4
+8009,Food,Bakery,Pastry,23,80.5
+267,Food,Bakery,Pastry,23,80.5
+5129,Food,Bakery,Scone,23,74.75
+8128,Food,Bakery,Scone,23,74.75
+721,Food,Bakery,Pastry,23,86.25
+549,Food,Bakery,Pastry,23,86.25
+5825,Beverages,Coffee,"Organic brewed coffee",23,80.5
+5307,Beverages,Coffee,"Organic brewed coffee",23,80.5
+8208,Beverages,Coffee,"Organic brewed coffee",23,80.5
+44,Beverages,Coffee,"Organic brewed coffee",23,80.5
+150,Beverages,Coffee,"Gourmet brewed coffee",23,46
+8217,Beverages,Coffee,"Gourmet brewed coffee",23,57.5
+8379,Beverages,Coffee,"Gourmet brewed coffee",23,57.5
+8385,Beverages,Coffee,"Gourmet brewed coffee",23,57.5
+8135,Beverages,Coffee,"Gourmet brewed coffee",23,69
+8445,Beverages,Coffee,"Gourmet brewed coffee",23,69
+5139,Beverages,Coffee,"Gourmet brewed coffee",23,50.6
+760,Beverages,Coffee,"Gourmet brewed coffee",23,50.6
+527,Beverages,Coffee,"Gourmet brewed coffee",23,50.6
+5533,Beverages,Coffee,"Gourmet brewed coffee",23,80.5
+321,Beverages,Coffee,"Barista Espresso",23,97.75
+54,Beverages,Coffee,"Barista Espresso",23,97.75
+8189,Beverages,Coffee,"Barista Espresso",23,97.75
+8164,Beverages,Coffee,"Barista Espresso",23,86.25
+589,Beverages,Coffee,"Barista Espresso",23,86.25
+5228,Beverages,Coffee,"Barista Espresso",23,97.75
+16,Beverages,Coffee,"Barista Espresso",23,97.75
+8049,Beverages,Tea,"Brewed herbal tea",23,57.5
+8029,Beverages,Tea,"Brewed herbal tea",23,57.5
+8193,Beverages,Tea,"Brewed herbal tea",23,57.5
+5106,Beverages,Tea,"Brewed herbal tea",23,57.5
+616,Beverages,Tea,"Brewed herbal tea",23,69
+8226,Beverages,Tea,"Brewed herbal tea",23,69
+8067,Beverages,Tea,"Brewed herbal tea",23,69
+100,Beverages,Tea,"Brewed herbal tea",23,69
+410,Beverages,Tea,"Brewed herbal tea",23,57.5
+79,Beverages,Tea,"Brewed herbal tea",23,69
+195,Beverages,Coffee,"Drip coffee",23,46
+491,Beverages,Coffee,"Drip coffee",23,46
+168,Beverages,Coffee,"Drip coffee",23,46
+8488,Beverages,Coffee,"Drip coffee",23,57.5
+8170,Beverages,Coffee,"Drip coffee",23,69
+5180,Beverages,Coffee,"Drip coffee",23,69
+435,Beverages,Coffee,"Organic brewed coffee",23,50.6
+8041,Beverages,Coffee,"Organic brewed coffee",23,50.6
+544,Beverages,Coffee,"Organic brewed coffee",23,50.6
+8360,Beverages,Coffee,"Organic brewed coffee",23,69
+151,Beverages,Coffee,"Organic brewed coffee",23,69
+507,Beverages,Coffee,"Organic brewed coffee",23,69
+8480,Beverages,Coffee,"Drip coffee",22,44
+8149,Beverages,Coffee,"Drip coffee",22,44
+8265,Beverages,Coffee,"Drip coffee",22,44
+5492,Beverages,Coffee,"Drip coffee",22,44
+5235,Beverages,Coffee,"Drip coffee",22,44
+8382,Beverages,Coffee,"Drip coffee",22,44
+8002,Beverages,Coffee,"Drip coffee",22,44
+5347,Beverages,Coffee,"Drip coffee",22,55
+5832,Beverages,Coffee,"Drip coffee",22,55
+5212,Beverages,Coffee,"Drip coffee",22,55
+5429,Beverages,Coffee,"Drip coffee",22,55
+8140,Beverages,Coffee,"Drip coffee",22,55
+173,Beverages,Coffee,"Drip coffee",22,55
+301,Beverages,Coffee,"Drip coffee",22,55
+26,Beverages,Coffee,"Drip coffee",22,55
+13,Beverages,Coffee,"Drip coffee",22,55
+8405,Beverages,Coffee,"Drip coffee",22,55
+5159,Beverages,Coffee,"Drip coffee",22,55
+5392,Beverages,Coffee,"Drip coffee",22,55
+5103,Beverages,Coffee,"Drip coffee",22,55
+392,Beverages,Coffee,"Drip coffee",22,55
+676,Beverages,Coffee,"Drip coffee",22,55
+5512,Beverages,Coffee,"Drip coffee",22,55
+167,Beverages,Coffee,"Drip coffee",22,66
+356,Beverages,Coffee,"Drip coffee",22,66
+8181,Beverages,Coffee,"Drip coffee",22,66
+5784,Beverages,Coffee,"Drip coffee",22,66
+234,Beverages,Coffee,"Drip coffee",22,66
+8456,Beverages,Coffee,"Drip coffee",22,66
+8341,Beverages,Coffee,"Drip coffee",22,66
+96,Beverages,Coffee,"Drip coffee",22,66
+461,Beverages,Coffee,"Drip coffee",22,66
+5312,Beverages,Coffee,"Drip coffee",22,66
+403,Beverages,Coffee,"Drip coffee",22,66
+8226,Beverages,Coffee,"Drip coffee",22,66
+14,Beverages,Coffee,"Drip coffee",22,66
+5172,Beverages,Coffee,"Drip coffee",22,66
+221,Beverages,Coffee,"Drip coffee",22,66
+8412,Beverages,Coffee,"Drip coffee",22,66
+406,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8462,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8361,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8438,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8482,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8082,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8338,Beverages,Coffee,"Organic brewed coffee",22,48.4
+579,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8374,Beverages,Coffee,"Organic brewed coffee",22,48.4
+206,Beverages,Coffee,"Organic brewed coffee",22,48.4
+8010,Beverages,Coffee,"Organic brewed coffee",22,48.4
+674,Beverages,Coffee,"Organic brewed coffee",22,48.4
+5601,Beverages,Coffee,"Organic brewed coffee",22,48.4
+307,Beverages,Coffee,"Organic brewed coffee",22,48.4
+645,Beverages,Coffee,"Organic brewed coffee",22,66
+8409,Beverages,Coffee,"Organic brewed coffee",22,66
+640,Beverages,Coffee,"Organic brewed coffee",22,66
+5218,Beverages,Coffee,"Organic brewed coffee",22,66
+8115,Beverages,Coffee,"Organic brewed coffee",22,66
+8401,Beverages,Coffee,"Organic brewed coffee",22,66
+5541,Beverages,Coffee,"Organic brewed coffee",22,66
+5379,Beverages,Coffee,"Organic brewed coffee",22,66
+8174,Beverages,Coffee,"Organic brewed coffee",22,66
+8380,Beverages,Coffee,"Organic brewed coffee",22,66
+276,Beverages,Coffee,"Organic brewed coffee",22,66
+184,Beverages,Coffee,"Gourmet brewed coffee",22,77
+506,Beverages,Coffee,"Gourmet brewed coffee",22,77
+5196,Beverages,Coffee,"Gourmet brewed coffee",22,77
+214,Beverages,Coffee,"Gourmet brewed coffee",22,77
+8383,Beverages,Coffee,"Gourmet brewed coffee",22,77
+751,Beverages,Coffee,"Gourmet brewed coffee",22,77
+745,Beverages,Coffee,"Gourmet brewed coffee",22,77
+5316,Beverages,Coffee,"Gourmet brewed coffee",22,77
+5250,Beverages,Coffee,"Gourmet brewed coffee",22,77
+8334,Beverages,Coffee,"Gourmet brewed coffee",22,77
+8351,Beverages,Coffee,"Premium brewed coffee",22,53.9
+43,Beverages,Coffee,"Premium brewed coffee",22,53.9
+758,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5524,Beverages,Coffee,"Premium brewed coffee",22,53.9
+8429,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5403,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5163,Beverages,Coffee,"Premium brewed coffee",22,53.9
+629,Beverages,Coffee,"Premium brewed coffee",22,53.9
+8145,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5006,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5532,Beverages,Coffee,"Premium brewed coffee",22,53.9
+5274,Beverages,Coffee,"Premium brewed coffee",22,53.9
+8353,Beverages,Coffee,"Premium brewed coffee",22,68.2
+5786,Beverages,Coffee,"Premium brewed coffee",22,68.2
+5487,Beverages,Coffee,"Premium brewed coffee",22,68.2
+305,Beverages,Coffee,"Premium brewed coffee",22,68.2
+419,Beverages,Coffee,"Premium brewed coffee",22,68.2
+5245,Beverages,Coffee,"Premium brewed coffee",22,68.2
+201,Beverages,Coffee,"Premium brewed coffee",22,68.2
+8346,Beverages,Coffee,"Premium brewed coffee",22,68.2
+130,Beverages,Coffee,"Premium brewed coffee",22,68.2
+8155,Beverages,Coffee,"Premium brewed coffee",22,68.2
+632,Beverages,Coffee,"Premium brewed coffee",22,68.2
+325,Beverages,Coffee,"Premium brewed coffee",22,68.2
+567,Beverages,Coffee,"Premium brewed coffee",22,68.2
+5933,Beverages,Coffee,"Premium brewed coffee",22,68.2
+8013,Beverages,Coffee,"Premium brewed coffee",22,68.2
+451,Beverages,Coffee,"Premium brewed coffee",22,68.2
+8306,Beverages,Coffee,"Premium brewed coffee",22,68.2
+8100,Beverages,Coffee,"Premium brewed coffee",22,68.2
+205,Beverages,Coffee,"Premium brewed coffee",22,82.5
+8199,Beverages,Coffee,"Premium brewed coffee",22,82.5
+523,Beverages,Coffee,"Premium brewed coffee",22,82.5
+8192,Beverages,Coffee,"Premium brewed coffee",22,82.5
+784,Beverages,Coffee,"Premium brewed coffee",22,82.5
+581,Beverages,Coffee,"Premium brewed coffee",22,82.5
+5646,Beverages,Coffee,"Premium brewed coffee",22,82.5
+229,Beverages,Coffee,"Premium brewed coffee",22,82.5
+5205,Beverages,Coffee,"Premium brewed coffee",22,82.5
+5497,Beverages,Coffee,"Premium brewed coffee",22,82.5
+8168,Beverages,Coffee,"Premium brewed coffee",22,82.5
+619,Beverages,Coffee,"Premium brewed coffee",22,82.5
+8443,Beverages,Coffee,"Premium brewed coffee",22,82.5
+469,Beverages,Coffee,"Barista Espresso",22,66
+506,Beverages,Coffee,"Barista Espresso",22,66
+8200,Beverages,Coffee,"Barista Espresso",22,66
+8318,Beverages,Coffee,"Barista Espresso",22,66
+8362,Beverages,Coffee,"Barista Espresso",22,66
+8291,Beverages,Coffee,"Barista Espresso",22,66
+5914,Beverages,Coffee,"Barista Espresso",22,66
+430,Beverages,Coffee,"Barista Espresso",22,66
+8385,Beverages,Coffee,"Barista Espresso",22,66
+8105,Beverages,Coffee,"Barista Espresso",22,66
+8312,Beverages,Coffee,"Barista Espresso",22,66
+459,Beverages,Coffee,"Barista Espresso",22,82.5
+5862,Beverages,Coffee,"Barista Espresso",22,82.5
+5388,Beverages,Coffee,"Barista Espresso",22,82.5
+5786,Beverages,Coffee,"Barista Espresso",22,82.5
+5311,Beverages,Coffee,"Barista Espresso",22,82.5
+5340,Beverages,Coffee,"Barista Espresso",22,82.5
+5345,Beverages,Coffee,"Barista Espresso",22,82.5
+5500,Beverages,Coffee,"Barista Espresso",22,82.5
+5671,Beverages,Coffee,"Barista Espresso",22,82.5
+8361,Beverages,Coffee,"Barista Espresso",22,82.5
+719,Beverages,Coffee,"Barista Espresso",22,82.5
+8297,Beverages,Coffee,"Barista Espresso",22,82.5
+769,Beverages,Coffee,"Barista Espresso",22,82.5
+196,Beverages,Coffee,"Barista Espresso",22,82.5
+8484,Beverages,Coffee,"Barista Espresso",22,82.5
+781,Beverages,Coffee,"Barista Espresso",22,93.5
+8294,Beverages,Coffee,"Barista Espresso",22,93.5
+83,Beverages,Coffee,"Barista Espresso",22,93.5
+8138,Beverages,Coffee,"Barista Espresso",22,93.5
+5009,Beverages,Tea,"Brewed Chai tea",22,66
+8177,Beverages,Tea,"Brewed Chai tea",22,66
+8028,Beverages,Tea,"Brewed Chai tea",22,66
+315,Beverages,Tea,"Brewed Chai tea",22,66
+8297,Beverages,Tea,"Brewed Chai tea",22,66
+8382,Beverages,Tea,"Brewed Chai tea",22,66
+8334,Beverages,Tea,"Brewed Chai tea",22,66
+5345,Beverages,Tea,"Brewed Chai tea",22,66
+8025,Beverages,Tea,"Brewed Chai tea",22,55
+127,Beverages,Tea,"Brewed Chai tea",22,55
+33,Beverages,Tea,"Brewed Chai tea",22,55
+8110,Beverages,Tea,"Brewed Chai tea",22,55
+5895,Beverages,Tea,"Brewed Chai tea",22,55
+685,Beverages,Tea,"Brewed Chai tea",22,55
+8499,Beverages,Tea,"Brewed Chai tea",22,55
+148,Beverages,Tea,"Brewed Chai tea",22,55
+281,Beverages,Tea,"Brewed Chai tea",22,55
+8252,Beverages,Tea,"Brewed Chai tea",22,55
+5391,Beverages,Tea,"Brewed Chai tea",22,88
+8320,Beverages,Tea,"Brewed Chai tea",22,88
+8411,Beverages,Tea,"Brewed Chai tea",22,88
+5930,Beverages,Tea,"Brewed Chai tea",22,88
+379,Beverages,Tea,"Brewed Chai tea",22,88
+5655,Beverages,Tea,"Brewed Chai tea",22,88
+8060,Beverages,Tea,"Brewed Chai tea",22,88
+5049,Beverages,Tea,"Brewed Chai tea",22,88
+5858,Beverages,Tea,"Brewed Chai tea",22,88
+5449,Beverages,Tea,"Brewed Chai tea",22,88
+296,Beverages,Tea,"Brewed Chai tea",22,88
+69,Beverages,Tea,"Brewed Chai tea",22,88
+8072,Beverages,Tea,"Brewed Chai tea",22,88
+645,Beverages,Tea,"Brewed Chai tea",22,88
+5671,Beverages,Tea,"Brewed Chai tea",22,88
+8229,Beverages,Tea,"Brewed Chai tea",22,88
+8301,Beverages,Tea,"Brewed Chai tea",22,88
+8017,Beverages,Tea,"Brewed Chai tea",22,56.1
+191,Beverages,Tea,"Brewed Chai tea",22,56.1
+263,Beverages,Tea,"Brewed Chai tea",22,56.1
+5572,Beverages,Tea,"Brewed Chai tea",22,56.1
+118,Beverages,Tea,"Brewed Chai tea",22,56.1
+529,Beverages,Tea,"Brewed Chai tea",22,56.1
+208,Beverages,Tea,"Brewed Chai tea",22,56.1
+8068,Beverages,Tea,"Brewed Chai tea",22,56.1
+732,Beverages,Tea,"Brewed Chai tea",22,56.1
+8386,Beverages,Tea,"Brewed Chai tea",22,56.1
+8041,Beverages,Tea,"Brewed Chai tea",22,56.1
+5610,Beverages,Tea,"Brewed Chai tea",22,56.1
+8076,Beverages,Tea,"Brewed Chai tea",22,56.1
+8155,Beverages,Tea,"Brewed Chai tea",22,56.1
+5401,Beverages,Tea,"Brewed Chai tea",22,56.1
+5272,Beverages,Tea,"Brewed Chai tea",22,68.2
+748,Beverages,Tea,"Brewed Chai tea",22,68.2
+5329,Beverages,Tea,"Brewed Chai tea",22,68.2
+5170,Beverages,Tea,"Brewed Chai tea",22,68.2
+450,Beverages,Tea,"Brewed Chai tea",22,68.2
+206,Beverages,Tea,"Brewed Chai tea",22,68.2
+8283,Beverages,Tea,"Brewed Chai tea",22,68.2
+128,Beverages,Tea,"Brewed Chai tea",22,68.2
+8353,Beverages,Tea,"Brewed Chai tea",22,68.2
+283,Beverages,Tea,"Brewed Chai tea",22,68.2
+5644,Beverages,Tea,"Brewed Chai tea",22,68.2
+770,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+5410,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8112,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+5928,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+462,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8027,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+5238,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8068,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+672,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+5778,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+5193,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8285,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+20,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8080,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+719,Beverages,"Drinking Chocolate","Hot chocolate",22,77
+8087,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5943,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+664,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+154,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+727,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+226,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+8348,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+740,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5702,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5874,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+425,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5444,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+648,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+8236,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+42,Food,Bakery,Pastry,22,82.5
+758,Food,Bakery,Biscotti,22,71.5
+720,Food,Bakery,Biscotti,22,77
+779,Food,Bakery,Biscotti,22,77
+28,Food,Bakery,Scone,22,66
+26,Food,Bakery,Scone,22,82.5
+8600,Merchandise,Branded,Housewares,22,264
+8008,Add-ons,Flavours,"Regular syrup",22,17.6
+248,Add-ons,Flavours,"Regular syrup",22,17.6
+5340,Add-ons,Flavours,"Regular syrup",22,17.6
+5245,Add-ons,Flavours,"Regular syrup",22,17.6
+8146,Add-ons,Flavours,"Regular syrup",22,17.6
+8393,Add-ons,Flavours,"Regular syrup",22,17.6
+5671,Add-ons,Flavours,"Regular syrup",22,17.6
+8381,Add-ons,Flavours,"Regular syrup",22,17.6
+679,Add-ons,Flavours,"Regular syrup",22,17.6
+8385,Add-ons,Flavours,"Regular syrup",22,17.6
+8445,Beverages,Coffee,"Barista Espresso",22,66
+5329,Beverages,Coffee,"Barista Espresso",22,66
+8097,Beverages,Coffee,"Barista Espresso",22,66
+5293,Beverages,Coffee,"Barista Espresso",22,66
+5900,Beverages,Coffee,"Barista Espresso",22,66
+5827,Beverages,Coffee,"Barista Espresso",22,66
+5492,Beverages,Coffee,"Barista Espresso",22,66
+8034,Beverages,Coffee,"Barista Espresso",22,66
+8238,Beverages,Tea,"Brewed Green tea",22,55
+8493,Beverages,Tea,"Brewed Green tea",22,55
+149,Beverages,Tea,"Brewed Green tea",22,66
+446,Beverages,Tea,"Brewed Green tea",22,66
+5765,Beverages,Tea,"Brewed Green tea",22,66
+612,Beverages,Tea,"Brewed Green tea",22,66
+641,Beverages,Tea,"Brewed Green tea",22,66
+8490,Beverages,Tea,"Brewed Green tea",22,66
+5409,Beverages,Tea,"Brewed Green tea",22,66
+8274,Beverages,Tea,"Brewed Green tea",22,66
+8263,Beverages,Tea,"Brewed Green tea",22,66
+8019,Beverages,Tea,"Brewed Green tea",22,66
+5719,Beverages,Tea,"Brewed Black tea",22,55
+294,Beverages,Tea,"Brewed Black tea",22,55
+322,Beverages,Tea,"Brewed Black tea",22,55
+5284,Beverages,Tea,"Brewed Black tea",22,55
+5767,Beverages,Tea,"Brewed Black tea",22,55
+470,Beverages,Tea,"Brewed Black tea",22,55
+5712,Beverages,Tea,"Brewed Black tea",22,55
+8131,Beverages,Tea,"Brewed Black tea",22,55
+8381,Beverages,Tea,"Brewed Black tea",22,55
+8402,Beverages,Tea,"Brewed Black tea",22,66
+22,Beverages,Tea,"Brewed Black tea",22,66
+8079,Beverages,Tea,"Brewed Black tea",22,66
+8407,Beverages,Tea,"Brewed Black tea",22,66
+5106,Beverages,Tea,"Brewed Black tea",22,66
+768,Beverages,Tea,"Brewed Black tea",22,66
+5483,Beverages,Tea,"Brewed Black tea",22,66
+5498,Beverages,Tea,"Brewed Black tea",22,66
+8374,Beverages,Tea,"Brewed Black tea",22,66
+121,Beverages,Tea,"Brewed Black tea",22,66
+8317,Beverages,Tea,"Brewed Black tea",22,66
+8216,Beverages,Tea,"Brewed Black tea",22,66
+748,Beverages,Tea,"Brewed Black tea",22,66
+5532,Beverages,Tea,"Brewed Black tea",22,66
+5038,Beverages,Tea,"Brewed Black tea",22,66
+5162,Beverages,Tea,"Brewed Black tea",22,66
+199,Beverages,Tea,"Brewed Black tea",22,66
+5431,Beverages,Tea,"Brewed Black tea",22,66
+8411,Beverages,Tea,"Brewed Black tea",22,55
+278,Beverages,Tea,"Brewed Black tea",22,55
+8285,Beverages,Tea,"Brewed Black tea",22,55
+8410,Beverages,Tea,"Brewed Black tea",22,55
+93,Beverages,Tea,"Brewed Black tea",22,55
+165,Beverages,Tea,"Brewed Black tea",22,55
+681,Beverages,Tea,"Brewed Black tea",22,55
+8218,Beverages,Tea,"Brewed Black tea",22,55
+8373,Beverages,Tea,"Brewed Black tea",22,55
+5611,Beverages,Tea,"Brewed Black tea",22,55
+8339,Beverages,Tea,"Brewed Black tea",22,55
+648,Beverages,Tea,"Brewed Black tea",22,55
+241,Beverages,Tea,"Brewed Black tea",22,66
+743,Beverages,Tea,"Brewed Black tea",22,66
+140,Beverages,Tea,"Brewed Black tea",22,66
+432,Beverages,Tea,"Brewed Black tea",22,66
+8382,Beverages,Tea,"Brewed Black tea",22,66
+11,Beverages,Tea,"Brewed Black tea",22,66
+8029,Beverages,Tea,"Brewed Black tea",22,66
+757,Beverages,Tea,"Brewed Black tea",22,66
+8104,Beverages,Tea,"Brewed Black tea",22,66
+5288,Beverages,Tea,"Brewed Black tea",22,66
+8410,Beverages,Tea,"Brewed Chai tea",22,55
+456,Beverages,Tea,"Brewed Chai tea",22,55
+8279,Beverages,Tea,"Brewed Chai tea",22,55
+5259,Beverages,Tea,"Brewed Chai tea",22,55
+5358,Beverages,Tea,"Brewed Chai tea",22,55
+5782,Beverages,Tea,"Brewed Chai tea",22,55
+216,Beverages,Tea,"Brewed Chai tea",22,55
+11,Beverages,Tea,"Brewed Chai tea",22,55
+241,Beverages,Tea,"Brewed Chai tea",22,55
+8402,Beverages,Tea,"Brewed Chai tea",22,55
+8257,Beverages,Tea,"Brewed Chai tea",22,55
+80,Beverages,Tea,"Brewed Chai tea",22,55
+8354,Beverages,Tea,"Brewed Chai tea",22,55
+8422,Beverages,Tea,"Brewed Chai tea",22,55
+128,Beverages,Tea,"Brewed Chai tea",22,55
+5187,Beverages,Coffee,"Barista Espresso",22,93.5
+5422,Beverages,Coffee,"Barista Espresso",22,93.5
+5672,Beverages,Coffee,"Barista Espresso",22,93.5
+601,Beverages,Coffee,"Barista Espresso",22,93.5
+8025,Beverages,Coffee,"Barista Espresso",22,93.5
+8254,Beverages,Coffee,"Barista Espresso",22,93.5
+5867,Beverages,Coffee,"Barista Espresso",22,93.5
+8443,Beverages,Coffee,"Barista Espresso",22,93.5
+8284,Beverages,Coffee,"Barista Espresso",22,93.5
+8257,Beverages,Coffee,"Barista Espresso",22,93.5
+5671,Beverages,Coffee,"Barista Espresso",22,93.5
+338,Beverages,Coffee,"Barista Espresso",22,93.5
+5581,Beverages,Coffee,"Barista Espresso",22,82.5
+294,Beverages,Coffee,"Barista Espresso",22,82.5
+5262,Beverages,Coffee,"Barista Espresso",22,82.5
+384,Beverages,Coffee,"Barista Espresso",22,82.5
+154,Beverages,Coffee,"Barista Espresso",22,82.5
+5781,Beverages,Coffee,"Barista Espresso",22,82.5
+8430,Beverages,Coffee,"Barista Espresso",22,82.5
+5713,Beverages,Coffee,"Barista Espresso",22,82.5
+5331,Beverages,Coffee,"Barista Espresso",22,82.5
+8192,Beverages,Coffee,"Barista Espresso",22,93.5
+5651,Beverages,Coffee,"Barista Espresso",22,93.5
+606,Beverages,Coffee,"Barista Espresso",22,93.5
+5033,Beverages,Coffee,"Barista Espresso",22,93.5
+5083,Beverages,Coffee,"Barista Espresso",22,93.5
+8459,Beverages,Coffee,"Barista Espresso",22,93.5
+5277,Beverages,Coffee,"Barista Espresso",22,93.5
+8132,Beverages,Coffee,"Barista Espresso",22,93.5
+679,Beverages,Coffee,"Barista Espresso",22,93.5
+5548,Beverages,Tea,"Brewed herbal tea",22,55
+8473,Beverages,Tea,"Brewed herbal tea",22,55
+5660,Beverages,Tea,"Brewed herbal tea",22,55
+8292,Beverages,Tea,"Brewed herbal tea",22,55
+5566,Beverages,Tea,"Brewed herbal tea",22,55
+8234,Beverages,Tea,"Brewed herbal tea",22,55
+506,Beverages,Tea,"Brewed herbal tea",22,55
+5772,Beverages,Tea,"Brewed herbal tea",22,55
+670,Beverages,Tea,"Brewed herbal tea",22,55
+5062,Beverages,Tea,"Brewed herbal tea",22,55
+8198,Beverages,Tea,"Brewed herbal tea",22,55
+8419,Beverages,Tea,"Brewed herbal tea",22,55
+5803,Beverages,Tea,"Brewed herbal tea",22,55
+396,Beverages,Tea,"Brewed herbal tea",22,55
+8361,Beverages,Tea,"Brewed herbal tea",22,55
+322,Beverages,Tea,"Brewed herbal tea",22,55
+223,Beverages,Tea,"Brewed herbal tea",22,55
+663,Beverages,Tea,"Brewed herbal tea",22,55
+637,Beverages,Tea,"Brewed herbal tea",22,66
+8480,Beverages,Tea,"Brewed herbal tea",22,66
+218,Beverages,Tea,"Brewed herbal tea",22,66
+600,Beverages,Tea,"Brewed herbal tea",22,66
+206,Beverages,Tea,"Brewed herbal tea",22,66
+488,Beverages,Tea,"Brewed herbal tea",22,66
+52,Beverages,Tea,"Brewed herbal tea",22,66
+8070,Beverages,Tea,"Brewed herbal tea",22,66
+5815,Beverages,Tea,"Brewed herbal tea",22,66
+712,Beverages,Tea,"Brewed herbal tea",22,66
+5395,Beverages,Tea,"Brewed herbal tea",22,66
+8259,Beverages,Tea,"Brewed herbal tea",22,66
+217,Beverages,Tea,"Brewed herbal tea",22,66
+8146,Beverages,Tea,"Brewed herbal tea",22,66
+8461,Beverages,Tea,"Brewed herbal tea",22,66
+5563,Beverages,Tea,"Brewed herbal tea",22,66
+8394,Beverages,Tea,"Brewed herbal tea",22,66
+5561,Beverages,Tea,"Brewed herbal tea",22,66
+8057,Beverages,Tea,"Brewed herbal tea",22,55
+5427,Beverages,Tea,"Brewed herbal tea",22,55
+742,Beverages,Tea,"Brewed herbal tea",22,55
+5349,Beverages,Tea,"Brewed herbal tea",22,55
+664,Beverages,Tea,"Brewed herbal tea",22,55
+324,Beverages,Tea,"Brewed herbal tea",22,55
+5728,Beverages,Tea,"Brewed herbal tea",22,55
+513,Beverages,Tea,"Brewed herbal tea",22,55
+8336,Beverages,Tea,"Brewed herbal tea",22,55
+584,Beverages,Tea,"Brewed herbal tea",22,55
+477,Beverages,Tea,"Brewed herbal tea",22,55
+5624,Beverages,Tea,"Brewed herbal tea",22,55
+5397,Beverages,Tea,"Brewed herbal tea",22,55
+5413,Beverages,Tea,"Brewed herbal tea",22,55
+8410,Beverages,Tea,"Brewed herbal tea",22,66
+8294,Beverages,Tea,"Brewed herbal tea",22,66
+306,Beverages,Tea,"Brewed herbal tea",22,66
+5634,Beverages,Tea,"Brewed herbal tea",22,66
+5282,Beverages,Tea,"Brewed herbal tea",22,66
+56,Beverages,Tea,"Brewed herbal tea",22,66
+482,Beverages,Tea,"Brewed herbal tea",22,66
+5166,Beverages,Tea,"Brewed herbal tea",22,66
+5852,Beverages,Tea,"Brewed herbal tea",22,66
+8313,Beverages,Tea,"Brewed herbal tea",22,66
+5516,Beverages,Tea,"Brewed herbal tea",22,66
+5919,Beverages,Tea,"Brewed Green tea",22,55
+367,Beverages,Tea,"Brewed Green tea",22,55
+8308,Beverages,Tea,"Brewed Green tea",22,55
+5472,Beverages,Tea,"Brewed Green tea",22,55
+8460,Beverages,Tea,"Brewed Green tea",22,55
+5623,Beverages,Tea,"Brewed Green tea",22,55
+5118,Beverages,Tea,"Brewed Green tea",22,55
+5542,Beverages,Tea,"Brewed Green tea",22,55
+8403,Beverages,Tea,"Brewed Green tea",22,55
+542,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5442,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+8393,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+186,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+532,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5510,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+5525,Beverages,"Drinking Chocolate","Hot chocolate",22,99
+8005,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+5446,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+8136,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+33,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+5176,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+748,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+5201,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+625,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+5009,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+5229,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+775,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+8389,Beverages,"Drinking Chocolate","Hot chocolate",22,82.5
+8161,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+465,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+8232,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+8382,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+8268,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+738,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+563,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+5122,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+8157,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+5728,Beverages,"Drinking Chocolate","Hot chocolate",22,104.5
+8466,Add-ons,Flavours,"Regular syrup",22,17.6
+8045,Add-ons,Flavours,"Regular syrup",22,17.6
+154,Add-ons,Flavours,"Regular syrup",22,17.6
+8351,Add-ons,Flavours,"Regular syrup",22,17.6
+5871,Add-ons,Flavours,"Regular syrup",22,17.6
+8315,Add-ons,Flavours,"Regular syrup",22,17.6
+5277,Add-ons,Flavours,"Regular syrup",22,17.6
+5222,Add-ons,Flavours,"Regular syrup",22,17.6
+5138,Add-ons,Flavours,"Regular syrup",22,17.6
+5405,Add-ons,Flavours,"Regular syrup",22,17.6
+5842,Add-ons,Flavours,"Regular syrup",22,17.6
+5074,Add-ons,Flavours,"Regular syrup",22,17.6
+5600,Add-ons,Flavours,"Regular syrup",22,17.6
+5435,Add-ons,Flavours,"Regular syrup",22,17.6
+5434,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5304,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5091,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5232,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5886,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5417,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5713,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5414,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5268,Add-ons,Flavours,"Sugar free syrup",22,17.6
+8132,Add-ons,Flavours,"Sugar free syrup",22,17.6
+8173,Add-ons,Flavours,"Sugar free syrup",22,17.6
+24,Add-ons,Flavours,"Sugar free syrup",22,17.6
+430,Add-ons,Flavours,"Sugar free syrup",22,17.6
+5340,Add-ons,Flavours,"Sugar free syrup",22,17.6
+8025,Food,Bakery,Pastry,22,77
+5091,Food,Bakery,Scone,22,71.5
+8087,Food,Bakery,Scone,22,71.5
+5912,Food,Bakery,Pastry,22,82.5
+43,Food,Bakery,Pastry,22,82.5
+617,Food,Bakery,Pastry,22,82.5
+5548,Food,Bakery,Pastry,22,82.5
+8165,Food,Bakery,Pastry,22,82.5
+319,Food,Bakery,Pastry,22,82.5
+18,Food,Bakery,Pastry,22,82.5
+389,Food,Bakery,Pastry,22,82.5
+5182,Food,Bakery,Pastry,22,82.5
+590,Beverages,Coffee,"Organic brewed coffee",22,77
+5279,Beverages,Coffee,"Organic brewed coffee",22,77
+5196,Beverages,Coffee,"Organic brewed coffee",22,77
+645,Beverages,Coffee,"Organic brewed coffee",22,77
+5502,Beverages,Coffee,"Organic brewed coffee",22,77
+143,Beverages,Coffee,"Organic brewed coffee",22,77
+5416,Beverages,Coffee,"Organic brewed coffee",22,77
+5205,Beverages,Coffee,"Organic brewed coffee",22,77
+8467,Beverages,Coffee,"Organic brewed coffee",22,77
+5441,Beverages,Coffee,"Organic brewed coffee",22,77
+200,Beverages,Coffee,"Gourmet brewed coffee",22,44
+5500,Beverages,Coffee,"Gourmet brewed coffee",22,44
+486,Beverages,Coffee,"Gourmet brewed coffee",22,44
+8083,Beverages,Coffee,"Gourmet brewed coffee",22,44
+5637,Beverages,Coffee,"Gourmet brewed coffee",22,44
+5783,Beverages,Coffee,"Gourmet brewed coffee",22,44
+342,Beverages,Coffee,"Gourmet brewed coffee",22,44
+5843,Beverages,Coffee,"Gourmet brewed coffee",22,44
+8326,Beverages,Coffee,"Gourmet brewed coffee",22,44
+8108,Beverages,Coffee,"Gourmet brewed coffee",22,55
+8193,Beverages,Coffee,"Gourmet brewed coffee",22,55
+735,Beverages,Coffee,"Gourmet brewed coffee",22,55
+5883,Beverages,Coffee,"Gourmet brewed coffee",22,55
+263,Beverages,Coffee,"Gourmet brewed coffee",22,55
+8243,Beverages,Coffee,"Gourmet brewed coffee",22,55
+135,Beverages,Coffee,"Gourmet brewed coffee",22,55
+5829,Beverages,Coffee,"Gourmet brewed coffee",22,55
+5775,Beverages,Coffee,"Gourmet brewed coffee",22,55
+8382,Beverages,Coffee,"Gourmet brewed coffee",22,55
+5939,Beverages,Coffee,"Gourmet brewed coffee",22,55
+5351,Beverages,Coffee,"Gourmet brewed coffee",22,55
+220,Beverages,Coffee,"Gourmet brewed coffee",22,55
+8001,Beverages,Coffee,"Gourmet brewed coffee",22,55
+8373,Beverages,Coffee,"Gourmet brewed coffee",22,66
+8152,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5935,Beverages,Coffee,"Gourmet brewed coffee",22,66
+352,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5329,Beverages,Coffee,"Gourmet brewed coffee",22,66
+8212,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5933,Beverages,Coffee,"Gourmet brewed coffee",22,66
+412,Beverages,Coffee,"Gourmet brewed coffee",22,66
+8352,Beverages,Coffee,"Gourmet brewed coffee",22,66
+8282,Beverages,Coffee,"Gourmet brewed coffee",22,66
+258,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5176,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+722,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+607,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+8336,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+8221,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5765,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5410,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5460,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5204,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+8059,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+547,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5929,Beverages,Coffee,"Gourmet brewed coffee",22,48.4
+5190,Beverages,Coffee,"Gourmet brewed coffee",22,66
+594,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5809,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5758,Beverages,Coffee,"Gourmet brewed coffee",22,66
+607,Beverages,Coffee,"Gourmet brewed coffee",22,66
+11,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5270,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5651,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5670,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5376,Beverages,Coffee,"Gourmet brewed coffee",22,66
+8166,Beverages,Coffee,"Gourmet brewed coffee",22,66
+5453,Beverages,Coffee,"Gourmet brewed coffee",22,77
+216,Beverages,Coffee,"Gourmet brewed coffee",22,77
+8414,Beverages,Coffee,"Gourmet brewed coffee",22,77
+5927,Beverages,Coffee,"Organic brewed coffee",21,73.5
+8244,Beverages,Coffee,"Gourmet brewed coffee",21,42
+68,Beverages,Coffee,"Gourmet brewed coffee",21,52.5
+5385,Beverages,Coffee,"Gourmet brewed coffee",21,52.5
+5182,Beverages,Coffee,"Gourmet brewed coffee",21,52.5
+5827,Beverages,Coffee,"Gourmet brewed coffee",21,52.5
+8368,Beverages,Coffee,"Gourmet brewed coffee",21,63
+5517,Beverages,Coffee,"Gourmet brewed coffee",21,63
+292,Beverages,Coffee,"Gourmet brewed coffee",21,63
+5317,Beverages,Coffee,"Gourmet brewed coffee",21,46.2
+279,Beverages,Coffee,"Gourmet brewed coffee",21,46.2
+8441,Beverages,Coffee,"Gourmet brewed coffee",21,46.2
+5062,Beverages,Coffee,"Gourmet brewed coffee",21,46.2
+5026,Beverages,Coffee,"Gourmet brewed coffee",21,63
+26,Food,Bakery,Biscotti,21,73.5
+661,Food,Bakery,Biscotti,21,73.5
+687,Food,Bakery,Biscotti,21,73.5
+370,Food,Bakery,Biscotti,21,73.5
+8222,Food,Bakery,Biscotti,21,73.5
+420,Food,Bakery,Biscotti,21,73.5
+5592,Add-ons,Flavours,"Regular syrup",21,16.8
+5559,Beverages,Coffee,"Barista Espresso",21,63
+8310,Beverages,Coffee,"Gourmet brewed coffee",21,73.5
+738,Beverages,Coffee,"Gourmet brewed coffee",21,73.5
+5146,Beverages,Coffee,"Gourmet brewed coffee",21,73.5
+5192,Beverages,Coffee,"Gourmet brewed coffee",21,73.5
+8196,Beverages,Coffee,"Premium brewed coffee",21,51.45
+5271,Beverages,Coffee,"Premium brewed coffee",21,51.45
+8074,Beverages,Coffee,"Premium brewed coffee",21,65.1
+5698,Beverages,Coffee,"Premium brewed coffee",21,65.1
+5014,Beverages,Coffee,"Premium brewed coffee",21,65.1
+8359,Beverages,Coffee,"Premium brewed coffee",21,78.75
+5305,Beverages,Coffee,"Premium brewed coffee",21,78.75
+5072,Beverages,Coffee,"Premium brewed coffee",21,78.75
+8277,Beverages,Coffee,"Barista Espresso",21,63
+8147,Beverages,Coffee,"Barista Espresso",21,63
+5086,Beverages,Coffee,"Barista Espresso",21,63
+8461,Beverages,Coffee,"Barista Espresso",21,63
+8342,Beverages,Coffee,"Barista Espresso",21,63
+8100,Beverages,Coffee,"Barista Espresso",21,63
+5681,Beverages,Coffee,"Barista Espresso",21,63
+8013,Beverages,Coffee,"Barista Espresso",21,78.75
+5308,Beverages,Coffee,"Barista Espresso",21,78.75
+8400,Beverages,Coffee,"Barista Espresso",21,78.75
+8257,Beverages,Coffee,"Barista Espresso",21,78.75
+5647,Beverages,Coffee,"Barista Espresso",21,78.75
+8345,Beverages,Coffee,"Barista Espresso",21,78.75
+5364,Beverages,Coffee,"Barista Espresso",21,78.75
+94,Beverages,Coffee,"Barista Espresso",21,78.75
+8435,Beverages,Coffee,"Barista Espresso",21,89.25
+267,"Whole Bean/Teas","Coffee beans","Green beans",21,210
+5676,Beverages,Coffee,"Drip coffee",21,42
+8469,Beverages,Coffee,"Drip coffee",21,42
+5421,Beverages,Coffee,"Drip coffee",21,42
+8383,Beverages,Coffee,"Drip coffee",21,52.5
+227,Beverages,Coffee,"Drip coffee",21,52.5
+8363,Beverages,Coffee,"Drip coffee",21,63
+8412,Beverages,Coffee,"Organic brewed coffee",21,46.2
+58,Beverages,Coffee,"Organic brewed coffee",21,46.2
+5719,Beverages,Coffee,"Organic brewed coffee",21,46.2
+8201,Beverages,Coffee,"Organic brewed coffee",21,46.2
+8449,Beverages,Coffee,"Organic brewed coffee",21,63
+8276,Beverages,Coffee,"Organic brewed coffee",21,63
+5496,Beverages,Tea,"Brewed Chai tea",21,63
+5363,Beverages,Tea,"Brewed Chai tea",21,63
+5224,Beverages,Tea,"Brewed Chai tea",21,63
+8313,Beverages,Tea,"Brewed Chai tea",21,52.5
+5425,Beverages,Tea,"Brewed Chai tea",21,52.5
+5433,Beverages,Tea,"Brewed Chai tea",21,52.5
+446,Beverages,Tea,"Brewed Chai tea",21,84
+368,Beverages,Tea,"Brewed Chai tea",21,84
+8296,Beverages,Tea,"Brewed Chai tea",21,84
+8394,Beverages,Tea,"Brewed Chai tea",21,84
+8164,Beverages,Tea,"Brewed Chai tea",21,84
+5253,Beverages,Tea,"Brewed Chai tea",21,84
+40,Beverages,Tea,"Brewed Chai tea",21,53.55
+5022,Beverages,Tea,"Brewed Chai tea",21,53.55
+5743,Beverages,Tea,"Brewed Chai tea",21,53.55
+536,Beverages,Tea,"Brewed Chai tea",21,53.55
+5318,Beverages,Tea,"Brewed Chai tea",21,53.55
+325,Beverages,Tea,"Brewed Chai tea",21,65.1
+8036,Beverages,Tea,"Brewed Chai tea",21,65.1
+8101,Beverages,Tea,"Brewed Chai tea",21,65.1
+8036,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+352,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+8176,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+5722,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+5068,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+5678,Beverages,"Drinking Chocolate","Hot chocolate",21,73.5
+8194,Beverages,"Drinking Chocolate","Hot chocolate",21,94.5
+5225,Beverages,"Drinking Chocolate","Hot chocolate",21,94.5
+5315,Beverages,"Drinking Chocolate","Hot chocolate",21,94.5
+5881,Beverages,"Drinking Chocolate","Hot chocolate",21,94.5
+5528,Beverages,"Drinking Chocolate","Hot chocolate",21,78.75
+82,Beverages,"Drinking Chocolate","Hot chocolate",21,78.75
+558,Beverages,"Drinking Chocolate","Hot chocolate",21,78.75
+5487,Beverages,"Drinking Chocolate","Hot chocolate",21,99.75
+8481,Beverages,"Drinking Chocolate","Hot chocolate",21,99.75
+5769,Beverages,"Drinking Chocolate","Hot chocolate",21,99.75
+8350,Add-ons,Flavours,"Regular syrup",21,16.8
+5918,Add-ons,Flavours,"Regular syrup",21,16.8
+5376,Add-ons,Flavours,"Regular syrup",21,16.8
+502,Add-ons,Flavours,"Sugar free syrup",21,16.8
+8072,Add-ons,Flavours,"Sugar free syrup",21,16.8
+5550,Food,Bakery,Pastry,21,73.5
+5204,Food,Bakery,Scone,21,68.25
+8196,Food,Bakery,Scone,21,68.25
+8064,Food,Bakery,Scone,21,68.25
+11,Food,Bakery,Pastry,21,78.75
+8327,Food,Bakery,Pastry,21,78.75
+525,Food,Bakery,Pastry,21,78.75
+5083,Food,Bakery,Pastry,21,78.75
+8278,Beverages,Tea,"Brewed Green tea",21,52.5
+5632,Beverages,Tea,"Brewed Green tea",21,52.5
+5242,Beverages,Tea,"Brewed Green tea",21,52.5
+5450,Beverages,Tea,"Brewed Green tea",21,52.5
+8194,Beverages,Tea,"Brewed Green tea",21,63
+24,Beverages,Tea,"Brewed Green tea",21,63
+5530,Beverages,Tea,"Brewed Green tea",21,63
+5267,Beverages,Tea,"Brewed Black tea",21,52.5
+591,Beverages,Tea,"Brewed Black tea",21,52.5
+8225,Beverages,Tea,"Brewed Black tea",21,52.5
+5045,Beverages,Tea,"Brewed Black tea",21,52.5
+5336,Beverages,Tea,"Brewed Black tea",21,52.5
+157,Beverages,Tea,"Brewed Black tea",21,63
+8101,Beverages,Tea,"Brewed Black tea",21,63
+8242,Beverages,Tea,"Brewed Black tea",21,63
+5815,Beverages,Tea,"Brewed Black tea",21,63
+8221,Beverages,Tea,"Brewed Black tea",21,52.5
+5497,Beverages,Tea,"Brewed Black tea",21,63
+8224,Beverages,Tea,"Brewed Black tea",21,63
+5738,Beverages,Tea,"Brewed Black tea",21,63
+439,Beverages,Tea,"Brewed Chai tea",21,52.5
+8139,Beverages,Tea,"Brewed Chai tea",21,52.5
+5771,Beverages,Tea,"Brewed Chai tea",21,52.5
+8375,Beverages,Coffee,"Barista Espresso",21,89.25
+661,Beverages,Coffee,"Barista Espresso",21,78.75
+8252,Beverages,Coffee,"Barista Espresso",21,89.25
+8019,Beverages,Coffee,"Barista Espresso",21,89.25
+448,Beverages,Tea,"Brewed herbal tea",21,52.5
+5347,Beverages,Tea,"Brewed herbal tea",21,52.5
+5265,Beverages,Tea,"Brewed herbal tea",21,52.5
+5167,Beverages,Tea,"Brewed herbal tea",21,52.5
+652,Beverages,Tea,"Brewed herbal tea",21,63
+8469,Beverages,Tea,"Brewed herbal tea",21,63
+382,Beverages,Tea,"Brewed herbal tea",21,63
+5074,Beverages,Tea,"Brewed herbal tea",21,63
+5028,Beverages,Tea,"Brewed herbal tea",21,63
+422,Beverages,Tea,"Brewed herbal tea",21,52.5
+5135,Beverages,Tea,"Brewed herbal tea",21,52.5
+5646,Beverages,Tea,"Brewed herbal tea",21,52.5
+411,Beverages,Tea,"Brewed herbal tea",21,63
+5174,Beverages,Tea,"Brewed herbal tea",21,63
+5824,Beverages,Tea,"Brewed herbal tea",21,63
+8453,Beverages,Coffee,"Barista Espresso",20,85
+8071,Beverages,Coffee,"Barista Espresso",20,85
+8437,Beverages,Coffee,"Barista Espresso",20,85
+517,Beverages,Coffee,"Barista Espresso",20,85
+120,Beverages,Coffee,"Barista Espresso",20,85
+208,Beverages,Coffee,"Barista Espresso",20,85
+5144,Beverages,Coffee,"Barista Espresso",20,85
+5179,Beverages,Coffee,"Barista Espresso",20,85
+8181,Beverages,Coffee,"Barista Espresso",20,85
+5941,Beverages,Coffee,"Barista Espresso",20,85
+8231,Beverages,Coffee,"Barista Espresso",20,85
+214,Beverages,Coffee,"Barista Espresso",20,85
+8438,Beverages,Coffee,"Barista Espresso",20,85
+164,Beverages,Coffee,"Barista Espresso",20,85
+8087,Beverages,Coffee,"Barista Espresso",20,75
+5201,Beverages,Coffee,"Barista Espresso",20,75
+5687,Beverages,Coffee,"Barista Espresso",20,75
+529,Beverages,Coffee,"Barista Espresso",20,75
+5740,Beverages,Coffee,"Barista Espresso",20,75
+8004,Beverages,Coffee,"Barista Espresso",20,75
+5669,Beverages,Coffee,"Barista Espresso",20,75
+5558,Beverages,Coffee,"Barista Espresso",20,75
+5590,Beverages,Coffee,"Barista Espresso",20,75
+403,Beverages,Coffee,"Barista Espresso",20,75
+398,Beverages,Coffee,"Barista Espresso",20,85
+505,Beverages,Coffee,"Barista Espresso",20,85
+8271,Beverages,Coffee,"Barista Espresso",20,85
+8122,Beverages,Coffee,"Barista Espresso",20,85
+8023,Beverages,Coffee,"Barista Espresso",20,85
+68,Beverages,Coffee,"Barista Espresso",20,85
+5853,Beverages,Coffee,"Barista Espresso",20,85
+5705,Beverages,Coffee,"Barista Espresso",20,85
+585,Beverages,Coffee,"Barista Espresso",20,85
+274,Beverages,Coffee,"Barista Espresso",20,85
+5049,Beverages,Coffee,"Barista Espresso",20,85
+5054,Beverages,Coffee,"Barista Espresso",20,85
+5845,Beverages,Coffee,"Barista Espresso",20,85
+8052,Beverages,Coffee,"Barista Espresso",20,85
+5416,Beverages,Coffee,"Barista Espresso",20,85
+8015,Beverages,Coffee,"Barista Espresso",20,85
+5002,Beverages,Coffee,"Barista Espresso",20,85
+21,Beverages,Coffee,"Barista Espresso",20,85
+239,Beverages,Coffee,"Barista Espresso",20,85
+5467,Beverages,Coffee,"Barista Espresso",20,85
+724,Beverages,Coffee,"Barista Espresso",20,85
+354,Beverages,Coffee,"Barista Espresso",20,85
+5916,Beverages,Coffee,"Barista Espresso",20,85
+337,Beverages,Tea,"Brewed herbal tea",20,50
+8463,Beverages,Tea,"Brewed herbal tea",20,50
+5436,Beverages,Tea,"Brewed herbal tea",20,50
+8276,Beverages,Tea,"Brewed herbal tea",20,50
+5278,Beverages,Tea,"Brewed herbal tea",20,50
+391,Beverages,Tea,"Brewed herbal tea",20,50
+5498,Beverages,Tea,"Brewed herbal tea",20,50
+8339,Beverages,Tea,"Brewed herbal tea",20,50
+134,Beverages,Tea,"Brewed herbal tea",20,50
+203,Beverages,Tea,"Brewed herbal tea",20,50
+8258,Beverages,Tea,"Brewed herbal tea",20,50
+601,Beverages,Tea,"Brewed herbal tea",20,50
+8284,Beverages,Tea,"Brewed herbal tea",20,50
+403,Beverages,Tea,"Brewed herbal tea",20,50
+8324,Beverages,Tea,"Brewed herbal tea",20,50
+8451,Beverages,Tea,"Brewed herbal tea",20,50
+8047,Beverages,Tea,"Brewed herbal tea",20,50
+5743,Beverages,Tea,"Brewed herbal tea",20,50
+8081,Beverages,Tea,"Brewed herbal tea",20,50
+5449,Beverages,Tea,"Brewed herbal tea",20,50
+5940,Beverages,Tea,"Brewed herbal tea",20,50
+5467,Beverages,Tea,"Brewed herbal tea",20,50
+44,Beverages,Tea,"Brewed herbal tea",20,50
+136,Beverages,Tea,"Brewed herbal tea",20,50
+733,Beverages,Tea,"Brewed herbal tea",20,50
+5420,Beverages,Tea,"Brewed herbal tea",20,50
+666,Beverages,Tea,"Brewed herbal tea",20,50
+567,Beverages,Tea,"Brewed herbal tea",20,50
+5103,Beverages,Tea,"Brewed herbal tea",20,60
+8033,Beverages,Tea,"Brewed herbal tea",20,60
+8019,Beverages,Tea,"Brewed herbal tea",20,60
+687,Beverages,Tea,"Brewed herbal tea",20,60
+36,Beverages,Tea,"Brewed herbal tea",20,60
+293,Beverages,Tea,"Brewed herbal tea",20,60
+546,Beverages,Tea,"Brewed herbal tea",20,60
+8248,Beverages,Tea,"Brewed herbal tea",20,60
+5260,Beverages,Tea,"Brewed herbal tea",20,60
+5748,Beverages,Tea,"Brewed herbal tea",20,60
+8322,Beverages,Tea,"Brewed herbal tea",20,60
+334,Beverages,Tea,"Brewed herbal tea",20,60
+428,Beverages,Tea,"Brewed herbal tea",20,60
+8118,Beverages,Tea,"Brewed herbal tea",20,60
+8179,Beverages,Tea,"Brewed herbal tea",20,60
+5003,Beverages,Tea,"Brewed herbal tea",20,60
+5140,Beverages,Tea,"Brewed herbal tea",20,50
